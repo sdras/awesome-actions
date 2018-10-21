@@ -27,6 +27,7 @@ With GitHub Actions you can automate your workflow from idea to production.
 ### Community Resources
 
 - [Deploy a Node.js App to Azure](https://github.com/sdras/example-azure-node)
+- [Using surge.sh, deploy branch specific storybooks as GitHub Deployments for every pull request](https://github.com/codeship/storybook-surge-github-action)
 
 ### Tutorials
 

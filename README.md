@@ -27,6 +27,7 @@ With GitHub Actions you can automate your workflow from idea to production.
 ### Community Resources
 
 - [Deploy a Node.js App to Azure](https://github.com/sdras/example-azure-node)
+- [Deploy to any Cloud or Kubernetes Using Pulumi](https://github.com/pulumi/actions)
 
 ### Tutorials
 

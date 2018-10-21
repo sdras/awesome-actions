@@ -30,6 +30,7 @@ With GitHub Actions you can automate your workflow from idea to production.
 - [Deploy a Node.js App to Azure](https://github.com/sdras/example-azure-node)
 - [Use HashiCorp's Terraform](https://github.com/hashicorp/terraform-github-actions)
 - [Trigger emails with release notes with SendGrid](https://github.com/bitoiu/release-notify-action)
+- [Deploy to Netlify](https://github.com/netlify/actions)
 
 ### Tutorials
 

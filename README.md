@@ -37,6 +37,7 @@ With GitHub Actions you can automate your workflow from idea to production.
 - [Deploy to any Cloud or Kubernetes Using Pulumi](https://github.com/pulumi/actions)
 - [Using surge.sh, deploy your branch specific storybook as a pull request deployment](https://github.com/codeship/storybook-surge-github-action)
 - [Report webpack stats to packtracker.io](https://github.com/packtracker/github-action)
+- [Deploy a Probot App using Actions](https://probot.github.io/docs/deployment/#github-actions)
 
 ### Tutorials
 

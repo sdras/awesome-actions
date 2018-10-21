@@ -27,6 +27,9 @@ With GitHub Actions you can automate your workflow from idea to production.
 ### Community Resources
 
 - [Deploy a Node.js App to Azure](https://github.com/sdras/example-azure-node)
+- [Home Assistant Command](https://github.com/maddox/actions/-home-assistant)
+- [Sleep](https://github.com/maddox/actions/sleep)
+- [Wait for 200](https://github.com/maddox/actions/wait-for-200)
 
 ### Tutorials
 

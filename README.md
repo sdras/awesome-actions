@@ -34,6 +34,7 @@ With GitHub Actions you can automate your workflow from idea to production.
 - [Home Assistant Command](https://github.com/maddox/actions/tree/master/home-assistant)
 - [Sleep](https://github.com/maddox/actions/tree/master/sleep)
 - [Wait for 200](https://github.com/maddox/actions/tree/master/wait-for-200)
+- [Deploy to any Cloud or Kubernetes Using Pulumi](https://github.com/pulumi/actions)
 
 ### Tutorials
 

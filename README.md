@@ -8,7 +8,7 @@
 
 ## Awesome Actions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome things related to [Github Actions](https://github.com/features/actions).
+> A curated list of awesome things related to [GitHub Actions](https://github.com/features/actions).
 
 With GitHub Actions you can automate your workflow from idea to production.
 
@@ -23,10 +23,13 @@ With GitHub Actions you can automate your workflow from idea to production.
 - [Official Site](https://github.com/features/actions)
 - [Documentation](https://developer.github.com/actions/)
 - [Official Actions Collection](https://github.com/actions)
+- [GitHub Blog Announcement](https://blog.github.com/2018-10-17-action-demos/)
 
 ### Community Resources
 
 - [Deploy a Node.js App to Azure](https://github.com/sdras/example-azure-node)
+- [Use HashiCorp's Terraform](https://github.com/hashicorp/terraform-github-actions)
+- [Trigger emails with release notes with SendGrid](https://github.com/bitoiu/release-notify-action)
 - [Deploy to Netlify](https://github.com/netlify/actions)
 
 ### Tutorials

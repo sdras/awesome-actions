@@ -27,6 +27,8 @@ With GitHub Actions you can automate your workflow from idea to production.
 ### Community Resources
 
 - [Deploy a Node.js App to Azure](https://github.com/sdras/example-azure-node)
+- [GitHub launches ‘Actions’ – a workflow automating tool for developers](https://www.techworm.net/programming/github-actions-workflow-automating-tool/)
+- [Take a look at newly launched GitHub Actions](https://www.pulse.ng/bi/tech/heres-a-look-at-github-actions-githubs-new-feature-thats-like-apple-shortcuts-but-for-code-msft-id8985536.html)
 
 ### Tutorials
 

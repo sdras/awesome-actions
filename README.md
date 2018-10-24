@@ -42,4 +42,4 @@ With GitHub Actions you can automate your workflow from idea to production.
 
 - [Introducing GitHub Actions](https://css-tricks.com/introducing-github-actions/)
 
-> Please don't hesitate to make a PR if you have more resources to share. Check out contributing.md for more information
+> Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information

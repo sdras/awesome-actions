@@ -23,6 +23,7 @@ With GitHub Actions you can automate your workflow from idea to production.
 - [Official Site](https://github.com/features/actions)
 - [Documentation](https://developer.github.com/actions/)
 - [Official Actions Collection](https://github.com/actions)
+- [Official Example Workflows Collection](https://github.com/search?q=topic%3Aexample+org%3Aactions)
 - [GitHub Blog Announcement](https://blog.github.com/2018-10-17-action-demos/)
 
 ### Community Resources

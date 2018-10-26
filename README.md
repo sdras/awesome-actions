@@ -38,6 +38,7 @@ With GitHub Actions you can automate your workflow from idea to production.
 - [Using surge.sh, deploy your branch specific storybook as a pull request deployment](https://github.com/codeship/storybook-surge-github-action)
 - [Report webpack stats to packtracker.io](https://github.com/packtracker/github-action)
 - [Deploy a Probot App using Actions](https://probot.github.io/docs/deployment/#github-actions)
+- [Deploy a playlist to Spotify](https://github.com/swinton/SpotHub)
 
 ### Tutorials
 

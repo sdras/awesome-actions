@@ -44,6 +44,7 @@ With GitHub Actions you can automate your workflow from idea to production.
 - [Cleanup branches after merge](https://github.com/jessfraz/branch-cleanup-action)
 - [Post gif on check fail](https://github.com/jessfraz/shaking-finger-action)
 - [Send an SMS from GitHub Actions using Nexmo](https://github.com/nexmo-community/nexmo-sms-action)
+- [Node.js Actions Toolkit](https://github.com/JasonEtco/actions-toolkit)
 
 ### Tutorials
 

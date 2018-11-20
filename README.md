@@ -40,6 +40,9 @@ With GitHub Actions you can automate your workflow from idea to production.
 - [Deploy a Probot App using Actions](https://probot.github.io/docs/deployment/#github-actions)
 - [Deploy a playlist to Spotify](https://github.com/swinton/SpotHub)
 - [Use a Jenkinsfile](https://github.com/jonico/jenkinsfile-runner-github-actions)
+- [NPM Audit](https://github.com/JasonEtco/npm-audit-fix-action)
+- [Cleanup branches after merge](https://github.com/jessfraz/branch-cleanup-action)
+- [Post gif on check fail](https://github.com/jessfraz/shaking-finger-action)
 - [Send an SMS from GitHub Actions using Nexmo](https://github.com/nexmo-community/nexmo-sms-action)
 
 ### Tutorials

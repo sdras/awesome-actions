@@ -10,7 +10,7 @@
 
 > A curated list of awesome things related to [GitHub Actions](https://github.com/features/actions).
 
-With GitHub Actions you can automate your workflow from idea to production.
+Actions are triggered by GitHub platform events directly in a repo and run on-demand workflows as autoscaled containers in response. With GitHub Actions you can automate your workflow from idea to production.
 
 ## Contents
 

@@ -10,7 +10,7 @@
 
 > A curated list of awesome things related to [GitHub Actions](https://github.com/features/actions).
 
-With GitHub Actions you can automate your workflow from idea to production.
+Actions are triggered by GitHub platform events directly in a repo and run on-demand workflows as autoscaled containers in response. With GitHub Actions you can automate your workflow from idea to production.
 
 ## Contents
 
@@ -37,9 +37,17 @@ With GitHub Actions you can automate your workflow from idea to production.
 - [Deploy to any Cloud or Kubernetes Using Pulumi](https://github.com/pulumi/actions)
 - [Using surge.sh, deploy your branch specific storybook as a pull request deployment](https://github.com/codeship/storybook-surge-github-action)
 - [Report webpack stats to packtracker.io](https://github.com/packtracker/github-action)
+- [Deploy a Probot App using Actions](https://probot.github.io/docs/deployment/#github-actions)
+- [Deploy a playlist to Spotify](https://github.com/swinton/SpotHub)
+- [Use a Jenkinsfile](https://github.com/jonico/jenkinsfile-runner-github-actions)
+- [NPM Audit](https://github.com/JasonEtco/npm-audit-fix-action)
+- [Cleanup branches after merge](https://github.com/jessfraz/branch-cleanup-action)
+- [Post gif on check fail](https://github.com/jessfraz/shaking-finger-action)
+- [Send an SMS from GitHub Actions using Nexmo](https://github.com/nexmo-community/nexmo-sms-action)
+- [Node.js Actions Toolkit](https://github.com/JasonEtco/actions-toolkit)
 
 ### Tutorials
 
 - [Introducing GitHub Actions](https://css-tricks.com/introducing-github-actions/)
 
-> Please don't hesitate to make a PR if you have more resources to share. Check out contributing.md for more information
+> Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information

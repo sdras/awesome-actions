@@ -51,3 +51,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Introducing GitHub Actions](https://css-tricks.com/introducing-github-actions/)
 
 > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

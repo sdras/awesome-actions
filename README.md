@@ -45,6 +45,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Post gif on check fail](https://github.com/jessfraz/shaking-finger-action)
 - [Send an SMS from GitHub Actions using Nexmo](https://github.com/nexmo-community/nexmo-sms-action)
 - [Node.js Actions Toolkit](https://github.com/JasonEtco/actions-toolkit)
+- [Deploy VS Code extensions with vsce](https://github.com/lannonbr/vsce-action)
 
 ### Tutorials
 

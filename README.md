@@ -45,6 +45,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Post gif on check fail](https://github.com/jessfraz/shaking-finger-action)
 - [Send an SMS from GitHub Actions using Nexmo](https://github.com/nexmo-community/nexmo-sms-action)
 - [Node.js Actions Toolkit](https://github.com/JasonEtco/actions-toolkit)
+- [Deploy a Node.js function to AWS Lambda and invoke it using the Serverless framework](https://github.com/swinton/serverless)
 
 ### Tutorials
 

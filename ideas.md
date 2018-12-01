@@ -2,7 +2,7 @@
 
 This is a list of ideas of actions and workflows that people would like to see one day.
 
-If you would like to contribute to this, feel free to add to the list:
+If you would like to contribute to this, First check the action exists first, but if it hasn't yet, feel free to add to the list:
 
 ## Ideas
 
@@ -10,7 +10,6 @@ If you would like to contribute to this, feel free to add to the list:
 - Twitter Action - Tweet out content
 - Iteration Manager - When issues are added to a milestone, add to an iteration plan issue in the repo automatically.
 - Issue Reproducer - Set up infrastructure to try reproducing code workflows to try verifying bugs
-- VSCE action - action to use vscode-vsce to automate deployment of VS Code extensions.
 - Image optimizer - When PRs are opened with static image assets, optimize them before merging
 - Puppeteer swarm - Spin up various instances Puppeteer with different viewports and take screenshots to see previews of websites
 - Lighthouse action - Setup Lighthouse tool to run website audits in CI (Not allow merges / deploys to production environments if lighthouse score drops)

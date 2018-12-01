@@ -2,7 +2,7 @@
 
 This is a list of ideas of actions and workflows that people would like to see one day.
 
-If you would like to contribute to this, First check the action exists first, but if it hasn't yet, feel free to add to the list:
+If you would like to contribute to this, please feel free to add something! We only ask that you first check to see if the action already exists before doing so.
 
 ## Ideas
 

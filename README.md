@@ -32,6 +32,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Trigger emails with release notes with SendGrid](https://github.com/bitoiu/release-notify-action)
 - [Deploy to Netlify](https://github.com/netlify/actions)
 - [Home Assistant Command](https://github.com/maddox/actions/tree/master/home-assistant)
+- [Confucious Wisdom (Pull Request Failure Message)](https://github.com/vsoch/confucious-actions)
 - [Sleep](https://github.com/maddox/actions/tree/master/sleep)
 - [Wait for 200](https://github.com/maddox/actions/tree/master/wait-for-200)
 - [Deploy to any Cloud or Kubernetes Using Pulumi](https://github.com/pulumi/actions)

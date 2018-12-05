@@ -47,6 +47,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Node.js Actions Toolkit](https://github.com/JasonEtco/actions-toolkit)
 - [Deploy a Node.js function to AWS Lambda and invoke it using the Serverless framework](https://github.com/swinton/serverless)
 - [Deploy VS Code extensions with vsce](https://github.com/lannonbr/vsce-action)
+- [Build a Jekyll site—with Custom Jekyll Plugins & Build Scripts—and deploy it back to the Gh-Pages Branch](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages)
 
 
 ### Tutorials

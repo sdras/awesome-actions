@@ -49,6 +49,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Deploy VS Code extensions with vsce](https://github.com/lannonbr/vsce-action)
 - [Build a Jekyll site—with Custom Jekyll Plugins & Build Scripts—and deploy it back to the Gh-Pages Branch](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages)
 - [Deploy a Cloudflare worker](https://github.com/cpilsworth/cloudflare-worker-action)
+- [GitHub Actions for Yarn](https://github.com/Borales/actions-yarn)
 
 
 ### Tutorials

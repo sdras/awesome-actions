@@ -50,6 +50,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Build a Jekyll site—with Custom Jekyll Plugins & Build Scripts—and deploy it back to the Gh-Pages Branch](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages)
 - [Deploy a Cloudflare worker](https://github.com/cpilsworth/cloudflare-worker-action)
 - [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action)
+- [GitHub Actions for Yarn](https://github.com/Borales/actions-yarn)
+
 
 ### Tutorials
 

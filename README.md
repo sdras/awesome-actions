@@ -8,9 +8,9 @@
 
 ## Awesome Actions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome things related to [Github Actions](https://github.com/features/actions).
+> A curated list of awesome things related to [GitHub Actions](https://github.com/features/actions).
 
-With GitHub Actions you can automate your workflow from idea to production.
+Actions are triggered by GitHub platform events directly in a repo and run on-demand workflows as autoscaled containers in response. With GitHub Actions you can automate your workflow from idea to production.
 
 ## Contents
 
@@ -23,15 +23,41 @@ With GitHub Actions you can automate your workflow from idea to production.
 - [Official Site](https://github.com/features/actions)
 - [Documentation](https://developer.github.com/actions/)
 - [Official Actions Collection](https://github.com/actions)
+- [GitHub Blog Announcement](https://blog.github.com/2018-10-17-action-demos/)
 
 ### Community Resources
 
 - [Deploy a Node.js App to Azure](https://github.com/sdras/example-azure-node)
-- [GitHub launches ‘Actions’ – a workflow automating tool for developers](https://www.techworm.net/programming/github-actions-workflow-automating-tool/)
-- [Take a look at newly launched GitHub Actions](https://www.pulse.ng/bi/tech/heres-a-look-at-github-actions-githubs-new-feature-thats-like-apple-shortcuts-but-for-code-msft-id8985536.html)
+- [Use HashiCorp's Terraform](https://github.com/hashicorp/terraform-github-actions)
+- [Trigger emails with release notes with SendGrid](https://github.com/bitoiu/release-notify-action)
+- [Deploy to Netlify](https://github.com/netlify/actions)
+- [Home Assistant Command](https://github.com/maddox/actions/tree/master/home-assistant)
+- [Sleep](https://github.com/maddox/actions/tree/master/sleep)
+- [Wait for 200](https://github.com/maddox/actions/tree/master/wait-for-200)
+- [Deploy to any Cloud or Kubernetes Using Pulumi](https://github.com/pulumi/actions)
+- [Using surge.sh, deploy your branch specific storybook as a pull request deployment](https://github.com/codeship/storybook-surge-github-action)
+- [Report webpack stats to packtracker.io](https://github.com/packtracker/github-action)
+- [Deploy a Probot App using Actions](https://probot.github.io/docs/deployment/#github-actions)
+- [Deploy a playlist to Spotify](https://github.com/swinton/SpotHub)
+- [Use a Jenkinsfile](https://github.com/jonico/jenkinsfile-runner-github-actions)
+- [NPM Audit](https://github.com/JasonEtco/npm-audit-fix-action)
+- [Cleanup branches after merge](https://github.com/jessfraz/branch-cleanup-action)
+- [Post gif on check fail](https://github.com/jessfraz/shaking-finger-action)
+- [Send an SMS from GitHub Actions using Nexmo](https://github.com/nexmo-community/nexmo-sms-action)
+- [Node.js Actions Toolkit](https://github.com/JasonEtco/actions-toolkit)
+- [Deploy a Node.js function to AWS Lambda and invoke it using the Serverless framework](https://github.com/swinton/serverless)
+- [Deploy VS Code extensions with vsce](https://github.com/lannonbr/vsce-action)
+- [Build a Jekyll site—with Custom Jekyll Plugins & Build Scripts—and deploy it back to the Gh-Pages Branch](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages)
+- [Deploy a Cloudflare worker](https://github.com/cpilsworth/cloudflare-worker-action)
+- [Cleanup GitHub Branch Action](https://github.com/jessfraz/branch-cleanup-action)
+
 
 ### Tutorials
 
 - [Introducing GitHub Actions](https://css-tricks.com/introducing-github-actions/)
 
-> Please don't hesitate to make a PR if you have more resources to share. Check out contributing.md for more information
+> Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information
+
+## License
+
+[![Creative Commons License](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

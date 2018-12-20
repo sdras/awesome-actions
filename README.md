@@ -51,6 +51,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Deploy a Cloudflare worker](https://github.com/cpilsworth/cloudflare-worker-action)
 - [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action)
 - [GitHub Actions for Yarn](https://github.com/Borales/actions-yarn)
+- [Snyk CLI Test Action](https://github.com/clarkio/snyk-cli-action)
 
 
 ### Tutorials

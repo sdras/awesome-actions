@@ -44,12 +44,16 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Cleanup branches after merge](https://github.com/jessfraz/branch-cleanup-action)
 - [Post gif on check fail](https://github.com/jessfraz/shaking-finger-action)
 - [Send an SMS from GitHub Actions using Nexmo](https://github.com/nexmo-community/nexmo-sms-action)
+- [Send a Slack message](https://github.com/apex/actions/tree/master/slack)
 - [Node.js Actions Toolkit](https://github.com/JasonEtco/actions-toolkit)
 - [Deploy a Node.js function to AWS Lambda and invoke it using the Serverless framework](https://github.com/swinton/serverless)
 - [Deploy VS Code extensions with vsce](https://github.com/lannonbr/vsce-action)
 - [Build a Jekyll site—with Custom Jekyll Plugins & Build Scripts—and deploy it back to the Gh-Pages Branch](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages)
 - [Deploy a Cloudflare worker](https://github.com/cpilsworth/cloudflare-worker-action)
 - [Execute Gradle task](https://github.com/MrRamych/gradle-actions)
+- [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action)
+- [GitHub Actions for Yarn](https://github.com/Borales/actions-yarn)
+- [Snyk CLI Test Action](https://github.com/clarkio/snyk-cli-action)
 
 
 ### Tutorials

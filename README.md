@@ -53,6 +53,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action)
 - [GitHub Actions for Yarn](https://github.com/Borales/actions-yarn)
 - [Snyk CLI Test Action](https://github.com/clarkio/snyk-cli-action)
+- [JS Build Actions](https://github.com/elstudio/actions-js-build) Run Grunt or Gulp build tasks and commit file changes
 
 
 ### Tutorials

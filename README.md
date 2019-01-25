@@ -36,7 +36,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Wait for 200](https://github.com/maddox/actions/tree/master/wait-for-200)
 - [Deploy to any Cloud or Kubernetes Using Pulumi](https://github.com/pulumi/actions)
 - [Using surge.sh, deploy your branch specific storybook as a pull request deployment](https://github.com/codeship/storybook-surge-github-action)
-- [Post a Slack message as a bot](https://github.com/pullreminders/slack-github-action)
+- [Post a Slack message as a bot](https://github.com/pullreminders/slack-action)
 - [Report webpack stats to packtracker.io](https://github.com/packtracker/github-action)
 - [Deploy a Probot App using Actions](https://probot.github.io/docs/deployment/#github-actions)
 - [Deploy a playlist to Spotify](https://github.com/swinton/SpotHub)

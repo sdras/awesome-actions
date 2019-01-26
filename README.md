@@ -27,6 +27,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 
 ### Community Resources
 
+- [Set pull request reviewers based on assignees](https://github.com/pullreminders/assignee-to-reviewer-action)
 - [Deploy a Node.js App to Azure](https://github.com/sdras/example-azure-node)
 - [Use HashiCorp's Terraform](https://github.com/hashicorp/terraform-github-actions)
 - [Trigger emails with release notes with SendGrid](https://github.com/bitoiu/release-notify-action)
@@ -54,6 +55,10 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [GitHub Actions for Yarn](https://github.com/Borales/actions-yarn)
 - [Snyk CLI Test Action](https://github.com/clarkio/snyk-cli-action)
 - [Configure a DNS Record on Cloudflare](https://github.com/xorilog/cloudflare-dns-action)
+- [GitHub Action for Gatsby CLI](https://github.com/jzweifel/gatsby-cli-github-action)
+- [Send a Discord notification](https://github.com/Ilshidur/action-discord)
+- [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
+
 
 ### Tutorials
 

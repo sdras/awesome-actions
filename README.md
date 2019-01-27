@@ -27,6 +27,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 
 ### Community Resources
 
+- [Set pull request reviewers based on assignees](https://github.com/pullreminders/assignee-to-reviewer-action)
 - [Deploy a Node.js App to Azure](https://github.com/sdras/example-azure-node)
 - [Use HashiCorp's Terraform](https://github.com/hashicorp/terraform-github-actions)
 - [Trigger emails with release notes with SendGrid](https://github.com/bitoiu/release-notify-action)
@@ -34,6 +35,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Home Assistant Command](https://github.com/maddox/actions/tree/master/home-assistant)
 - [Sleep](https://github.com/maddox/actions/tree/master/sleep)
 - [Wait for 200](https://github.com/maddox/actions/tree/master/wait-for-200)
+- [Firebase](https://github.com/natemoo-re/action-firebase)
+- [SSH](https://github.com/maddox/actions/tree/master/ssh)
 - [Deploy to any Cloud or Kubernetes Using Pulumi](https://github.com/pulumi/actions)
 - [Using surge.sh, deploy your branch specific storybook as a pull request deployment](https://github.com/codeship/storybook-surge-github-action)
 - [Report webpack stats to packtracker.io](https://github.com/packtracker/github-action)
@@ -54,11 +57,16 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [GitHub Actions for Yarn](https://github.com/Borales/actions-yarn)
 - [Snyk CLI Test Action](https://github.com/clarkio/snyk-cli-action)
 - [GitHub Actions for Golang](https://github.com/cedrickring/golang-action)
+- [Configure a DNS Record on Cloudflare](https://github.com/xorilog/cloudflare-dns-action)
+- [GitHub Action for Gatsby CLI](https://github.com/jzweifel/gatsby-cli-github-action)
+- [Send a Discord notification](https://github.com/Ilshidur/action-discord)
+- [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 
 
 ### Tutorials
 
 - [Introducing GitHub Actions](https://css-tricks.com/introducing-github-actions/)
+- [Deploying to Firebase Hosting with GitHub Actions](https://natemoo.re/posts/action-firebase)
 
 > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information
 

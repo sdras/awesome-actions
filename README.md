@@ -62,6 +62,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [GitHub Action for Gatsby CLI](https://github.com/jzweifel/gatsby-cli-github-action)
 - [Send a Discord notification](https://github.com/Ilshidur/action-discord)
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
+- [Lint a Dockerfile (using replicatedhq/dockerfilelint)](https://github.com/jwr0/dockerfile-linter-action)
 
 
 ### Tutorials

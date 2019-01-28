@@ -60,6 +60,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action)
 - [GitHub Actions for Yarn](https://github.com/Borales/actions-yarn)
 - [Snyk CLI Test Action](https://github.com/clarkio/snyk-cli-action)
+- [Deploy a Zola site to GitHub Pages](https://github.com/shalzz/zola-deploy-action)
 - [General purpose HTTP client for Actions, wrapping HTTPie](https://github.com/swinton/httpie-action)
 - [Run GitHub Actions Locally](https://github.com/nektos/act)
 - [PHP Code fixer Action](https://github.com/OskarStark/php-cs-fixer-ga)

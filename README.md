@@ -59,6 +59,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action)
 - [GitHub Actions for Yarn](https://github.com/Borales/actions-yarn)
 - [Snyk CLI Test Action](https://github.com/clarkio/snyk-cli-action)
+- [Ember CLI Actions](https://github.com/NuckChorris/ember-cli-actions)
 - [Runs Hadolint against a Dockerfile within a repository](https://github.com/burdzwastaken/hadolint-action)
 - [Send email on failed GitHub Checks](https://github.com/cirrus-actions/email)
 - [Automatically rebase a PR](https://github.com/cirrus-actions/rebase)

@@ -58,12 +58,12 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action)
 - [GitHub Actions for Yarn](https://github.com/Borales/actions-yarn)
 - [Snyk CLI Test Action](https://github.com/clarkio/snyk-cli-action)
+- [Update Twitter status](https://github.com/xorilog/twitter-action)
 - [GitHub Actions for Golang](https://github.com/cedrickring/golang-action)
 - [Configure a DNS Record on Cloudflare](https://github.com/xorilog/cloudflare-dns-action)
 - [GitHub Action for Gatsby CLI](https://github.com/jzweifel/gatsby-cli-github-action)
 - [Send a Discord notification](https://github.com/Ilshidur/action-discord)
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
-
 
 ### Tutorials
 

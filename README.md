@@ -76,6 +76,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 
 - [Introducing GitHub Actions](https://css-tricks.com/introducing-github-actions/)
 - [Deploying to Firebase Hosting with GitHub Actions](https://natemoo.re/posts/action-firebase)
+- [Building GitHub Actions in Node.js](https://jasonet.co/posts/building-github-actions-in-node/)
 
 > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information
 

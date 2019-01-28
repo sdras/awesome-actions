@@ -77,7 +77,9 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [GitHub Action for Gatsby CLI](https://github.com/jzweifel/gatsby-cli-github-action)
 - [Send a Discord notification](https://github.com/Ilshidur/action-discord)
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
+- [Android Build and Emulator Actions](https://github.com/vgaidarji/android-github-actions)
 - [Build Hugo static content site and publish it to gh-pages branch](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages)
+
 
 ### Collection of actions
 - [Many linters and autofixers for various languages../](https://github.com/bltavares/actions)

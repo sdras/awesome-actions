@@ -58,6 +58,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action)
 - [GitHub Actions for Yarn](https://github.com/Borales/actions-yarn)
 - [Snyk CLI Test Action](https://github.com/clarkio/snyk-cli-action)
+- [Send email on failed GitHub Checks](https://github.com/cirrus-actions/email)
+- [Automatically rebase a PR](https://github.com/cirrus-actions/rebase)
 - [Run psake tasks](https://github.com/devblackops/psake-github-actions)
 - [Update Twitter status](https://github.com/xorilog/twitter-action)
 - [GitHub Actions for Golang](https://github.com/cedrickring/golang-action)
@@ -66,6 +68,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Send a Discord notification](https://github.com/Ilshidur/action-discord)
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [Build Hugo static content site and publish it to gh-pages branch](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages)
+
 
 ### Tutorials
 

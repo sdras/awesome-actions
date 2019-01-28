@@ -60,6 +60,16 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action)
 - [GitHub Actions for Yarn](https://github.com/Borales/actions-yarn)
 - [Snyk CLI Test Action](https://github.com/clarkio/snyk-cli-action)
+- [Deploy a Zola site to GitHub Pages](https://github.com/shalzz/zola-deploy-action)
+- [General purpose HTTP client for Actions, wrapping HTTPie](https://github.com/swinton/httpie-action)
+- [Run GitHub Actions Locally](https://github.com/nektos/act)
+- [PHP Code fixer Action](https://github.com/OskarStark/php-cs-fixer-ga)
+- [PHPStan Static code analyzer Action](https://github.com/OskarStark/phpstan-ga)
+- [PHPQA toolsuite Action](https://github.com/mickaelandrieu/phpqa-ga)
+- [PHP Psalm Static code analyzer Action](https://github.com/mickaelandrieu/psalm-ga)
+- [Github Action for Firebase](https://github.com/w9jds/firebase-action)
+- [Create Release Archive](https://github.com/lubusIN/actions/tree/master/archive)
+- [Publish WordPress Plugin](https://github.com/lubusIN/actions/tree/master/wordpress)
 - [Run Cake tasks](https://github.com/gep13/cake-actions)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
 - [JS Build Actions](https://github.com/elstudio/actions-js-build) Run Grunt or Gulp build tasks and commit file changes
@@ -74,9 +84,15 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [GitHub Action for Gatsby CLI](https://github.com/jzweifel/gatsby-cli-github-action)
 - [Send a Discord notification](https://github.com/Ilshidur/action-discord)
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
+- [Lint a Dockerfile (using replicatedhq/dockerfilelint)](https://github.com/jwr0/dockerfile-linter-action)
+- [Android Build and Emulator Actions](https://github.com/vgaidarji/android-github-actions)
 - [Build Hugo static content site and publish it to gh-pages branch](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages)
 - [Deploy via rsync over ssh](https://github.com/maxheld83/ghaction-rsync)
+- [Test your Actions Locally](https://github.com/tschoffelen/gha)
 
+
+### Collection of actions
+- [Many linters and autofixers for various languages../](https://github.com/bltavares/actions)
 
 ### Tutorials
 

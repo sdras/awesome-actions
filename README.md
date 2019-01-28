@@ -75,6 +75,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Send a Discord notification](https://github.com/Ilshidur/action-discord)
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [Build Hugo static content site and publish it to gh-pages branch](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages)
+- [Deploy via rsync over ssh](https://github.com/maxheld83/ghaction-rsync)
 
 
 ### Tutorials

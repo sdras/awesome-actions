@@ -60,6 +60,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action)
 - [GitHub Actions for Yarn](https://github.com/Borales/actions-yarn)
 - [Snyk CLI Test Action](https://github.com/clarkio/snyk-cli-action)
+- [Run GitHub Actions Locally](https://github.com/nektos/act)
 - [PHP Code fixer Action](https://github.com/OskarStark/php-cs-fixer-ga)
 - [PHPStan Static code analyzer Action](https://github.com/OskarStark/phpstan-ga)
 - [PHPQA toolsuite Action](https://github.com/mickaelandrieu/phpqa-ga)

@@ -60,6 +60,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action)
 - [GitHub Actions for Yarn](https://github.com/Borales/actions-yarn)
 - [Snyk CLI Test Action](https://github.com/clarkio/snyk-cli-action)
+- [Run Cake tasks](https://github.com/gep13/cake-actions)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
 - [JS Build Actions](https://github.com/elstudio/actions-js-build) Run Grunt or Gulp build tasks and commit file changes
 - [Ember CLI Actions](https://github.com/NuckChorris/ember-cli-actions)

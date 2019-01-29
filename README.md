@@ -92,6 +92,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Test your Actions Locally](https://github.com/tschoffelen/gha)
 - [Deploy your DNS configuration using DNS Control](https://github.com/koenrh/dnscontrol-action)
 - [Deploy assets to GitHub pages](https://github.com/maxheld83/ghpages) (no building, just deploying)
+- [Create Pull Request when branch is pushed](https://github.com/repetitive/actions/tree/master/auto-pr)
+- [Evaluate Clojure in the issue comment](https://github.com/repetitive/actions/tree/master/clojure)
 - [Build Go apps using GoCenter](https://github.com/retgits/actions/tree/master/gocenter)
 - [GitHub Action for JFrog CLI](https://github.com/retgits/actions/tree/master/jfrog-cli)
 

@@ -89,6 +89,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Build Hugo static content site and publish it to gh-pages branch](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages)
 - [Deploy via rsync over ssh](https://github.com/maxheld83/ghaction-rsync)
 - [Test your Actions Locally](https://github.com/tschoffelen/gha)
+- [Deploy assets to GitHub pages](https://github.com/maxheld83/ghaction-ghpages) (no building, just deploying)
 
 
 ### Collection of actions

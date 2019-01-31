@@ -87,7 +87,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Lint a Dockerfile (using replicatedhq/dockerfilelint)](https://github.com/jwr0/dockerfile-linter-action)
 - [Android Build and Emulator Actions](https://github.com/vgaidarji/android-github-actions)
 - [Build Hugo static content site and publish it to gh-pages branch](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages)
-- [Deploy via rsync over ssh](https://github.com/maxheld83/ghaction-rsync)
+- [Deploy via rsync over ssh](https://github.com/maxheld83/rsync)
 - [Test your Actions Locally](https://github.com/tschoffelen/gha)
 
 

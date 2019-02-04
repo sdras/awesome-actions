@@ -49,6 +49,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [Run psake tasks](https://github.com/devblackops/psake-github-actions)
  - [SSH](https://github.com/maddox/actions/tree/master/ssh)
  - [General purpose HTTP client for Actions, wrapping HTTPie](https://github.com/swinton/httpie-action)
+ - [Build Go apps using GoCenter](https://github.com/retgits/actions/tree/master/gocenter)
 
 #### Testing and Linting
 
@@ -63,13 +64,17 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
  - [Snyk CLI Test Action](https://github.com/clarkio/snyk-cli-action)
  - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
+ - [Run web performance audits using Sitespeed.io](https://github.com/sitespeedio/sitespeed.io/tree/master/docker/github-actions)
 
 #### Pull Requests
 
  - [Set pull request reviewers based on assignees](https://github.com/pullreminders/assignee-to-reviewer-action)
+ - [Open or update pull request on branch push (with branch selection)](https://github.com/vsoch/pull-request-action)
  - [Post gif on check fail](https://github.com/jessfraz/shaking-finger-action)
  - [Cleanup branches after merge](https://github.com/jessfraz/branch-cleanup-action)
  - [Automatically rebase a PR](https://github.com/cirrus-actions/rebase)
+ - [Evaluate Clojure in the issue comment](https://github.com/repetitive/actions/tree/master/clojure)
+ - [Create Pull Request when branch is pushed](https://github.com/repetitive/actions/tree/master/auto-pull-request)
 
 
 #### Github Pages
@@ -105,6 +110,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [Deploy via rsync over ssh](https://github.com/maxheld83/ghaction-rsync)
  - [Deploy to any Cloud or Kubernetes Using Pulumi](https://github.com/pulumi/actions)
  - [Deploy a Cloudflare worker](https://github.com/cpilsworth/cloudflare-worker-action)
+ - [Deploy your DNS configuration using DNS Control](https://github.com/koenrh/dnscontrol-action)
+ - [Deploy assets to GitHub pages](https://github.com/maxheld83/ghpages) (no building, just deploying)
  - [Using surge.sh, deploy your branch specific storybook as a pull request deployment](https://github.com/codeship/storybook-surge-github-action)
  - [Create Release Archive](https://github.com/lubusIN/actions/tree/master/archive)
  - [Publish WordPress Plugin](https://github.com/lubusIN/actions/tree/master/wordpress)
@@ -115,6 +122,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [Configure a DNS Record on Cloudflare](https://github.com/xorilog/cloudflare-dns-action)
  - [Firebase](https://github.com/natemoo-re/action-firebase)
  - [Github Action for Firebase](https://github.com/w9jds/firebase-action)
+ - [GitHub Action for JFrog CLI](https://github.com/retgits/actions/tree/master/jfrog-cli)
 
 #### Frontend Tools
 
@@ -132,7 +140,9 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [Introducing GitHub Actions](https://css-tricks.com/introducing-github-actions/)
  - [Deploying to Firebase Hosting with GitHub Actions](https://natemoo.re/posts/action-firebase)
  - [Building GitHub Actions in Node.js](https://jasonet.co/posts/building-github-actions-in-node/)
-
+ - [GitHub Actions on Android project](http://vgaidarji.me/blog/2019/01/27/github-actions)
+ 
+ 
 > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information
 
 ## License

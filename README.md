@@ -27,7 +27,6 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 
 ### Community Resources
 
-- [Label pull request once it has specified number of approvals](https://github.com/pullreminders/label-when-approved-action)
 - [Set pull request reviewers based on assignees](https://github.com/pullreminders/assignee-to-reviewer-action)
 - [Deploy a Node.js App to Azure](https://github.com/sdras/example-azure-node)
 - [Use HashiCorp's Terraform](https://github.com/hashicorp/terraform-github-actions)
@@ -93,7 +92,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Test your Actions Locally](https://github.com/tschoffelen/gha)
 - [Deploy your DNS configuration using DNS Control](https://github.com/koenrh/dnscontrol-action)
 - [Deploy assets to GitHub pages](https://github.com/maxheld83/ghpages) (no building, just deploying)
-
+- [Label pull request once it has specified number of approvals](https://github.com/pullreminders/label-when-approved-action)
 
 ### Collection of actions
 - [Many linters and autofixers for various languages../](https://github.com/bltavares/actions)

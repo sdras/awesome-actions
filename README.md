@@ -92,6 +92,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Test your Actions Locally](https://github.com/tschoffelen/gha)
 - [Deploy your DNS configuration using DNS Control](https://github.com/koenrh/dnscontrol-action)
 - [Deploy assets to GitHub pages](https://github.com/maxheld83/ghpages) (no building, just deploying)
+- [Build Go apps using GoCenter](https://github.com/retgits/actions/tree/master/gocenter)
+- [GitHub Action for JFrog CLI](https://github.com/retgits/actions/tree/master/jfrog-cli)
 
 
 ### Collection of actions

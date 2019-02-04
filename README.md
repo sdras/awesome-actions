@@ -27,6 +27,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 
 ### Community Resources
 
+- [Label pull request once it has specified number of approvals](https://github.com/pullreminders/label-when-approved-action)
 - [Set pull request reviewers based on assignees](https://github.com/pullreminders/assignee-to-reviewer-action)
 - [Deploy a Node.js App to Azure](https://github.com/sdras/example-azure-node)
 - [Use HashiCorp's Terraform](https://github.com/hashicorp/terraform-github-actions)

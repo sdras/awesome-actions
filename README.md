@@ -40,6 +40,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [GitHub Actions for Yarn](https://github.com/Borales/actions-yarn)
  - [GitHub Actions for Golang](https://github.com/cedrickring/golang-action)
  - [Android Build and Emulator Actions](https://github.com/vgaidarji/android-github-actions)
+ - [GitHub Actions for R and accompanying #rstats package](http://maxheld.de/ghactions/)
 
 #### Utility
 

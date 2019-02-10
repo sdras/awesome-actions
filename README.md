@@ -85,6 +85,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [Build Hugo static content site and publish it to gh-pages branch](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages)
  - [Build a Jekyll site—with Custom Jekyll Plugins & Build Scripts—and deploy it back to the Gh-Pages Branch](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages)
  - [Google Dataset Search Metadata](https://www.github.com/openschemas/extractors/): and other schema.org extractors to make datasets discoverable from GitHub pages.
+ - [Deploy assets to GitHub pages](https://github.com/maxheld83/ghpages) (no building, just deploying)
 
 #### Notifications and Messages
 
@@ -112,7 +113,6 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [Deploy to any Cloud or Kubernetes Using Pulumi](https://github.com/pulumi/actions)
  - [Deploy a Cloudflare worker](https://github.com/cpilsworth/cloudflare-worker-action)
  - [Deploy your DNS configuration using DNS Control](https://github.com/koenrh/dnscontrol-action)
- - [Deploy assets to GitHub pages](https://github.com/maxheld83/ghpages) (no building, just deploying)
  - [Using surge.sh, deploy your branch specific storybook as a pull request deployment](https://github.com/codeship/storybook-surge-github-action)
  - [Create Release Archive](https://github.com/lubusIN/actions/tree/master/archive)
  - [Publish WordPress Plugin](https://github.com/lubusIN/actions/tree/master/wordpress)

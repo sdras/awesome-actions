@@ -96,6 +96,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Evaluate Clojure in the issue comment](https://github.com/repetitive/actions/tree/master/clojure)
 - [Build Go apps using GoCenter](https://github.com/retgits/actions/tree/master/gocenter)
 - [GitHub Action for JFrog CLI](https://github.com/retgits/actions/tree/master/jfrog-cli)
+- [GitHub Actions for R and accompanying #rstats package](http://maxheld.de/ghactions/)
 
 
 ### Collection of actions

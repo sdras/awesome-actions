@@ -76,7 +76,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [Automatically rebase a PR](https://github.com/cirrus-actions/rebase)
  - [Evaluate Clojure in the issue comment](https://github.com/repetitive/actions/tree/master/clojure)
  - [Create Pull Request when branch is pushed](https://github.com/repetitive/actions/tree/master/auto-pull-request)
-
+ - [Label pull request once it has a specified number of approvals](https://github.com/pullreminders/label-when-approved-action)
 
 #### Github Pages
 

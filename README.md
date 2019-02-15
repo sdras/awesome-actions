@@ -76,8 +76,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [Automatically rebase a PR](https://github.com/cirrus-actions/rebase)
  - [Evaluate Clojure in the issue comment](https://github.com/repetitive/actions/tree/master/clojure)
  - [Create Pull Request when branch is pushed](https://github.com/repetitive/actions/tree/master/auto-pull-request)
+ - [Label pull request once it has a specified number of approvals](https://github.com/pullreminders/label-when-approved-action)
  - [Add labels to Pull Request based on matched file patterns](https://github.com/banyan/auto-label)
-
 
 #### Github Pages
 
@@ -117,6 +117,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [Using surge.sh, deploy your branch specific storybook as a pull request deployment](https://github.com/codeship/storybook-surge-github-action)
  - [Create Release Archive](https://github.com/lubusIN/actions/tree/master/archive)
  - [Publish WordPress Plugin](https://github.com/lubusIN/actions/tree/master/wordpress)
+ - [Deploy a Theme to Shopify](https://github.com/pgrimaud/actions/tree/master/shopify)
 
 #### External Services
 

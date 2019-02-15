@@ -71,6 +71,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Gate actions by filtering if files matching a pattern have been touched](https://github.com/cds-snc/github-actions/tree/master/touched)
 - [Scan for secrets in your source code](https://github.com/cds-snc/github-actions/tree/master/seekret)
 - [Review the licenses of your node dependencies](https://github.com/cds-snc/github-actions/tree/master/node-license-checker)
+- [A GitHub Action to check your project's dependencies](https://github.com/iheanyi/licensed-action)
+
 
 ### Testing and Linting
 

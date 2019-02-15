@@ -34,7 +34,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 
 #### Collection of Actions
 
- - [Many linters and autofixers for various languages../](https://github.com/bltavares/actions)
+ - [Many linters and autofixers for various languages](https://github.com/bltavares/actions)
  - [Node.js Actions Toolkit](https://github.com/JasonEtco/actions-toolkit)
  - [Use HashiCorp's Terraform](https://github.com/hashicorp/terraform-github-actions)
  - [GitHub Actions for Yarn](https://github.com/Borales/actions-yarn)

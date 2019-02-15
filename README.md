@@ -79,7 +79,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [Label pull request once it has a specified number of approvals](https://github.com/pullreminders/label-when-approved-action)
  - [Add labels to Pull Request based on matched file patterns](https://github.com/banyan/auto-label)
 
-#### Github Pages
+#### GitHub Pages
 
  - [Deploy a Zola site to GitHub Pages](https://github.com/shalzz/zola-deploy-action)
  - [Visualize your Dockerfile with a Container Tree](https://www.github.com/vsoch/containertree)
@@ -124,7 +124,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [Use a Jenkinsfile](https://github.com/jonico/jenkinsfile-runner-github-actions)
  - [Configure a DNS Record on Cloudflare](https://github.com/xorilog/cloudflare-dns-action)
  - [Firebase](https://github.com/natemoo-re/action-firebase)
- - [Github Action for Firebase](https://github.com/w9jds/firebase-action)
+ - [GitHub Action for Firebase](https://github.com/w9jds/firebase-action)
  - [GitHub Action for JFrog CLI](https://github.com/retgits/actions/tree/master/jfrog-cli)
  - [GitHub Action for Contentful Migration CLI](https://github.com/Shy/contentful-action)
 

@@ -126,6 +126,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [Firebase](https://github.com/natemoo-re/action-firebase)
  - [Github Action for Firebase](https://github.com/w9jds/firebase-action)
  - [GitHub Action for JFrog CLI](https://github.com/retgits/actions/tree/master/jfrog-cli)
+ - [GitHub Action for Contentful Migration CLI](https://github.com/Shy/contentful-action)
 
 #### Frontend Tools
 

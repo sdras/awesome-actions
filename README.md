@@ -116,6 +116,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [Using surge.sh, deploy your branch specific storybook as a pull request deployment](https://github.com/codeship/storybook-surge-github-action)
  - [Create Release Archive](https://github.com/lubusIN/actions/tree/master/archive)
  - [Publish WordPress Plugin](https://github.com/lubusIN/actions/tree/master/wordpress)
+ - [Deploy a Theme to Shopify](https://github.com/pgrimaud/actions/tree/master/shopify)
 
 #### External Services
 

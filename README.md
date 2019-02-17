@@ -90,7 +90,6 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 
 #### Notifications and Messages
 
- - [Send a Telegram Message](https://github.com/appleboy/telegram-action)
  - [Confucious Wisdom (Pull Request Failure Message)](https://github.com/vsoch/confucious-actions)
  - [Send a Discord notification](https://github.com/Ilshidur/action-discord)
  - [Send a Slack message](https://github.com/apex/actions/tree/master/slack)
@@ -100,6 +99,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [Trigger emails with release notes with SendGrid](https://github.com/bitoiu/release-notify-action)
  - [Send email on failed GitHub Checks](https://github.com/cirrus-actions/email)
  - [Report webpack stats to packtracker.io](https://github.com/packtracker/github-action)
+ - [Send a Telegram Message](https://github.com/appleboy/telegram-action)
 
 #### Deployment
 

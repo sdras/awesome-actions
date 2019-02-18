@@ -99,6 +99,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [Trigger emails with release notes with SendGrid](https://github.com/bitoiu/release-notify-action)
  - [Send email on failed GitHub Checks](https://github.com/cirrus-actions/email)
  - [Report webpack stats to packtracker.io](https://github.com/packtracker/github-action)
+ - [Send a Telegram Message](https://github.com/appleboy/telegram-action)
 
 #### Deployment
 

@@ -58,7 +58,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 
  - [Runs Hadolint against a Dockerfile within a repository](https://github.com/burdzwastaken/hadolint-action)
  - [Test your Actions Locally](https://github.com/tschoffelen/gha)
- - [Lint a Dockerfile (using replicatedhq/dockerfilelint)](https://github.com/jwr0/dockerfile-linter-action)
+ - [Lint a Dockerfile](https://github.com/jwr0/dockerfile-linter-action) (using replicatedhq/dockerfilelint)
  - [NPM Audit](https://github.com/JasonEtco/npm-audit-fix-action)
  - [PHP Code fixer Action](https://github.com/OskarStark/php-cs-fixer-ga)
  - [PHP Psalm Static code analyzer Action](https://github.com/mickaelandrieu/psalm-ga)

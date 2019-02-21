@@ -52,6 +52,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [SSH](https://github.com/maddox/actions/tree/master/ssh)
  - [General purpose HTTP client for Actions, wrapping HTTPie](https://github.com/swinton/httpie-action)
  - [Build Go apps using GoCenter](https://github.com/retgits/actions/tree/master/gocenter)
+ - [Run `pandoc`](https://github.com/maxheld83/pandoc), the swiss army knife for document conversions.
 
 #### Testing and Linting
 

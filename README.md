@@ -31,6 +31,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 
  - [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action)
  - [Run GitHub Actions Locally](https://github.com/nektos/act)
+ - [Alternative (Python-based) for Running GitHub Actions Locally](https://github.com/systemslab/popper)
 
 #### Collection of Actions
 

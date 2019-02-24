@@ -81,6 +81,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [Create Pull Request when branch is pushed](https://github.com/repetitive/actions/tree/master/auto-pull-request)
  - [Label pull request once it has a specified number of approvals](https://github.com/pullreminders/label-when-approved-action)
  - [Add labels to Pull Request based on matched file patterns](https://github.com/banyan/auto-label)
+ - [Auto approve pull requests](https://github.com/hmarr/auto-approve-action)
 
 #### GitHub Pages
 

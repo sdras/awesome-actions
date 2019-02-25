@@ -70,6 +70,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [Snyk CLI Test Action](https://github.com/clarkio/snyk-cli-action)
  - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
  - [Run web performance audits using Sitespeed.io](https://github.com/sitespeedio/sitespeed.io/tree/master/docker/github-actions)
+ - [Run Tests through Puppeteer, the Headless Chrome Node API](https://github.com/ianwalter/puppeteer)
 
 #### Pull Requests
 

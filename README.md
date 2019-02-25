@@ -67,7 +67,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
  - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
  - [Snyk CLI Test Action](https://github.com/clarkio/snyk-cli-action)
  - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
- - [Run web performance audits using Sitespeed.io](https://github.com/sitespeedio/sitespeed.io/tree/ad1716bb9227b85ad80cbca65284c73b9a822ec5/docker/github-action)
+ - [Run web performance audits using Sitespeed.io](https://github.com/sitespeedio/sitespeed.io/tree/master/docker/github-action)
 
 #### Pull Requests
 

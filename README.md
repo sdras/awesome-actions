@@ -16,24 +16,35 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 
 - [Official Resources](#official-resources)
 - [Community Resources](#community-resources)
+  - [GitHub Tools and Management](#github-tools-and-management)
+  - [Collection of Actions](#collection-of-actions)
+  - [Utility](#utility)
+  - [Testing and Linting](#testing-and-linting)
+  - [Pull Requests](#pull-requests)
+  - [GitHub Pages](#github-pages)
+  - [Notifications and Messages](#notifications-and-messages)
+  - [Deployment](#deployment)
+  - [External Services](#external-services)
+  - [Frontend Tools](#frontend-tools)
+  - [Internet of Things (IOT)](#internet-of-things-iot)
 - [Tutorials](#tutorials)
 
-### Official Resources
+## Official Resources
 
 - [Official Site](https://github.com/features/actions)
 - [Documentation](https://developer.github.com/actions/)
 - [Official Actions Collection](https://github.com/actions)
 - [GitHub Blog Announcement](https://blog.github.com/2018-10-17-action-demos/)
 
-### Community Resources
+## Community Resources
 
-#### GitHub Tools and Management
+### GitHub Tools and Management
 
 - [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action)
 - [Run GitHub Actions Locally](https://github.com/nektos/act)
 - [Alternative (Python-based) for Running GitHub Actions Locally](https://github.com/systemslab/popper)
 
-#### Collection of Actions
+### Collection of Actions
 
 - [Many linters and autofixers for various languages](https://github.com/bltavares/actions)
 - [Node.js Actions Toolkit](https://github.com/JasonEtco/actions-toolkit)
@@ -44,7 +55,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [GitHub Actions for R and accompanying #rstats package](http://maxheld.de/ghactions/)
 - [GitHub Actions for WordPress](https://github.com/10up/actions-wordpress/)
 
-#### Utility
+### Utility
 
 - [Sleep](https://github.com/maddox/actions/tree/master/sleep)
 - [Wait for 200](https://github.com/maddox/actions/tree/master/wait-for-200)
@@ -56,7 +67,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Run pandoc](https://github.com/maxheld83/pandoc) - The swiss army knife for document conversions.
 - [Debug Action](https://github.com/hmarr/debug-action) - Print environment variables and event to the Actions logs.
 
-#### Testing and Linting
+### Testing and Linting
 
 - [Runs Hadolint against a Dockerfile within a repository](https://github.com/burdzwastaken/hadolint-action)
 - [Test your Actions Locally](https://github.com/tschoffelen/gha)
@@ -72,7 +83,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Run web performance audits using Sitespeed.io](https://github.com/sitespeedio/sitespeed.io/tree/master/docker/github-action)
 - [Run Tests through Puppeteer, the Headless Chrome Node API](https://github.com/ianwalter/puppeteer)
 
-#### Pull Requests
+### Pull Requests
 
 - [Set pull request reviewers based on assignees](https://github.com/pullreminders/assignee-to-reviewer-action)
 - [Open or update pull request on branch push (with branch selection)](https://github.com/vsoch/pull-request-action)
@@ -85,7 +96,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Add labels to Pull Request based on matched file patterns](https://github.com/banyan/auto-label)
 - [Auto approve pull requests](https://github.com/hmarr/auto-approve-action)
 
-#### GitHub Pages
+### GitHub Pages
 
 - [Deploy a Zola site to GitHub Pages](https://github.com/shalzz/zola-deploy-action)
 - [Visualize your Dockerfile with a Container Tree](https://www.github.com/vsoch/containertree)
@@ -94,7 +105,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Google Dataset Search Metadata](https://www.github.com/openschemas/extractors/) - And other schema.org extractors to make datasets discoverable from GitHub pages.
 - [Deploy assets to GitHub pages](https://github.com/maxheld83/ghpages) (no building, just deploying)
 
-#### Notifications and Messages
+### Notifications and Messages
 
 - [Confucious Wisdom (Pull Request Failure Message)](https://github.com/vsoch/confucious-actions)
 - [Send a Discord notification](https://github.com/Ilshidur/action-discord)
@@ -107,7 +118,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Report webpack stats to packtracker.io](https://github.com/packtracker/github-action)
 - [Send a Telegram Message](https://github.com/appleboy/telegram-action)
 
-#### Deployment
+### Deployment
 
 - [Deploy to Netlify](https://github.com/netlify/actions)
 - [Deploy a Probot App using Actions](https://probot.github.io/docs/deployment/#github-actions)
@@ -126,7 +137,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Publish WordPress Plugin](https://github.com/lubusIN/actions/tree/master/wordpress)
 - [Deploy a Theme to Shopify](https://github.com/pgrimaud/actions/tree/master/shopify)
 
-#### External Services
+### External Services
 
 - [Use a Jenkinsfile](https://github.com/jonico/jenkinsfile-runner-github-actions)
 - [Configure a DNS Record on Cloudflare](https://github.com/xorilog/cloudflare-dns-action)
@@ -135,25 +146,24 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [GitHub Action for JFrog CLI](https://github.com/retgits/actions/tree/master/jfrog-cli)
 - [GitHub Action for Contentful Migration CLI](https://github.com/Shy/contentful-action)
 
-#### Frontend Tools
+### Frontend Tools
 
 - [Execute Gradle task](https://github.com/MrRamych/gradle-actions)
 - [JS Build Actions](https://github.com/elstudio/actions-js-build) - Run Grunt or Gulp build tasks and commit file changes.
 - [Ember CLI Actions](https://github.com/NuckChorris/ember-cli-actions)
 - [GitHub Action for Gatsby CLI](https://github.com/jzweifel/gatsby-cli-github-action)
 
-#### Internet of Things (IOT)
+### Internet of Things (IOT)
 
 - [Home Assistant Command](https://github.com/maddox/actions/tree/master/home-assistant)
 
-### Tutorials
+## Tutorials
 
 - [Introducing GitHub Actions](https://css-tricks.com/introducing-github-actions/)
 - [Deploying to Firebase Hosting with GitHub Actions](https://natemoo.re/posts/action-firebase)
 - [Building GitHub Actions in Node.js](https://jasonet.co/posts/building-github-actions-in-node/)
 - [GitHub Actions on Android project](http://vgaidarji.me/blog/2019/01/27/github-actions)
- 
- 
+
 > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information
 
 ## License

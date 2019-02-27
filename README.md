@@ -53,8 +53,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [SSH](https://github.com/maddox/actions/tree/master/ssh)
 - [General purpose HTTP client for Actions, wrapping HTTPie](https://github.com/swinton/httpie-action)
 - [Build Go apps using GoCenter](https://github.com/retgits/actions/tree/master/gocenter)
-- [Run pandoc](https://github.com/maxheld83/pandoc) - the swiss army knife for document conversions
-- [Debug Action](https://github.com/hmarr/debug-action) - print environment variables and event to the Actions logs
+- [Run pandoc](https://github.com/maxheld83/pandoc) - the swiss army knife for document conversions.
+- [Debug Action](https://github.com/hmarr/debug-action) - print environment variables and event to the Actions logs.
 
 #### Testing and Linting
 
@@ -91,7 +91,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Visualize your Dockerfile with a Container Tree](https://www.github.com/vsoch/containertree)
 - [Build Hugo static content site and publish it to gh-pages branch](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages)
 - [Build a Jekyll site—with Custom Jekyll Plugins & Build Scripts—and deploy it back to the Gh-Pages Branch](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages)
-- [Google Dataset Search Metadata](https://www.github.com/openschemas/extractors/) - and other schema.org extractors to make datasets discoverable from GitHub pages
+- [Google Dataset Search Metadata](https://www.github.com/openschemas/extractors/) - and other schema.org extractors to make datasets discoverable from GitHub pages.
 - [Deploy assets to GitHub pages](https://github.com/maxheld83/ghpages) (no building, just deploying)
 
 #### Notifications and Messages
@@ -138,7 +138,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 #### Frontend Tools
 
 - [Execute Gradle task](https://github.com/MrRamych/gradle-actions)
-- [JS Build Actions](https://github.com/elstudio/actions-js-build) - Run Grunt or Gulp build tasks and commit file changes
+- [JS Build Actions](https://github.com/elstudio/actions-js-build) - Run Grunt or Gulp build tasks and commit file changes.
 - [Ember CLI Actions](https://github.com/NuckChorris/ember-cli-actions)
 - [GitHub Action for Gatsby CLI](https://github.com/jzweifel/gatsby-cli-github-action)
 

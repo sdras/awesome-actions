@@ -103,7 +103,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Build Hugo static content site and publish it to gh-pages branch](https://github.com/khanhicetea/gh-actions-hugo-deploy-gh-pages)
 - [Build a Jekyll site—with Custom Jekyll Plugins & Build Scripts—and deploy it back to the Gh-Pages Branch](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages)
 - [Google Dataset Search Metadata](https://www.github.com/openschemas/extractors/) - And other schema.org extractors to make datasets discoverable from GitHub pages.
-- [Deploy assets to GitHub pages](https://github.com/maxheld83/ghpages) (no building, just deploying)
+- [Deploy assets to GitHub pages](https://github.com/maxheld83/ghpages) - No building, just deploying.
 
 ### Notifications and Messages
 

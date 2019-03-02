@@ -4,5 +4,5 @@ workflow "Lint Awesome List" {
 }
 
 action "max/awesome-lint" {
-  uses = "max/awesome-lint@master"
+  uses = "max/awesome-lint@1.0.0"
 }

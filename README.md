@@ -82,6 +82,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
 - [Run web performance audits using Sitespeed.io](https://github.com/sitespeedio/sitespeed.io/tree/master/docker/github-action)
 - [Run Tests through Puppeteer, the Headless Chrome Node API](https://github.com/ianwalter/puppeteer)
+- [Run ESLint with status checks and file diff annotations](https://github.com/gimenete/eslint-action)
 
 ### Pull Requests
 

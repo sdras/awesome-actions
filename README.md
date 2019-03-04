@@ -117,6 +117,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Send email on failed GitHub Checks](https://github.com/cirrus-actions/email)
 - [Report webpack stats to packtracker.io](https://github.com/packtracker/github-action)
 - [Send a Telegram Message](https://github.com/appleboy/telegram-action)
+- [Sebd a File or Text Message to Discord (custom define color, username or avatar)](https://github.com/appleboy/telegram-action)
 
 ### Deployment
 
@@ -136,6 +137,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Create Release Archive](https://github.com/lubusIN/actions/tree/master/archive)
 - [Publish WordPress Plugin](https://github.com/lubusIN/actions/tree/master/wordpress)
 - [Deploy a Theme to Shopify](https://github.com/pgrimaud/actions/tree/master/shopify)
+- [Trigger multiple GitLab CI Pipeline](https://github.com/appleboy/gitlab-ci-action)
+- [Trigger multiple Jenkins Jobs](https://github.com/appleboy/jenkins-action)
 
 ### External Services
 

@@ -117,7 +117,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Send email on failed GitHub Checks](https://github.com/cirrus-actions/email)
 - [Report webpack stats to packtracker.io](https://github.com/packtracker/github-action)
 - [Send a Telegram Message](https://github.com/appleboy/telegram-action)
-- [Sebd a File or Text Message to Discord (custom define color, username or avatar)](https://github.com/appleboy/telegram-action)
+- [Send a File or Text Message to Discord (custom define color, username or avatar)](https://github.com/appleboy/telegram-action)
 
 ### Deployment
 

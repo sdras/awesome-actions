@@ -112,6 +112,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Send a Slack message](https://github.com/apex/actions/tree/master/slack)
 - [Post a Slack message as a bot](https://github.com/pullreminders/slack-action)
 - [Update Twitter status](https://github.com/xorilog/twitter-action)
+- [Collaborate on tweets using pull requests](https://github.com/gr2m/twitter-together)
 - [Send an SMS from GitHub Actions using Nexmo](https://github.com/nexmo-community/nexmo-sms-action)
 - [Trigger emails with release notes with SendGrid](https://github.com/bitoiu/release-notify-action)
 - [Send email on failed GitHub Checks](https://github.com/cirrus-actions/email)

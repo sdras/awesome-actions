@@ -139,6 +139,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Deploy a Theme to Shopify](https://github.com/pgrimaud/actions/tree/master/shopify)
 - [Trigger multiple GitLab CI Pipeline](https://github.com/appleboy/gitlab-ci-action)
 - [Trigger multiple Jenkins Jobs](https://github.com/appleboy/jenkins-action)
+- [Github Deployment API](https://github.com/unacast/actions/tree/master/github-deploy)
 
 ### External Services
 

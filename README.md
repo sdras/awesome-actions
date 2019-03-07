@@ -96,6 +96,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Label pull request once it has a specified number of approvals](https://github.com/pullreminders/label-when-approved-action)
 - [Add labels to Pull Request based on matched file patterns](https://github.com/banyan/auto-label)
 - [Auto approve pull requests](https://github.com/hmarr/auto-approve-action)
+- [Automatically add reviewers to pull request based on the configuration file](https://github.com/kentaro-m/auto-assign)
 
 ### GitHub Pages
 

@@ -1,5 +1,5 @@
 workflow "Lint Awesome List" {
-  on = "pull_request"
+  on = "push"
   resolves = ["max/awesome-lint"]
 }
 

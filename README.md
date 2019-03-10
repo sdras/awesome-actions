@@ -84,6 +84,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Run Tests through Puppeteer, the Headless Chrome Node API](https://github.com/ianwalter/puppeteer)
 - [Run ESLint with status checks and file diff annotations](https://github.com/gimenete/eslint-action)
 - [JavaScript-based linter for \*.workflow files](https://github.com/OmarTawfik/github-actions-js)
+- [Send your latest code coverage score to Coveralls.io](https://github.com/gavinhenderson/coveralls-action)
 
 ### Pull Requests
 

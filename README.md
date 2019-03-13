@@ -161,6 +161,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [JS Build Actions](https://github.com/elstudio/actions-js-build) - Run Grunt or Gulp build tasks and commit file changes.
 - [Ember CLI Actions](https://github.com/NuckChorris/ember-cli-actions)
 - [GitHub Action for Gatsby CLI](https://github.com/jzweifel/gatsby-cli-github-action)
+- [Runs a WebPageTest audit and prints the results as commit comment](https://github.com/JCofman/webPagetestAction)
 
 ### Internet of Things (IOT)
 

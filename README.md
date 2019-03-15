@@ -66,6 +66,9 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Build Go apps using GoCenter](https://github.com/retgits/actions/tree/master/gocenter)
 - [Run pandoc](https://github.com/maxheld83/pandoc) - The swiss army knife for document conversions.
 - [Debug Action](https://github.com/hmarr/debug-action) - Print environment variables and event to the Actions logs.
+- [Gate actions by filtering if files matching a pattern have been touched](https://github.com/cds-snc/github-actions/tree/master/touched)
+- [Scan for secrets in your source code](https://github.com/cds-snc/github-actions/tree/master/seekret)
+- [Review the licenses of your node dependencies](https://github.com/cds-snc/github-actions/tree/master/node-license-checker)
 
 ### Testing and Linting
 
@@ -85,6 +88,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Run ESLint with status checks and file diff annotations](https://github.com/gimenete/eslint-action)
 - [JavaScript-based linter for \*.workflow files](https://github.com/OmarTawfik/github-actions-js)
 - [Send your latest code coverage score to Coveralls.io](https://github.com/gavinhenderson/coveralls-action)
+- [Lint a Dockerfile using Hadolint](https://github.com/cds-snc/github-actions/tree/master/docker-lint)
+- [Lint terraform files using tflint](https://github.com/cds-snc/github-actions/tree/master/tf-lint)
 
 ### Pull Requests
 
@@ -99,6 +104,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Add labels to Pull Request based on matched file patterns](https://github.com/banyan/auto-label)
 - [Auto approve pull requests](https://github.com/hmarr/auto-approve-action)
 - [Automatically add reviewers to pull request based on the configuration file](https://github.com/kentaro-m/auto-assign)
+- [Auto-commit back any changes made by previous actions](https://github.com/cds-snc/github-actions/tree/master/auto-commit)
 
 ### GitHub Pages
 

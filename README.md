@@ -43,6 +43,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action)
 - [Run GitHub Actions Locally](https://github.com/nektos/act)
 - [Alternative (Python-based) for Running GitHub Actions Locally](https://github.com/systemslab/popper)
+- [Manage GitHub Action workflows and actions by cli](https://github.com/inextensodigital/actions/tree/master/github-workflow) - Allows you to script edition.
 - [GitHub Action Builder and Previewer](https://create-github-action.now.sh/)
 
 ### Collection of Actions
@@ -148,7 +149,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Using surge.sh, deploy your branch specific storybook as a pull request deployment](https://github.com/codeship/storybook-surge-github-action)
 - [Create Release Archive](https://github.com/lubusIN/actions/tree/master/archive)
 - [Publish WordPress Plugin](https://github.com/lubusIN/actions/tree/master/wordpress)
-- [Deploy a Theme to Shopify](https://github.com/pgrimaud/actions/tree/master/shopify)
+- [Deploy a Theme to Shopify](https://github.com/pgrimaud/action-shopify)
 - [Trigger multiple GitLab CI Pipeline](https://github.com/appleboy/gitlab-ci-action)
 - [Trigger multiple Jenkins Jobs](https://github.com/appleboy/jenkins-action)
 - [GitHub Deployment API](https://github.com/unacast/actions/tree/master/github-deploy)

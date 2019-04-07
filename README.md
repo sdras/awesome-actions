@@ -94,6 +94,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Send your latest code coverage score to Coveralls.io](https://github.com/gavinhenderson/coveralls-action)
 - [Lint a Dockerfile using Hadolint](https://github.com/cds-snc/github-actions/tree/master/docker-lint)
 - [Lint terraform files using tflint](https://github.com/cds-snc/github-actions/tree/master/tf-lint)
+- [Validate Puppet modules using Puppet PDK](https://github.com/mpepping/github-actions/tree/master/pdk-validate)
 
 ### Pull Requests
 

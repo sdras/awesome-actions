@@ -132,9 +132,9 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Send email on failed GitHub Checks](https://github.com/cirrus-actions/email)
 - [Report webpack stats to packtracker.io](https://github.com/packtracker/github-action)
 - [Send a Telegram Message](https://github.com/appleboy/telegram-action)
-- [Send a Push Notification via Pushover.net](https://github.com/maddox/actions/tree/master/pushover)
 - [Send a File or Text Message to Discord (custom define color, username or avatar)](https://github.com/appleboy/telegram-action)
 - [Collaborate on tweets using pull requests](https://github.com/gr2m/twitter-together)
+- [Send a Push Notification via Pushover.net](https://github.com/maddox/actions/tree/master/pushover)
 
 ### Deployment
 

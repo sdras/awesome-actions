@@ -46,6 +46,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Manage GitHub Action workflows and actions by cli](https://github.com/inextensodigital/actions/tree/master/github-workflow) - Allows you to script edition.
 - [GitHub Action Builder and Previewer](https://create-github-action.now.sh/)
 - [Add new pull requests to GitHub projects](https://github.com/alex-page/add-new-pulls-project)
+- [Move assigned issues to column in GitHub projects](https://github.com/alex-page/move-assigned-issue-column)
+- [Move assigned pull requests to column in GitHub projects](https://github.com/alex-page/move-assigned-pulls-column)
 
 ### Collection of Actions
 

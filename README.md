@@ -163,6 +163,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Trigger multiple Jenkins Jobs](https://github.com/appleboy/jenkins-action)
 - [GitHub Deployment API](https://github.com/unacast/actions/tree/master/github-deploy)
 - [GitHub Action for zem](https://github.com/artemnovichkov/action-zem)
+- [GitHub Action for Homebrew](https://github.com/artemnovichkov/action-homebrew)
 
 ### External Services
 

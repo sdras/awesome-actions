@@ -76,7 +76,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Scan for secrets in your source code](https://github.com/cds-snc/github-actions/tree/master/seekret)
 - [Review the licenses of your node dependencies](https://github.com/cds-snc/github-actions/tree/master/node-license-checker)
 - [A GitHub Action to check your project's dependencies](https://github.com/iheanyi/licensed-action)
-
+- [Check if package.json dependencies have changed](https://github.com/bencooper222/check-for-node-dep-changes/blob/master/README.md)
 
 ### Testing and Linting
 

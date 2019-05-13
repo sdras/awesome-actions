@@ -99,6 +99,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Lint a Dockerfile using Hadolint](https://github.com/cds-snc/github-actions/tree/master/docker-lint)
 - [Lint terraform files using tflint](https://github.com/cds-snc/github-actions/tree/master/tf-lint)
 - [Validate Puppet modules using Puppet PDK](https://github.com/mpepping/github-actions/tree/master/pdk-validate)
+- [Scan git commits for secrets with gitleaks](https://github.com/eshork/gitleaks-action)
 
 ### Pull Requests
 

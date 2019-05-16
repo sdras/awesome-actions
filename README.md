@@ -100,6 +100,10 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Lint terraform files using tflint](https://github.com/cds-snc/github-actions/tree/master/tf-lint)
 - [Validate Puppet modules using Puppet PDK](https://github.com/mpepping/github-actions/tree/master/pdk-validate)
 - [Scan git commits for secrets with gitleaks](https://github.com/eshork/gitleaks-action)
+- [Check broken links for Hugo](https://github.com/peaceiris/actions-hugo-link-check)
+- [Find broken links, missing images, etc in your HTML](https://github.com/peaceiris/actions-broken-link-checker)
+- [Fast website link checker in Go](https://github.com/peaceiris/actions-muffet)
+- [Fast link checker for Markdown and HTML in Go)](https://github.com/peaceiris/actions-liche)
 
 ### Pull Requests
 
@@ -125,6 +129,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Build a Jekyll site—with Custom Jekyll Plugins & Build Scripts—and deploy it back to the Gh-Pages Branch](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages)
 - [Google Dataset Search Metadata](https://www.github.com/openschemas/extractors/) - And other schema.org extractors to make datasets discoverable from GitHub pages.
 - [Deploy assets to GitHub pages](https://github.com/maxheld83/ghpages) - No building, just deploying.
+- [Build with Material for MkDocs and deploy to GitHub Pages automatically](https://github.com/peaceiris/actions-mkdocs-gh-pages)
 
 ### Notifications and Messages
 
@@ -174,6 +179,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [GitHub Action for Firebase](https://github.com/w9jds/firebase-action)
 - [GitHub Action for JFrog CLI](https://github.com/retgits/actions/tree/master/jfrog-cli)
 - [GitHub Action for Contentful Migration CLI](https://github.com/Shy/contentful-action)
+- [GitHub Actions for Pixela (a-know/pi)](https://github.com/peaceiris/actions-pixela)
 
 ### Frontend Tools
 

@@ -130,6 +130,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Google Dataset Search Metadata](https://www.github.com/openschemas/extractors/) - And other schema.org extractors to make datasets discoverable from GitHub pages.
 - [Deploy assets to GitHub pages](https://github.com/maxheld83/ghpages) - No building, just deploying.
 - [Build with Material for MkDocs and deploy to GitHub Pages automatically](https://github.com/peaceiris/actions-mkdocs-gh-pages)
+- [GitHub Actions for deploying to GitHub Pages with Static Site Generators](https://github.com/peaceiris/actions-gh-pages)
 
 ### Notifications and Messages
 
@@ -188,6 +189,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Ember CLI Actions](https://github.com/NuckChorris/ember-cli-actions)
 - [GitHub Action for Gatsby CLI](https://github.com/jzweifel/gatsby-cli-github-action)
 - [Runs a WebPageTest audit and prints the results as commit comment](https://github.com/JCofman/webPagetestAction)
+- [GitHub Actions for Hugo extended](https://github.com/peaceiris/actions-hugo)
 
 ### Internet of Things (IOT)
 

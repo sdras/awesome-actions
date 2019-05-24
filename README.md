@@ -104,6 +104,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Find broken links, missing images, etc in your HTML](https://github.com/peaceiris/actions-broken-link-checker)
 - [Fast website link checker in Go](https://github.com/peaceiris/actions-muffet)
 - [Fast link checker for Markdown and HTML in Go)](https://github.com/peaceiris/actions-liche)
+- [Send your code coverage to codecov.io](https://github.com/atrox/codecov-action)
 
 ### Pull Requests
 

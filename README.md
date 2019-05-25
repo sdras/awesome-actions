@@ -77,6 +77,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Review the licenses of your node dependencies](https://github.com/cds-snc/github-actions/tree/master/node-license-checker)
 - [A GitHub Action to check your project's dependencies](https://github.com/iheanyi/licensed-action)
 - [Check if package.json dependencies have changed](https://github.com/bencooper222/check-for-node-dep-changes)
+- [Update a repository's "Full description" on Docker Hub](https://github.com/mpepping/github-actions/tree/master/docker-hub-metadata)
 - [GitHub Actions Badges for your README](https://github.com/atrox/github-actions-badge)
 
 ### Testing and Linting
@@ -105,6 +106,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Find broken links, missing images, etc in your HTML](https://github.com/peaceiris/actions-broken-link-checker)
 - [Fast website link checker in Go](https://github.com/peaceiris/actions-muffet)
 - [Fast link checker for Markdown and HTML in Go)](https://github.com/peaceiris/actions-liche)
+- [Send your code coverage to codecov.io](https://github.com/atrox/codecov-action)
 
 ### Pull Requests
 
@@ -131,6 +133,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Google Dataset Search Metadata](https://www.github.com/openschemas/extractors/) - And other schema.org extractors to make datasets discoverable from GitHub pages.
 - [Deploy assets to GitHub pages](https://github.com/maxheld83/ghpages) - No building, just deploying.
 - [Build with Material for MkDocs and deploy to GitHub Pages automatically](https://github.com/peaceiris/actions-mkdocs-gh-pages)
+- [GitHub Actions for deploying to GitHub Pages with Static Site Generators](https://github.com/peaceiris/actions-gh-pages)
 
 ### Notifications and Messages
 
@@ -171,6 +174,9 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [GitHub Deployment API](https://github.com/unacast/actions/tree/master/github-deploy)
 - [GitHub Action for zem](https://github.com/artemnovichkov/action-zem)
 - [GitHub Action for Homebrew](https://github.com/artemnovichkov/action-homebrew)
+- [Deploy Lambda code to an existing function](https://github.com/appleboy/lambda-action)
+- [Copy files and artifacts via SSH](https://github.com/appleboy/scp-action)
+- [Executing remote ssh commands](https://github.com/appleboy/ssh-action)
 
 ### External Services
 
@@ -189,6 +195,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Ember CLI Actions](https://github.com/NuckChorris/ember-cli-actions)
 - [GitHub Action for Gatsby CLI](https://github.com/jzweifel/gatsby-cli-github-action)
 - [Runs a WebPageTest audit and prints the results as commit comment](https://github.com/JCofman/webPagetestAction)
+- [GitHub Actions for Hugo extended](https://github.com/peaceiris/actions-hugo)
 
 ### Internet of Things (IOT)
 

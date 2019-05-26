@@ -78,6 +78,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [A GitHub Action to check your project's dependencies](https://github.com/iheanyi/licensed-action)
 - [Check if package.json dependencies have changed](https://github.com/bencooper222/check-for-node-dep-changes)
 - [Update a repository's "Full description" on Docker Hub](https://github.com/mpepping/github-actions/tree/master/docker-hub-metadata)
+- [GitHub Actions for Python project with pipenv](https://github.com/peaceiris/actions-pipenv)
 
 ### Testing and Linting
 

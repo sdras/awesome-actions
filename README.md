@@ -179,6 +179,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Deploy Lambda code to an existing function](https://github.com/appleboy/lambda-action)
 - [Copy files and artifacts via SSH](https://github.com/appleboy/scp-action)
 - [Executing remote ssh commands](https://github.com/appleboy/ssh-action)
+- [Deploy to Kubernetes with kubectl](https://github.com/steebchen/kubectl)
 
 ### External Services
 

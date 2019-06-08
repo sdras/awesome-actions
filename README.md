@@ -60,6 +60,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Android Build and Emulator Actions](https://github.com/vgaidarji/android-github-actions)
 - [GitHub Actions for R and accompanying #rstats package](http://maxheld.de/ghactions/)
 - [GitHub Actions for WordPress](https://github.com/10up/actions-wordpress/)
+- [GitHub Actions for Composer](https://github.com/MilesChou/composer-action)
 
 ### Utility
 

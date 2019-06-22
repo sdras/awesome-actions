@@ -153,6 +153,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Send a File or Text Message to Discord (custom define color, username or avatar)](https://github.com/appleboy/telegram-action)
 - [Collaborate on tweets using pull requests](https://github.com/gr2m/twitter-together)
 - [Send a Push Notification via Pushover.net](https://github.com/maddox/actions/tree/master/pushover)
+- [Send a dynamic notification to any service using Apprise](https://github.com/cstuder/apprise-ga)
 
 ### Deployment
 

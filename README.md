@@ -153,6 +153,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Send a File or Text Message to Discord (custom define color, username or avatar)](https://github.com/appleboy/telegram-action)
 - [Collaborate on tweets using pull requests](https://github.com/gr2m/twitter-together)
 - [Send a Push Notification via Pushover.net](https://github.com/maddox/actions/tree/master/pushover)
+- [Send a dynamic notification to any service using Apprise](https://github.com/cstuder/apprise-ga)
 - [Send a Push Notification via Push by Techulus](https://github.com/techulus/push-github-action)
 
 ### Deployment
@@ -213,6 +214,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Building GitHub Actions in Node.js](https://jasonet.co/posts/building-github-actions-in-node/)
 - [GitHub Actions on Android project](http://vgaidarji.me/blog/2019/01/27/github-actions)
 - [A guide to GitHub Actions using Node.js](https://datree.io/blog/git-workflow-automation-github-actions-node-js/)
+- [GitHub Actions for PHP Developers](https://stefanzweifel.io/posts/github-actions-for-php-developers/)
 
 > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information
 

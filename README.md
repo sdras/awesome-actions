@@ -154,6 +154,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Collaborate on tweets using pull requests](https://github.com/gr2m/twitter-together)
 - [Send a Push Notification via Pushover.net](https://github.com/maddox/actions/tree/master/pushover)
 - [Send a dynamic notification to any service using Apprise](https://github.com/cstuder/apprise-ga)
+- [Send a Push Notification via Push by Techulus](https://github.com/techulus/push-github-action)
 
 ### Deployment
 

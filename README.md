@@ -126,6 +126,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Automatically add reviewers to pull request based on the configuration file](https://github.com/kentaro-m/auto-assign)
 - [Auto-commit back any changes made by previous actions](https://github.com/cds-snc/github-actions/tree/master/auto-commit)
 - [Add labels to Pull Request based on branch name patterns](https://github.com/TimonVS/pr-labeler-action)
+- [Add labels to Pull Request based on total size of the diff](https://github.com/pascalgn/size-label-action)
+- [Automatically merge Pull Requests that are ready](https://github.com/pascalgn/automerge-action)
 
 ### GitHub Pages
 

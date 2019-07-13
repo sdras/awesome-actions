@@ -49,6 +49,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Move assigned pull requests to column in GitHub projects](https://github.com/alex-page/move-assigned-pulls-column)
 - [Add new issues to GitHub projects](https://github.com/alex-page/add-new-issue-project)
 - [Add new pull requests to GitHub projects](https://github.com/alex-page/add-new-pulls-project)
+- [Add releases to GitHub](https://github.com/elgohr/Github-Release-Action)
+- [Publish a docker image to Dockerhub](https://github.com/elgohr/Publish-Docker-Github-Action)
 
 ### Collection of Actions
 

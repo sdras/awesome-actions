@@ -130,6 +130,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Add labels to Pull Request based on branch name patterns](https://github.com/TimonVS/pr-labeler-action)
 - [Add labels to Pull Request based on total size of the diff](https://github.com/pascalgn/size-label-action)
 - [Automatically merge Pull Requests that are ready](https://github.com/pascalgn/automerge-action)
+- [Verify pull requests contain a ticket reference](https://github.com/vijaykramesh/pr-lint-action)
 
 ### GitHub Pages
 

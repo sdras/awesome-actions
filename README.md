@@ -51,6 +51,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Add new pull requests to GitHub projects](https://github.com/alex-page/add-new-pulls-project)
 - [Add releases to GitHub](https://github.com/elgohr/Github-Release-Action)
 - [Publish a docker image to Dockerhub](https://github.com/elgohr/Publish-Docker-Github-Action)
+- [Create an issue using content from a file](https://github.com/peter-evans/create-issue-from-file)
 
 ### Collection of Actions
 
@@ -112,6 +113,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Fast website link checker in Go](https://github.com/peaceiris/actions-muffet)
 - [Fast link checker for Markdown and HTML in Go)](https://github.com/peaceiris/actions-liche)
 - [Send your code coverage to codecov.io](https://github.com/atrox/codecov-action)
+- [autopep8: Automatically formats Python code to conform to the PEP 8 style guide](https://github.com/peter-evans/autopep8)
 
 ### Pull Requests
 
@@ -131,6 +133,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Add labels to Pull Request based on total size of the diff](https://github.com/pascalgn/size-label-action)
 - [Automatically merge Pull Requests that are ready](https://github.com/pascalgn/automerge-action)
 - [Verify pull requests contain a ticket reference](https://github.com/vijaykramesh/pr-lint-action)
+- [Create a pull request for changes to your repository in the actions workspace](https://github.com/peter-evans/create-pull-request)
 
 ### GitHub Pages
 
@@ -161,6 +164,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Send a Push Notification via Pushover.net](https://github.com/maddox/actions/tree/master/pushover)
 - [Send a dynamic notification to any service using Apprise](https://github.com/cstuder/apprise-ga)
 - [Send a Push Notification via Push by Techulus](https://github.com/techulus/push-github-action)
+- [Send email with SendGrid](https://github.com/peter-evans/sendgrid-action)
 
 ### Deployment
 

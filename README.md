@@ -114,6 +114,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Fast link checker for Markdown and HTML in Go)](https://github.com/peaceiris/actions-liche)
 - [Send your code coverage to codecov.io](https://github.com/atrox/codecov-action)
 - [autopep8: Automatically formats Python code to conform to the PEP 8 style guide](https://github.com/peter-evans/autopep8)
+- [xUnit Slack Reporter: Sends summary of tests from xUnit reports to a Slack channel](https://github.com/ivanklee86/xunit-slack-reporter)
 
 ### Pull Requests
 

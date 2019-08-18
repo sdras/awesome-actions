@@ -196,6 +196,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Executing remote ssh commands](https://github.com/appleboy/ssh-action)
 - [Deploy to Kubernetes with kubectl](https://github.com/steebchen/kubectl)
 - [Update a Docker Hub repository description from README.md](https://github.com/peter-evans/dockerhub-description)
+- [Continuous deployment of Next.js app with Up](https://medium.com/@romanenko/simple-ci-for-next-js-projects-with-apex-up-github-actions-6f0b1b9a5400)
 
 ### External Services
 

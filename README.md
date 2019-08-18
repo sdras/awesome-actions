@@ -14,6 +14,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 
 ## Contents
 
+- [Awesome Actions ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-actions-awesomehttpsgithubcomsindresorhusawesome)
+- [Contents](#contents)
 - [Official Resources](#official-resources)
 - [Community Resources](#community-resources)
   - [GitHub Tools and Management](#github-tools-and-management)
@@ -28,6 +30,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Frontend Tools](#frontend-tools)
   - [Internet of Things (IOT)](#internet-of-things-iot)
 - [Tutorials](#tutorials)
+- [License](#license)
 
 ## Official Resources
 
@@ -116,6 +119,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [autopep8: Automatically formats Python code to conform to the PEP 8 style guide](https://github.com/peter-evans/autopep8)
 - [xUnit Slack Reporter: Sends summary of tests from xUnit reports to a Slack channel](https://github.com/ivanklee86/xunit-slack-reporter)
 - [Publishing code coverage to CodeClimate](https://github.com/paambaati/codeclimate-action)
+- [Run codeception tests](https://github.com/joelwmale/codeception-action)
 
 ### Pull Requests
 

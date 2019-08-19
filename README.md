@@ -28,7 +28,6 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Frontend Tools](#frontend-tools)
   - [Internet of Things (IOT)](#internet-of-things-iot)
 - [Tutorials](#tutorials)
-- [License](#license)
 
 ## Official Resources
 

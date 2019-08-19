@@ -112,7 +112,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Find broken links, missing images, etc in your HTML](https://github.com/peaceiris/actions-broken-link-checker)
 - [Fast website link checker in Go](https://github.com/peaceiris/actions-muffet)
 - [Fast link checker for Markdown and HTML in Go)](https://github.com/peaceiris/actions-liche)
-- [Send your code coverage to codecov.io](https://github.com/atrox/codecov-action)
+- [Send your code coverage to codecov.io](https://github.com/codecov/codecov-action)
 - [autopep8: Automatically formats Python code to conform to the PEP 8 style guide](https://github.com/peter-evans/autopep8)
 - [xUnit Slack Reporter: Sends summary of tests from xUnit reports to a Slack channel](https://github.com/ivanklee86/xunit-slack-reporter)
 - [Publishing code coverage to CodeClimate](https://github.com/paambaati/codeclimate-action)

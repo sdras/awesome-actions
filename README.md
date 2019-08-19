@@ -229,7 +229,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [A guide to GitHub Actions using Node.js](https://datree.io/blog/git-workflow-automation-github-actions-node-js/)
 - [GitHub Actions for PHP Developers](https://stefanzweifel.io/posts/github-actions-for-php-developers/)
 - [Continuous deployment of Next.js app with Up](https://medium.com/@romanenko/simple-ci-for-next-js-projects-with-apex-up-github-actions-6f0b1b9a5400)
-
+- [Converting Docker-based Actions to JavaScript/TypeScript](https://httgp.com/converting-github-actions-from-docker-to-javascript/)
 > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information
 
 ## License

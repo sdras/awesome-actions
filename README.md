@@ -84,7 +84,6 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Check if package.json dependencies have changed](https://github.com/bencooper222/check-for-node-dep-changes)
 - [Update a repository's "Full description" on Docker Hub](https://github.com/mpepping/github-actions/tree/master/docker-hub-metadata)
 - [GitHub Actions Badges for your README](https://github.com/atrox/github-actions-badge)
-- [GitHub Actions for Python project with pipenv](https://github.com/peaceiris/actions-pipenv)
 - [GitHub Actions for Python project with poetry](https://github.com/abatilo/actions-poetry)
 
 ### Testing and Linting
@@ -109,10 +108,6 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Lint terraform files using tflint](https://github.com/cds-snc/github-actions/tree/master/tf-lint)
 - [Validate Puppet modules using Puppet PDK](https://github.com/mpepping/github-actions/tree/master/pdk-validate)
 - [Scan git commits for secrets with gitleaks](https://github.com/eshork/gitleaks-action)
-- [Check broken links for Hugo](https://github.com/peaceiris/actions-hugo-link-check)
-- [Find broken links, missing images, etc in your HTML](https://github.com/peaceiris/actions-broken-link-checker)
-- [Fast website link checker in Go](https://github.com/peaceiris/actions-muffet)
-- [Fast link checker for Markdown and HTML in Go)](https://github.com/peaceiris/actions-liche)
 - [Send your code coverage to codecov.io](https://github.com/codecov/codecov-action)
 - [autopep8: Automatically formats Python code to conform to the PEP 8 style guide](https://github.com/peter-evans/autopep8)
 - [xUnit Slack Reporter: Sends summary of tests from xUnit reports to a Slack channel](https://github.com/ivanklee86/xunit-slack-reporter)
@@ -147,7 +142,6 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Build a Jekyll site—with Custom Jekyll Plugins & Build Scripts—and deploy it back to the Gh-Pages Branch](https://github.com/BryanSchuetz/jekyll-deploy-gh-pages)
 - [Google Dataset Search Metadata](https://www.github.com/openschemas/extractors/) - And other schema.org extractors to make datasets discoverable from GitHub pages.
 - [Deploy assets to GitHub pages](https://github.com/maxheld83/ghpages) - No building, just deploying.
-- [Build with Material for MkDocs and deploy to GitHub Pages automatically](https://github.com/peaceiris/actions-mkdocs-gh-pages)
 - [GitHub Actions for deploying to GitHub Pages with Static Site Generators](https://github.com/peaceiris/actions-gh-pages)
 
 ### Notifications and Messages

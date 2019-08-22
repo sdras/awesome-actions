@@ -32,7 +32,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 ## Official Resources
 
 - [Official Site](https://github.com/features/actions)
-- [Documentation](https://developer.github.com/actions/)
+- [Beta Documentation](https://developer.github.com/actions/) (for deprecated HCL format actions)
+- [Official Documentation](https://help.github.com/en/categories/automating-your-workflow-with-github-actions) (for YML format actions)
 - [Official Actions Collection](https://github.com/actions)
 - [GitHub Blog Announcement](https://blog.github.com/2018-10-17-action-demos/)
 

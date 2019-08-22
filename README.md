@@ -135,6 +135,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Automatically merge Pull Requests that are ready](https://github.com/pascalgn/automerge-action)
 - [Verify pull requests contain a ticket reference](https://github.com/vijaykramesh/pr-lint-action)
 - [Create a pull request for changes to your repository in the actions workspace](https://github.com/peter-evans/create-pull-request)
+- [Pull Request Lint](https://github.com/seferov/pr-lint-action)
 
 ### GitHub Pages
 

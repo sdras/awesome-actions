@@ -196,6 +196,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Deploy to Kubernetes with kubectl](https://github.com/steebchen/kubectl)
 - [Update a Docker Hub repository description from README.md](https://github.com/peter-evans/dockerhub-description)
 - [Purge Cloudflare cache after updating a website](https://github.com/jakejarvis/cloudflare-purge-action)
+- [Sync/upload a directory to an AWS S3 bucket](https://github.com/jakejarvis/s3-sync-action)
 
 ### External Services
 

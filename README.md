@@ -86,6 +86,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [GitHub Actions Badges for your README](https://github.com/atrox/github-actions-badge)
 - [GitHub Actions for Python project with poetry](https://github.com/abatilo/actions-poetry)
 - [GitHub Actions to compile LaTeX documents](https://github.com/xu-cheng/latex-action)
+- [Create an envfile](https://github.com/SpicyPizza/create-envfile)
 
 ### Testing and Linting
 

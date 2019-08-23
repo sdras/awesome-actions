@@ -116,6 +116,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [xUnit Slack Reporter: Sends summary of tests from xUnit reports to a Slack channel](https://github.com/ivanklee86/xunit-slack-reporter)
 - [Publishing code coverage to CodeClimate](https://github.com/paambaati/codeclimate-action)
 - [Run codeception tests](https://github.com/joelwmale/codeception-action)
+- [Audit a webpage with Google Chrome's Lighthouse tests](https://github.com/jakejarvis/lighthouse-action)
 
 ### Pull Requests
 

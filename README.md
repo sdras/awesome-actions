@@ -1,3 +1,5 @@
+![GitHub Actions status | sdras/awesome-actions](https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg)
+
 <p align="center">
   <br>
     <img src="https://image.ibb.co/cZ1q5f/awesome-actions.jpg" />
@@ -36,6 +38,20 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Official Documentation](https://help.github.com/en/categories/automating-your-workflow-with-github-actions) (for YML format actions)
 - [Official Actions Collection](https://github.com/actions)
 - [GitHub Blog Announcement](https://blog.github.com/2018-10-17-action-demos/)
+
+### Status badge
+
+![GitHub Actions status | sdras/awesome-actions](https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg)
+
+> *Official documentation about the status badge has not been written yet.*
+
+URL to a status badge SVG.
+
+```
+https://github.com/{github_id}/{repository}/workflows/{workflow_name}/badge.svg
+```
+
+An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg`
 
 ## Community Resources
 

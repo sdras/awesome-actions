@@ -1,3 +1,5 @@
+![GitHub Actions status | sdras/awesome-actions](https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg)
+
 <p align="center">
   <br>
     <img src="https://image.ibb.co/cZ1q5f/awesome-actions.jpg" />
@@ -37,6 +39,20 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Official Actions Collection](https://github.com/actions)
 - [GitHub Blog Announcement](https://blog.github.com/2018-10-17-action-demos/)
 
+### Status badge
+
+![GitHub Actions status | sdras/awesome-actions](https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg)
+
+> *Official documentation about the status badge has not been written yet.*
+
+URL to a status badge SVG.
+
+```
+https://github.com/{github_id}/{repository}/workflows/{workflow_name}/badge.svg
+```
+
+An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg`
+
 ## Community Resources
 
 ### GitHub Tools and Management
@@ -53,6 +69,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Add releases to GitHub](https://github.com/elgohr/Github-Release-Action)
 - [Publish a docker image to Dockerhub](https://github.com/elgohr/Publish-Docker-Github-Action)
 - [Create an issue using content from a file](https://github.com/peter-evans/create-issue-from-file)
+- [Publish GitHub Releases with Assets](https://github.com/softprops/action-gh-release)
 
 ### Collection of Actions
 
@@ -88,6 +105,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [GitHub Actions for Python project with poetry](https://github.com/abatilo/actions-poetry)
 - [GitHub Actions to compile LaTeX documents](https://github.com/xu-cheng/latex-action)
 - [Create an envfile](https://github.com/SpicyPizza/create-envfile)
+- [Update Maxmind Databases](https://github.com/meetup/maxmind-updater)
 - [Debug with SSH over tmate](https://github.com/mxschmitt/action-tmate) - Debug the Action directly by providing a SSH connection.
 
 ### Testing and Linting

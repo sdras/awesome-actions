@@ -53,6 +53,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Add releases to GitHub](https://github.com/elgohr/Github-Release-Action)
 - [Publish a docker image to Dockerhub](https://github.com/elgohr/Publish-Docker-Github-Action)
 - [Create an issue using content from a file](https://github.com/peter-evans/create-issue-from-file)
+- [Publish GitHub Releases with Assets](https://github.com/softprops/action-gh-release)
 
 ### Collection of Actions
 

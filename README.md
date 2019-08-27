@@ -78,7 +78,6 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Build Go apps using GoCenter](https://github.com/retgits/actions/tree/master/gocenter)
 - [Run pandoc](https://github.com/maxheld83/pandoc) - The swiss army knife for document conversions.
 - [Debug Action](https://github.com/hmarr/debug-action) - Print environment variables and event to the Actions logs.
-- [Debug with SSH over tmate](https://github.com/mxschmitt/action-tmate) - Debug the Action directly by providing a SSH connection.
 - [Gate actions by filtering if files matching a pattern have been touched](https://github.com/cds-snc/github-actions/tree/master/touched)
 - [Scan for secrets in your source code](https://github.com/cds-snc/github-actions/tree/master/seekret)
 - [Review the licenses of your node dependencies](https://github.com/cds-snc/github-actions/tree/master/node-license-checker)
@@ -89,6 +88,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [GitHub Actions for Python project with poetry](https://github.com/abatilo/actions-poetry)
 - [GitHub Actions to compile LaTeX documents](https://github.com/xu-cheng/latex-action)
 - [Create an envfile](https://github.com/SpicyPizza/create-envfile)
+- [Debug with SSH over tmate](https://github.com/mxschmitt/action-tmate) - Debug the Action directly by providing a SSH connection.
 
 ### Testing and Linting
 

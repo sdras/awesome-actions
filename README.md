@@ -89,6 +89,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [GitHub Actions for Python project with poetry](https://github.com/abatilo/actions-poetry)
 - [GitHub Actions to compile LaTeX documents](https://github.com/xu-cheng/latex-action)
 - [Create an envfile](https://github.com/SpicyPizza/create-envfile)
+- [Update Maxmind Databases](https://github.com/meetup/maxmind-updater)
 
 ### Testing and Linting
 

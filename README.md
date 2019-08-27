@@ -106,6 +106,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [GitHub Actions to compile LaTeX documents](https://github.com/xu-cheng/latex-action)
 - [Create an envfile](https://github.com/SpicyPizza/create-envfile)
 - [Update Maxmind Databases](https://github.com/meetup/maxmind-updater)
+- [Debug with SSH over tmate](https://github.com/mxschmitt/action-tmate) - Debug the Action directly by providing a SSH connection.
 
 ### Testing and Linting
 

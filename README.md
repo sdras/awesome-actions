@@ -137,6 +137,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Run codeception tests](https://github.com/joelwmale/codeception-action)
 - [Audit a webpage with Google Chrome's Lighthouse tests](https://github.com/jakejarvis/lighthouse-action)
 - [Run `localheinz/composer-normalize` to ensure your PHP project has a normalized `composer.json`](https://github.com/localheinz/composer-normalize-action)
+- [Run Go lint checks on PR event](https://github.com/ArangoGutierrez/GoLinty-Action)
 
 ### Pull Requests
 

@@ -34,6 +34,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 ## Official Resources
 
 - [Official Site](https://github.com/features/actions)
+- [Official Community Forum Board](https://github.community/t5/GitHub-Actions/bd-p/actions)
 - [Beta Documentation](https://developer.github.com/actions/) (for deprecated HCL format actions)
 - [Official Documentation](https://help.github.com/en/categories/automating-your-workflow-with-github-actions) (for YML format actions)
 - [Migrate Tool](https://github.com/actions/migrate) - Converts GitHub Actions main.workflow files into the new .yml syntax.

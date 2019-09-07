@@ -85,6 +85,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [GitHub Actions for WordPress](https://github.com/10up/actions-wordpress/)
 - [GitHub Actions for Composer](https://github.com/MilesChou/composer-action)
 - [GitHub Actions for Flutter](https://github.com/subosito/flutter-action)
+- [GitHub Actions for PHP](https://github.com/shivammathur/setup-php)
 
 ### Utility
 

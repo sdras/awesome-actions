@@ -45,7 +45,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 
 ![GitHub Actions status | sdras/awesome-actions](https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg)
 
-https://help.github.com/en/articles/configuring-a-workflow#adding-a-workflow-status-badge-to-your-repository
+[Adding a workflow status badge to your repository - GitHub Help](https://help.github.com/en/articles/configuring-a-workflow#adding-a-workflow-status-badge-to-your-repository)
 
 URL to a status badge SVG.
 

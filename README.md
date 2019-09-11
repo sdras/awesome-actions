@@ -194,6 +194,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Send a dynamic notification to any service using Apprise](https://github.com/cstuder/apprise-ga)
 - [Send a Push Notification via Push by Techulus](https://github.com/techulus/push-github-action)
 - [Send email with SendGrid](https://github.com/peter-evans/sendgrid-action)
+- [Send a Push Notification via Join](https://github.com/ShaunLWM/action-join)
 
 ### Deployment
 

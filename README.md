@@ -175,6 +175,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Google Dataset Search Metadata](https://www.github.com/openschemas/extractors/) - And other schema.org extractors to make datasets discoverable from GitHub pages.
 - [Deploy assets to GitHub pages](https://github.com/maxheld83/ghpages) - No building, just deploying.
 - [GitHub Actions for deploying to GitHub Pages with Static Site Generators](https://github.com/peaceiris/actions-gh-pages)
+- [GitHub Action for Hexo](https://github.com/heowc/action-hexo)
 
 ### Notifications and Messages
 

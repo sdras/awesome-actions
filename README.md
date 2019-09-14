@@ -64,14 +64,11 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Alternative (Python-based) for Running GitHub Actions Locally](https://github.com/systemslab/popper)
 - [Manage GitHub Action workflows and actions by cli](https://github.com/inextensodigital/actions/tree/master/github-workflow) - Allows you to script edition.
 - [GitHub Action Builder and Previewer](https://create-github-action.now.sh/)
-- [Move assigned issues to column in GitHub projects](https://github.com/alex-page/move-assigned-issue-column)
-- [Move assigned pull requests to column in GitHub projects](https://github.com/alex-page/move-assigned-pulls-column)
-- [Add new issues to GitHub projects](https://github.com/alex-page/add-new-issue-project)
-- [Add new pull requests to GitHub projects](https://github.com/alex-page/add-new-pulls-project)
 - [Add releases to GitHub](https://github.com/elgohr/Github-Release-Action)
 - [Publish a docker image to Dockerhub](https://github.com/elgohr/Publish-Docker-Github-Action)
 - [Create an issue using content from a file](https://github.com/peter-evans/create-issue-from-file)
 - [Publish GitHub Releases with Assets](https://github.com/softprops/action-gh-release)
+- [GitHub Project Automation+](https://github.com/alex-page/github-project-automation-plus) - Automate GitHub Project cards with any webhook event.
 
 ### Collection of Actions
 

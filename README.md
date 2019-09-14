@@ -68,7 +68,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Publish a docker image to Dockerhub](https://github.com/elgohr/Publish-Docker-Github-Action)
 - [Create an issue using content from a file](https://github.com/peter-evans/create-issue-from-file)
 - [Publish GitHub Releases with Assets](https://github.com/softprops/action-gh-release)
-- [GitHub Project Automation+](https://github.com/alex-page/github-project-automation-plus) - Automate GitHub Project cards with any webhook event
+- [GitHub Project Automation+](https://github.com/alex-page/github-project-automation-plus) - Automate GitHub Project cards with any webhook event.
 
 ### Collection of Actions
 

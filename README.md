@@ -83,6 +83,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [GitHub Actions for Composer](https://github.com/MilesChou/composer-action)
 - [GitHub Actions for Flutter](https://github.com/subosito/flutter-action)
 - [GitHub Actions for PHP](https://github.com/shivammathur/setup-php)
+- [GitHub Actions for Rust](https://github.com/actions-rs)
 
 ### Utility
 
@@ -226,6 +227,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Purge Cloudflare cache after updating a website](https://github.com/jakejarvis/cloudflare-purge-action)
 - [Sync/upload a directory to an AWS S3 bucket](https://github.com/jakejarvis/s3-sync-action)
 - [Publish a Python distribution package to PyPI](https://github.com/pypa/gh-action-pypi-publish)
+- [Deploy Static Website to Azure Storage](https://github.com/feeloor/azure-static-website-deploy)
 
 ### External Services
 

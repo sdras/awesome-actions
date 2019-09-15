@@ -225,6 +225,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Update a Docker Hub repository description from README.md](https://github.com/peter-evans/dockerhub-description)
 - [Purge Cloudflare cache after updating a website](https://github.com/jakejarvis/cloudflare-purge-action)
 - [Sync/upload a directory to an AWS S3 bucket](https://github.com/jakejarvis/s3-sync-action)
+- [Deploy Static Website to Azure Storage](https://github.com/feeloor/azure-static-website-deploy)
 
 ### External Services
 

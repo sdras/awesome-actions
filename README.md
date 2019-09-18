@@ -62,7 +62,6 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action)
 - [Run GitHub Actions Locally](https://github.com/nektos/act)
 - [Alternative (Python-based) for Running GitHub Actions Locally](https://github.com/systemslab/popper)
-- [Run GitHub Actions Locally with a web interface. Supports new YAML syntax](https://github.com/phishy/wflow)
 - [Manage GitHub Action workflows and actions by cli](https://github.com/inextensodigital/actions/tree/master/github-workflow) - Allows you to script edition.
 - [GitHub Action Builder and Previewer](https://create-github-action.now.sh/)
 - [Add releases to GitHub](https://github.com/elgohr/Github-Release-Action)
@@ -70,6 +69,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Create an issue using content from a file](https://github.com/peter-evans/create-issue-from-file)
 - [Publish GitHub Releases with Assets](https://github.com/softprops/action-gh-release)
 - [GitHub Project Automation+](https://github.com/alex-page/github-project-automation-plus) - Automate GitHub Project cards with any webhook event.
+- [Run GitHub Actions Locally with a web interface. Supports new YAML syntax](https://github.com/phishy/wflow)
 
 ### Collection of Actions
 

@@ -134,6 +134,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Lint terraform files using tflint](https://github.com/cds-snc/github-actions/tree/master/tf-lint)
 - [Validate Puppet modules using Puppet PDK](https://github.com/mpepping/github-actions/tree/master/pdk-validate)
 - [Scan git commits for secrets with gitleaks](https://github.com/eshork/gitleaks-action)
+- [Scan code with SonarCloud](https://github.com/sonarsource/sonarcloud-github-action)
 - [Send your code coverage to codecov.io](https://github.com/codecov/codecov-action)
 - [autopep8: Automatically formats Python code to conform to the PEP 8 style guide](https://github.com/peter-evans/autopep8)
 - [xUnit Slack Reporter: Sends summary of tests from xUnit reports to a Slack channel](https://github.com/ivanklee86/xunit-slack-reporter)

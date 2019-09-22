@@ -112,6 +112,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Debug with SSH over tmate](https://github.com/mxschmitt/action-tmate) - Debug the Action directly by providing a SSH connection.
 - [Unlock git-crypt files](https://github.com/sliteteam/github-action-git-crypt-unlock)
 - [Golang CGO cross compiler](https://github.com/crazy-max/ghaction-xgo)
+- [Generate OG Image](https://github.com/BoyWithSilverWings/generate-og-image) - Generate customisable open graph images from Markdown files
 
 ### Testing and Linting
 

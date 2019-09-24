@@ -234,6 +234,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Sync/upload a directory to an AWS S3 bucket](https://github.com/jakejarvis/s3-sync-action)
 - [Publish a Python distribution package to PyPI](https://github.com/pypa/gh-action-pypi-publish)
 - [Deploy Static Website to Azure Storage](https://github.com/feeloor/azure-static-website-deploy)
+- [Cross platform Chocolatey CLI to build and publish packages](https://github.com/crazy-max/ghaction-chocolatey)
 
 ### External Services
 

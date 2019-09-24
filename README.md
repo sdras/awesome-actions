@@ -238,6 +238,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Deploy Static Website to Azure Storage](https://github.com/feeloor/azure-static-website-deploy)
 - [Cross platform Chocolatey CLI to build and publish packages](https://github.com/crazy-max/ghaction-chocolatey)
 - [Deploy iOS Pod Library to Cocoapods](https://github.com/michaelhenry/deploy-to-cocoapods-github-action)
+- [GitHub Action for TencentCloud Serverless](https://github.com/Juliiii/action-scf)
 
 ### External Services
 

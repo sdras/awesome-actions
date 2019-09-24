@@ -237,6 +237,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Publish a Python distribution package to PyPI](https://github.com/pypa/gh-action-pypi-publish)
 - [Deploy Static Website to Azure Storage](https://github.com/feeloor/azure-static-website-deploy)
 - [Cross platform Chocolatey CLI to build and publish packages](https://github.com/crazy-max/ghaction-chocolatey)
+- [Deploy iOS Pod Library to Cocoapods](https://github.com/michaelhenry/deploy-to-cocoapods-github-action)
 
 ### External Services
 

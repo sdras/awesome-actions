@@ -87,6 +87,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [GitHub Actions for Flutter](https://github.com/subosito/flutter-action)
 - [GitHub Actions for PHP](https://github.com/shivammathur/setup-php)
 - [GitHub Actions for Rust](https://github.com/actions-rs)
+- [GitHub Actions for Yarn - new syntax](https://github.com/sergioramos/yarn-actions)
 
 ### Utility
 

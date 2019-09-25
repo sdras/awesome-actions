@@ -245,7 +245,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [GitHub Action for TencentCloud Serverless](https://github.com/Juliiii/action-scf)
 - [Publish npm (pre)releases](https://github.com/epeli/npm-release/)
 - [Publish Docker Images to the GitHub Package Registry (GPR)](https://github.com/machine-learning-apps/gpr-docker-publish)
-- [Get Kubeconfig File From Gooble Kubernetes Engine (GKE)](https://github.com/machine-learning-apps/gke-kubeconfig)
+- [Get Kubeconfig File From Google Kubernetes Engine (GKE)](https://github.com/machine-learning-apps/gke-kubeconfig)
 
 ### External Services
 

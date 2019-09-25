@@ -29,6 +29,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [External Services](#external-services)
   - [Frontend Tools](#frontend-tools)
   - [Internet of Things (IOT)](#internet-of-things-iot)
+  - [Machine Learning Ops](#machine-learning-ops)
 - [Tutorials](#tutorials)
 
 ## Official Resources
@@ -173,6 +174,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Verify pull requests contain a ticket reference](https://github.com/vijaykramesh/pr-lint-action)
 - [Create a pull request for changes to your repository in the actions workspace](https://github.com/peter-evans/create-pull-request)
 - [Pull Request Lint](https://github.com/seferov/pr-lint-action)
+- [ChatOps For Pull Requests](https://github.com/machine-learning-apps/actions-chatops)
 
 ### GitHub Pages
 
@@ -242,6 +244,8 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Deploy iOS Pod Library to Cocoapods](https://github.com/michaelhenry/deploy-to-cocoapods-github-action)
 - [GitHub Action for TencentCloud Serverless](https://github.com/Juliiii/action-scf)
 - [Publish npm (pre)releases](https://github.com/epeli/npm-release/)
+- [Publish Docker Images to the GitHub Package Registry (GPR)](https://github.com/machine-learning-apps/gpr-docker-publish)
+- [Get Kubeconfig File From Gooble Kubernetes Engine (GKE)](https://github.com/machine-learning-apps/gke-kubeconfig)
 
 ### External Services
 
@@ -267,6 +271,12 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 ### Internet of Things (IOT)
 
 - [Home Assistant Command](https://github.com/maddox/actions/tree/master/home-assistant)
+
+### Machine Learning Ops
+
+- [Submitting Argo Workflows](https://github.com/machine-learning-apps/actions-argo)
+- [Query Experiment Tracking Results From Weights & Biases](https://github.com/marketplace/actions/get-runs-from-weights-biases)
+- [Run Parameterized Jupyter Notebooks](https://github.com/yaananth/run-notebook)
 
 ## Tutorials
 

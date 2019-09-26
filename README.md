@@ -30,6 +30,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Frontend Tools](#frontend-tools)
   - [Internet of Things (IOT)](#internet-of-things-iot)
   - [Machine Learning Ops](#machine-learning-ops)
+  - [Performance Monitoring](#performance-monitoring)
 - [Tutorials](#tutorials)
 
 ## Official Resources
@@ -279,6 +280,10 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Submitting Argo Workflows](https://github.com/machine-learning-apps/actions-argo)
 - [Query Experiment Tracking Results From Weights & Biases](https://github.com/machine-learning-apps/wandb-action)
 - [Run Parameterized Jupyter Notebooks](https://github.com/yaananth/run-notebook)
+
+### Performance Monitoring
+
+- [Run Lighthouse in CI using GitHub Actions](https://github.com/treosh/lighthouse-ci-action)
 
 ## Tutorials
 

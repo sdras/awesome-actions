@@ -134,10 +134,12 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Run web performance audits using Sitespeed.io](https://github.com/sitespeedio/sitespeed.io/tree/master/docker/github-action)
 - [Run Tests through Puppeteer, the Headless Chrome Node API](https://github.com/ianwalter/puppeteer)
 - [Run ESLint with status checks and file diff annotations](https://github.com/gimenete/eslint-action)
+- [Run ESLint, with reviewdog output on the PR](https://github.com/reviewdog/action-eslint)
 - [JavaScript-based linter for \*.workflow files](https://github.com/OmarTawfik/github-actions-js)
 - [Send your latest code coverage score to Coveralls.io](https://github.com/gavinhenderson/coveralls-action)
 - [Lint a Dockerfile using Hadolint](https://github.com/cds-snc/github-actions/tree/master/docker-lint)
 - [Lint terraform files using tflint](https://github.com/cds-snc/github-actions/tree/master/tf-lint)
+- [Lint terraform files using tflint, with reviewdog output on the PR](https://github.com/reviewdog/action-tflint)
 - [Validate Puppet modules using Puppet PDK](https://github.com/mpepping/github-actions/tree/master/pdk-validate)
 - [Scan git commits for secrets with gitleaks](https://github.com/eshork/gitleaks-action)
 - [Scan code with SonarCloud](https://github.com/sonarsource/sonarcloud-github-action)
@@ -152,9 +154,14 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Node.js - Automatically run the `format` and/or `lint` script used by the package](https://github.com/MarvinJWendt/run-node-formatter)
 - [Continuous Benchmarking and Benchmark Visualization for Go](https://github.com/bobheadxi/gobenchdata)
 - [Stylelinter - GitHub Action that runs stylelint](https://github.com/exelban/stylelint)
+- [Run stylelint, with reviewdog output on the PR](https://github.com/reviewdog/action-stylelint)
 - [PyCodeStyle Action - A GitHub Action that leaves a comment on your PR with pycodestyle (autopep8) feedback](https://github.com/ankitvgupta/pycodestyle-action)
 - [wemake-python-styleguide - The strictest and most opinionated python linter ever](https://github.com/wemake-services/wemake-python-styleguide)
 - [Run TSLint with status checks and file diff annotations](https://github.com/mooyoul/tslint-actions)
+- [Run vint, with reviewdog output on the PR](https://github.com/reviewdog/action-vint)
+- [Run mispell, with reviewdog output on the PR](https://github.com/reviewdog/action-misspell)
+- [Run golangci-lint, with reviewdog output on the PR](https://github.com/reviewdog/action-golangci-lint)
+- [Run shellcheck, with reviewdog output on the PR](https://github.com/reviewdog/action-shellcheck)
 
 ### Pull Requests
 

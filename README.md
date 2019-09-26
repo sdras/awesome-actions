@@ -283,7 +283,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 
 ### Performance Monitoring
 
-- [Run Lighthouse in CI using Github Actions](https://github.com/treosh/lighthouse-ci-action)
+- [Run Lighthouse in CI using GitHub Actions](https://github.com/treosh/lighthouse-ci-action)
 
 ## Tutorials
 

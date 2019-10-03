@@ -178,6 +178,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Create a pull request for changes to your repository in the actions workspace](https://github.com/peter-evans/create-pull-request)
 - [Pull Request Lint](https://github.com/seferov/pr-lint-action)
 - [ChatOps For Pull Requests](https://github.com/machine-learning-apps/actions-chatops)
+- [Block Autosquash Commits](https://github.com/xt0rted/block-autosquash-commits-action)
 
 ### GitHub Pages
 

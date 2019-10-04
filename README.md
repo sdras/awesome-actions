@@ -118,7 +118,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Unlock git-crypt files](https://github.com/sliteteam/github-action-git-crypt-unlock)
 - [Golang CGO cross compiler](https://github.com/crazy-max/ghaction-xgo)
 - [Export global environment variables for succeeding build steps](https://github.com/zweitag/github-actions)
-- [Set environment variables for use in subsequent steps](https://github.com/allenevans/set-env)
+- [Programmatically set environment variables for use in subsequent steps](https://github.com/allenevans/set-env)
 
 ### Testing and Linting
 

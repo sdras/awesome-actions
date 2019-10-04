@@ -226,6 +226,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Deploy a Cloudflare worker](https://github.com/cpilsworth/cloudflare-worker-action)
 - [Deploy your DNS configuration using DNS Control](https://github.com/koenrh/dnscontrol-action)
 - [Using surge.sh, deploy your branch specific storybook as a pull request deployment](https://github.com/codeship/storybook-surge-github-action)
+- [Deploy a static site to Surge.sh](https://github.com/yavisht/deploy-via-surge.sh-github-action-template)
 - [Create Release Archive](https://github.com/lubusIN/actions/tree/master/archive)
 - [Publish WordPress Plugin](https://github.com/lubusIN/actions/tree/master/wordpress)
 - [Deploy a Theme to Shopify](https://github.com/pgrimaud/action-shopify)

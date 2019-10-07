@@ -100,7 +100,6 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [SSH](https://github.com/maddox/actions/tree/master/ssh) - Run SSH commands on a server.
 - [Setup `ssh-agent`](https://github.com/webfactory/ssh-agent) - Run `ssh-agent` with additional SSH keys to access private repositories.
 - [General purpose HTTP client for Actions, wrapping HTTPie](https://github.com/swinton/httpie-action)
-- [Build Go apps using GoCenter](https://github.com/retgits/actions/tree/master/gocenter)
 - [Run pandoc](https://github.com/maxheld83/pandoc) - The swiss army knife for document conversions.
 - [Debug Action](https://github.com/hmarr/debug-action) - Print environment variables and event to the Actions logs.
 - [Gate actions by filtering if files matching a pattern have been touched](https://github.com/cds-snc/github-actions/tree/master/touched)

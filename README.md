@@ -100,7 +100,6 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [SSH](https://github.com/maddox/actions/tree/master/ssh) - Run SSH commands on a server.
 - [Setup `ssh-agent`](https://github.com/webfactory/ssh-agent) - Run `ssh-agent` with additional SSH keys to access private repositories.
 - [General purpose HTTP client for Actions, wrapping HTTPie](https://github.com/swinton/httpie-action)
-- [Build Go apps using GoCenter](https://github.com/retgits/actions/tree/master/gocenter)
 - [Run pandoc](https://github.com/maxheld83/pandoc) - The swiss army knife for document conversions.
 - [Debug Action](https://github.com/hmarr/debug-action) - Print environment variables and event to the Actions logs.
 - [Gate actions by filtering if files matching a pattern have been touched](https://github.com/cds-snc/github-actions/tree/master/touched)
@@ -118,6 +117,9 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Unlock git-crypt files](https://github.com/sliteteam/github-action-git-crypt-unlock)
 - [Golang CGO cross compiler](https://github.com/crazy-max/ghaction-xgo)
 - [Export global environment variables for succeeding build steps](https://github.com/zweitag/github-actions)
+- [Programmatically set environment variables for use in subsequent steps](https://github.com/allenevans/set-env)
+- [Run your job on another architecture: arm32, aarch64 and others](https://github.com/uraimo/run-on-arch-action)
+- [Generate a table of contents](https://github.com/technote-space/toc-generator)
 
 ### Testing and Linting
 
@@ -156,6 +158,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [PyCodeStyle Action - A GitHub Action that leaves a comment on your PR with pycodestyle (autopep8) feedback](https://github.com/ankitvgupta/pycodestyle-action)
 - [wemake-python-styleguide - The strictest and most opinionated python linter ever](https://github.com/wemake-services/wemake-python-styleguide)
 - [Run TSLint with status checks and file diff annotations](https://github.com/mooyoul/tslint-actions)
+- [Lint Pull Request commits with commitlint](https://github.com/wagoid/commitlint-github-action)
 
 ### Pull Requests
 
@@ -178,6 +181,8 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Create a pull request for changes to your repository in the actions workspace](https://github.com/peter-evans/create-pull-request)
 - [Pull Request Lint](https://github.com/seferov/pr-lint-action)
 - [ChatOps For Pull Requests](https://github.com/machine-learning-apps/actions-chatops)
+- [Prefix title and body of a PR based on text extracted from branch name](https://github.com/tzkhan/pr-update-action)
+- [Block Autosquash Commits](https://github.com/xt0rted/block-autosquash-commits-action)
 
 ### GitHub Pages
 
@@ -249,6 +254,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Publish npm (pre)releases](https://github.com/epeli/npm-release/)
 - [Publish Docker Images to the GitHub Package Registry (GPR)](https://github.com/machine-learning-apps/gpr-docker-publish)
 - [Get Kubeconfig File From Google Kubernetes Engine (GKE)](https://github.com/machine-learning-apps/gke-kubeconfig)
+- [Deploy a static site to Surge.sh](https://github.com/yavisht/deploy-via-surge.sh-github-action-template)
 - [GitHub Action for GoReleaser, a release automation tool for Go projects](https://github.com/goreleaser/goreleaser-action)
 
 ### External Services
@@ -261,6 +267,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [GitHub Action for Contentful Migration CLI](https://github.com/Shy/contentful-action)
 - [GitHub Actions for Pixela (a-know/pi)](https://github.com/peaceiris/actions-pixela)
 - [GitHub Action for Google Cloud Platform (GCP)](https://github.com/exelban/gcloud)
+- [Upload files to any OpenStack Swift service provider](https://github.com/iksaku/openstack-swift-action)
 
 ### Frontend Tools
 

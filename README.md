@@ -265,6 +265,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [GitHub Action for Contentful Migration CLI](https://github.com/Shy/contentful-action)
 - [GitHub Actions for Pixela (a-know/pi)](https://github.com/peaceiris/actions-pixela)
 - [GitHub Action for Google Cloud Platform (GCP)](https://github.com/exelban/gcloud)
+- [Upload files to any OpenStack Swift service provider](https://github.com/iksaku/openstack-swift-action)
 
 ### Frontend Tools
 

@@ -155,6 +155,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [PyCodeStyle Action - A GitHub Action that leaves a comment on your PR with pycodestyle (autopep8) feedback](https://github.com/ankitvgupta/pycodestyle-action)
 - [wemake-python-styleguide - The strictest and most opinionated python linter ever](https://github.com/wemake-services/wemake-python-styleguide)
 - [Run TSLint with status checks and file diff annotations](https://github.com/mooyoul/tslint-actions)
+- [Lint Pull Request commits with commitlint](https://github.com/wagoid/commitlint-github-action)
 
 ### Pull Requests
 

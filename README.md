@@ -190,6 +190,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [ChatOps For Pull Requests](https://github.com/machine-learning-apps/actions-chatops)
 - [Prefix title and body of a PR based on text extracted from branch name](https://github.com/tzkhan/pr-update-action)
 - [Block Autosquash Commits](https://github.com/xt0rted/block-autosquash-commits-action)
+- [Automatically Bump and Tag on Merge](https://github.com/anothrNick/github-tag-action)
 
 ### GitHub Pages
 

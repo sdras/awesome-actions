@@ -121,6 +121,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Programmatically set environment variables for use in subsequent steps](https://github.com/allenevans/set-env)
 - [Run your job on another architecture: arm32, aarch64 and others](https://github.com/uraimo/run-on-arch-action)
 - [Generate a table of contents](https://github.com/technote-space/toc-generator)
+- [Generate build numbers across multiple scopes](https://github.com/zyborg/gh-action-buildnum)
 
 ### Testing and Linting
 

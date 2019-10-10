@@ -31,6 +31,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Internet of Things (IOT)](#internet-of-things-iot)
   - [Machine Learning Ops](#machine-learning-ops)
   - [Performance Monitoring](#performance-monitoring)
+  - [Cheat Sheet](#cheat-sheet)
 - [Tutorials](#tutorials)
 
 ## Official Resources
@@ -305,6 +306,10 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 ### Performance Monitoring
 
 - [Run Lighthouse in CI using GitHub Actions](https://github.com/treosh/lighthouse-ci-action)
+
+### Cheat Sheet
+
+- [GitHub Actions Branding Cheat Sheet](https://haya14busa.github.io/github-action-brandings/)
 
 ## Tutorials
 

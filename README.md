@@ -119,6 +119,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Programmatically set environment variables for use in subsequent steps](https://github.com/allenevans/set-env)
 - [Run your job on another architecture: arm32, aarch64 and others](https://github.com/uraimo/run-on-arch-action)
 - [Generate a table of contents](https://github.com/technote-space/toc-generator)
+- [Action to send LGTM reaction as image or GIF when we say lgtm](https://github.com/micnncim/action-lgtm-reaction)
 
 ### Testing and Linting
 

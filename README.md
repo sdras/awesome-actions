@@ -38,9 +38,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 
 - [Official Site](https://github.com/features/actions)
 - [Official Community Forum Board](https://github.community/t5/GitHub-Actions/bd-p/actions)
-- [Beta Documentation](https://developer.github.com/actions/) (for deprecated HCL format actions)
 - [Official Documentation](https://help.github.com/en/categories/automating-your-workflow-with-github-actions) (for YML format actions)
-- [Migrate Tool](https://github.com/actions/migrate) - Converts GitHub Actions main.workflow files into the new .yml syntax.
 - [Official Actions Collection](https://github.com/actions)
 - [GitHub Blog Announcement](https://blog.github.com/2018-10-17-action-demos/)
 
@@ -63,6 +61,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 ### GitHub Tools and Management
 
 - [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action)
+- [Action to sync GitHub labels in the declarative way](https://github.com/micnncim/action-label-syncer)
 - [Run GitHub Actions Locally](https://github.com/nektos/act)
 - [Alternative (Python-based) for Running GitHub Actions Locally](https://github.com/systemslab/popper)
 - [Manage GitHub Action workflows and actions by cli](https://github.com/inextensodigital/actions/tree/master/github-workflow) - Allows you to script edition.
@@ -121,6 +120,8 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Programmatically set environment variables for use in subsequent steps](https://github.com/allenevans/set-env)
 - [Run your job on another architecture: arm32, aarch64 and others](https://github.com/uraimo/run-on-arch-action)
 - [Generate a table of contents](https://github.com/technote-space/toc-generator)
+- [Automatically add Label or Assignee to an Issue](https://github.com/Naturalclar/issue-action)
+- [Action to send LGTM reaction as image or GIF when we say lgtm](https://github.com/micnncim/action-lgtm-reaction)
 - [Generate build numbers across multiple scopes](https://github.com/zyborg/gh-action-buildnum)
 
 ### Testing and Linting
@@ -193,6 +194,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Prefix title and body of a PR based on text extracted from branch name](https://github.com/tzkhan/pr-update-action)
 - [Block Autosquash Commits](https://github.com/xt0rted/block-autosquash-commits-action)
 - [Automatically Bump and Tag on Merge](https://github.com/anothrNick/github-tag-action)
+- [Automatically Update PRs with Outdated Checks and Squash and Merge the Ones Matching All Branch Protections](https://github.com/tibdex/autosquash)
 
 ### GitHub Pages
 
@@ -270,6 +272,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Deploy a static site to Surge.sh](https://github.com/yavisht/deploy-via-surge.sh-github-action-template)
 - [GitHub Action for GoReleaser, a release automation tool for Go projects](https://github.com/goreleaser/goreleaser-action)
 - [FTP Deploy Action, Deploys a GitHub project to a FTP server using GitHub actions](https://github.com/SamKirkland/FTP-Deploy-Action)
+- [Publish Article to Dev.to](https://github.com/tylerauerbeck/publish-to-dev.to-action)
 
 ### External Services
 

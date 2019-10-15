@@ -61,6 +61,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 ### GitHub Tools and Management
 
 - [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action)
+- [Action to sync GitHub labels in the declarative way](https://github.com/micnncim/action-label-syncer)
 - [Run GitHub Actions Locally](https://github.com/nektos/act)
 - [Alternative (Python-based) for Running GitHub Actions Locally](https://github.com/systemslab/popper)
 - [Manage GitHub Action workflows and actions by cli](https://github.com/inextensodigital/actions/tree/master/github-workflow) - Allows you to script edition.

@@ -122,6 +122,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Generate a table of contents](https://github.com/technote-space/toc-generator)
 - [Automatically add Label or Assignee to an Issue](https://github.com/Naturalclar/issue-action)
 - [Action to send LGTM reaction as image or GIF when we say lgtm](https://github.com/micnncim/action-lgtm-reaction)
+- [Generate build numbers across multiple scopes](https://github.com/zyborg/gh-action-buildnum)
 
 ### Testing and Linting
 

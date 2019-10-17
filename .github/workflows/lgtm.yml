@@ -1,4 +1,4 @@
-name: Send LGTM reaction
+name: LGTM Reaction
 on:
   issue_comment:
     types: [created]
@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@1.0.0
-      - uses: micnncim/action-lgtm-reaction@0.5.4
+      - uses: micnncim/action-lgtm-reaction@v0.5.4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY: ${{ github.repository }}

@@ -20,6 +20,6 @@ jobs:
           GITHUB_REVIEW_BODY: ${{ github.event.review.body }}
           GITHUB_REVIEW_ID: ${{ github.event.review.id }}
         with:
-          trigger: '^(lgtm|LGTM)!?$'
+          trigger: '["^LGTM!?$"]'
           override: true
           source: lgtmapp

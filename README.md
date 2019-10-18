@@ -275,6 +275,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [GitHub Action for GoReleaser, a release automation tool for Go projects](https://github.com/goreleaser/goreleaser-action)
 - [FTP Deploy Action, Deploys a GitHub project to a FTP server using GitHub actions](https://github.com/SamKirkland/FTP-Deploy-Action)
 - [Publish Article to Dev.to](https://github.com/tylerauerbeck/publish-to-dev.to-action)
+- [Action For Semantic Release](https://github.com/cycjimmy/semantic-release-action)
 
 ### External Services
 

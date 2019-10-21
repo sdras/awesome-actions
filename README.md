@@ -256,6 +256,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [GitHub Deployment API](https://github.com/unacast/actions/tree/master/github-deploy)
 - [GitHub Action for zem](https://github.com/artemnovichkov/action-zem)
 - [GitHub Action for Homebrew](https://github.com/artemnovichkov/action-homebrew)
+- [GitHub Action for Homebrew Tap](https://github.com/izumin5210/action-homebrew-tap)
 - [Deploy Lambda code to an existing function](https://github.com/appleboy/lambda-action)
 - [Copy files and artifacts via SSH](https://github.com/appleboy/scp-action)
 - [Executing remote ssh commands](https://github.com/appleboy/ssh-action)

@@ -171,6 +171,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Run mispell, with reviewdog output on the PR](https://github.com/reviewdog/action-misspell)
 - [Run golangci-lint, with reviewdog output on the PR](https://github.com/reviewdog/action-golangci-lint)
 - [Run shellcheck, with reviewdog output on the PR](https://github.com/reviewdog/action-shellcheck)
+- [Build Go applications for multiplatform](https://github.com/izumin5210/action-go-crossbuild)
 
 ### Pull Requests
 

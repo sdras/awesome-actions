@@ -274,7 +274,8 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 
 ### Machine Learning Ops
 
-- [Submitting Argo Workflows](https://github.com/machine-learning-apps/actions-argo)
+- [Submitting Argo Workflows (Cloud Agnostic)](https://github.com/machine-learning-apps/actions-argo)
+- [Submitting Argo Workflows to GKE](https://github.com/machine-learning-apps/gke-argo)
 - [Query Experiment Tracking Results From Weights & Biases](https://github.com/machine-learning-apps/wandb-action)
 - [Run Parameterized Jupyter Notebooks](https://github.com/yaananth/run-notebook)
 

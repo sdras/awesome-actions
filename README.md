@@ -22,6 +22,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Collection of Actions](#collection-of-actions)
   - [Utility](#utility)
   - [Testing and Linting](#testing-and-linting)
+  - [Security](#security)
   - [Pull Requests](#pull-requests)
   - [GitHub Pages](#github-pages)
   - [Notifications and Messages](#notifications-and-messages)
@@ -173,6 +174,9 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Run golangci-lint, with reviewdog output on the PR](https://github.com/reviewdog/action-golangci-lint)
 - [Run shellcheck, with reviewdog output on the PR](https://github.com/reviewdog/action-shellcheck)
 - [Build Go applications for multiplatform](https://github.com/izumin5210/action-go-crossbuild)
+
+### Security
+- [A vulnerability scanner for your docker images](https://github.com/phonito/phonito-scanner-action)
 
 ### Pull Requests
 

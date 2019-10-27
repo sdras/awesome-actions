@@ -74,6 +74,7 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 - [Run GitHub Actions Locally with a web interface. Supports new YAML syntax](https://github.com/phishy/wflow)
 - [Build and Publish Android debug APK](https://github.com/ShaunLWM/action-release-debugapk)
 - [Generate sequential build numbers for GitHub Actions](https://github.com/einaregilsson/build-number)
+- [Push Git changes to GitHub repository without authentication difficulties](https://github.com/ad-m/github-push-action)
 
 ### Collection of Actions
 

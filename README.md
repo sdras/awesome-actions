@@ -81,7 +81,6 @@ An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%2
 
 - [Many linters and autofixers for various languages](https://github.com/bltavares/actions)
 - [Node.js Actions Toolkit](https://github.com/JasonEtco/actions-toolkit)
-- [Cache dependencies and build outputs](https://github.com/actions/cache)
 - [Use HashiCorp's Terraform](https://github.com/hashicorp/terraform-github-actions)
 - [GitHub Actions for Yarn](https://github.com/Borales/actions-yarn)
 - [GitHub Actions for Golang](https://github.com/cedrickring/golang-action)

@@ -17,6 +17,15 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 ## Contents
 
 - [Official Resources](#official-resources)
+  - [Workflow Examples](#workflow-examples)
+  - [Official Actions](#official-actions)
+    - [Workflow Tool Actions](#workflow-tool-actions)
+    - [Actions for GitHub Automation](#actions-for-github-automation)
+    - [Setup Actions](#setup-actions)
+  - [Create your Actions](#create-your-actions)
+    - [JavaScript and TypeScript Actions](#javascript-and-typescript-actions)
+    - [Docker Container Actions](#docker-container-actions)
+  - [Status Badge](#status-badge)
 - [Community Resources](#community-resources)
   - [GitHub Tools and Management](#github-tools-and-management)
   - [Collection of Actions](#collection-of-actions)
@@ -40,10 +49,66 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Official Site](https://github.com/features/actions)
 - [Official Community Forum Board](https://github.community/t5/GitHub-Actions/bd-p/actions)
 - [Official Documentation](https://help.github.com/en/github/automating-your-workflow-with-github-actions)
-- [Official Actions Collection](https://github.com/actions)
+- [Official Actions organization](https://github.com/actions)
+  - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments.
 - [GitHub Blog Announcement](https://github.blog/2018-10-17-action-demos/)
 
-### Status badge
+### Workflow Examples
+
+- [actions/starter-workflows](https://github.com/actions/starter-workflows) - Starter workflow management.
+- [actions/example-services](https://github.com/actions/example-services) - Example workflows using service containers.
+
+### Official Actions
+
+#### Workflow Tool Actions
+
+Tool actions for your workflow.
+
+- [actions/checkout](https://github.com/actions/checkout) - Setup your repository on your workflow.
+- [actions/upload-artifact](https://github.com/actions/upload-artifact) - Upload artifacts from your workflow.
+- [actions/download-artifact](https://github.com/actions/download-artifact) - Download artifacts from your build.
+- [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions.
+- [actions/github-script](https://github.com/actions/github-script) - Write a script for GitHub API and the workflow contexts.
+- [actions/github](https://github.com/actions/github) - Wraps actions-toolkit into an Action for common GitHub automations.
+
+#### Actions for GitHub Automation
+
+Automate management for issues, pull requests, and releases.
+
+- [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API.
+- [actions/upload-release-asset](https://github.com/actions/upload-release-asset) - An Action to upload a release asset via the GitHub Release API.
+- [actions/first-interaction](https://github.com/actions/first-interaction) - An action for filtering pull requests and issues from first-time contributors.
+- [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction.
+- [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests.
+
+#### Setup Actions
+
+Set up your GitHub Actions workflow with a specific version of your programming languages.
+
+- [actions/setup-node: Node.js](https://github.com/actions/setup-node)
+- [actions/setup-python: Python](https://github.com/actions/setup-python)
+- [actions/setup-go: Go](https://github.com/actions/setup-go)
+- [actions/setup-dotnet: .NET core sdk](https://github.com/actions/setup-dotnet)
+- [actions/setup-haskell: Haskell (GHC and Cabal)](https://github.com/actions/setup-haskell)
+- [actions/setup-java: Java](https://github.com/actions/setup-java)
+- [actions/setup-ruby: Ruby](https://github.com/actions/setup-ruby)
+- [actions/setup-elixir: Elixir](https://github.com/actions/setup-elixir)
+
+### Create your Actions
+
+#### JavaScript and TypeScript Actions
+
+- [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
+- [actions/hello-world-javascript-action](https://github.com/actions/hello-world-javascript-action) - A template to demonstrate how to build a JavaScript action.
+- [actions/javascript-action](https://github.com/actions/javascript-action) - Create a JavaScript Action.
+- [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action.
+
+#### Docker Container Actions
+
+- [actions/hello-world-docker-action](https://github.com/actions/hello-world-docker-action) - A template to demonstrate how to build a Docker action.
+- [actions/container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using actions/toolkit.
+
+### Status Badge
 
 ![GitHub Actions status | sdras/awesome-actions](https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg)
 

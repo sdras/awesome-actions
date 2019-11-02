@@ -107,15 +107,20 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ![GitHub Actions status | sdras/awesome-actions](https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg)
 
-[Adding a workflow status badge to your repository - GitHub Help](https://help.github.com/en/github/automating-your-workflow-with-github-actions/configuring-a-workflow#adding-a-workflow-status-badge-to-your-repository)
+- [Adding a workflow status badge to your repository - GitHub Help](https://help.github.com/en/github/automating-your-workflow-with-github-actions/configuring-a-workflow#adding-a-workflow-status-badge-to-your-repository)
 
 URL to a status badge SVG.
 
-```
-https://github.com/{github_id}/{repository}/workflows/{workflow_name}/badge.svg
-```
+```sh
+# Workflow name
+https://github.com/<OWNER>/<REPOSITORY>/workflows/<WORKFLOW_NAME>/badge.svg
 
-An example: `https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg`
+# File path
+https://github.com/<OWNER>/<REPOSITORY>/workflows/<WORKFLOW_FILE_PATH>/badge.svg
+
+# An example
+https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg
+```
 
 ## Community Resources
 

@@ -39,15 +39,15 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 
 - [Official Site](https://github.com/features/actions)
 - [Official Community Forum Board](https://github.community/t5/GitHub-Actions/bd-p/actions)
-- [Official Documentation](https://help.github.com/en/categories/automating-your-workflow-with-github-actions)
+- [Official Documentation](https://help.github.com/en/github/automating-your-workflow-with-github-actions)
 - [Official Actions Collection](https://github.com/actions)
-- [GitHub Blog Announcement](https://blog.github.com/2018-10-17-action-demos/)
+- [GitHub Blog Announcement](https://github.blog/2018-10-17-action-demos/)
 
 ### Status badge
 
 ![GitHub Actions status | sdras/awesome-actions](https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg)
 
-[Adding a workflow status badge to your repository - GitHub Help](https://help.github.com/en/articles/configuring-a-workflow#adding-a-workflow-status-badge-to-your-repository)
+[Adding a workflow status badge to your repository - GitHub Help](https://help.github.com/en/github/automating-your-workflow-with-github-actions/configuring-a-workflow#adding-a-workflow-status-badge-to-your-repository)
 
 URL to a status badge SVG.
 

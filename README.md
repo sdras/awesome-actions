@@ -12,7 +12,7 @@
 
 > A curated list of awesome things related to [GitHub Actions](https://github.com/features/actions).
 
-Actions are triggered by GitHub platform events directly in a repo and run on-demand workflows either on Linux, Windows or macOS virtual machines or inside a container in response.  With GitHub Actions you can automate your workflow from idea to production.
+Actions are triggered by GitHub platform events directly in a repo and run on-demand workflows either on Linux, Windows or macOS virtual machines or inside a container in response. With GitHub Actions you can automate your workflow from idea to production.
 
 ## Contents
 
@@ -241,8 +241,10 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Run golangci-lint, with reviewdog output on the PR](https://github.com/reviewdog/action-golangci-lint)
 - [Run shellcheck, with reviewdog output on the PR](https://github.com/reviewdog/action-shellcheck)
 - [Build Go applications for multiplatform](https://github.com/izumin5210/action-go-crossbuild)
+- [Catch insensitive, inconsiderate writing in your markdown docs](https://github.com/theashraf/alex-action)
 
 ### Security
+
 - [A vulnerability scanner for your docker images](https://github.com/phonito/phonito-scanner-action)
 
 ### Pull Requests
@@ -404,7 +406,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Continuous deployment of Next.js app with Up](https://medium.com/@romanenko/simple-ci-for-next-js-projects-with-apex-up-github-actions-6f0b1b9a5400)
 - [Converting Docker-based Actions to JavaScript/TypeScript](https://httgp.com/converting-github-actions-from-docker-to-javascript/)
 - [GitHub Actions CI for Swift/iOS Projects](https://medium.com/rosberryapps/github-actions-ci-for-swift-projects-c129baceed1a)
-> Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information
+  > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information
 
 ## License
 

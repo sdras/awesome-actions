@@ -270,7 +270,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Block Autosquash Commits](https://github.com/xt0rted/block-autosquash-commits-action)
 - [Automatically Bump and Tag on Merge](https://github.com/anothrNick/github-tag-action)
 - [Automatically Update PRs with Outdated Checks and Squash and Merge the Ones Matching All Branch Protections](https://github.com/tibdex/autosquash)
-- [An example of using Terraform to validate and apply github administration](https://github.com/asgharlabs/github-terraform/tree/master/.github/workflows)
+
 
 ### GitHub Pages
 
@@ -352,6 +352,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Publish Article to Dev.to](https://github.com/tylerauerbeck/publish-to-dev.to-action)
 - [Action For Semantic Release](https://github.com/cycjimmy/semantic-release-action)
 - [Deploy a Collection to Ansible Galaxy](https://github.com/artis3n/ansible_galaxy_collection)
+- [An example of using Terraform to validate and apply GitHub administration](https://github.com/asgharlabs/github-terraform/tree/master/.github/workflows)
 
 ### External Services
 

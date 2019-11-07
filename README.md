@@ -367,6 +367,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 
 ### Frontend Tools
 
+- [Runs Lighthouse and posts results to PRs and Slack](https://github.com/foo-software/lighthouse-check-action)
 - [Execute Gradle task](https://github.com/MrRamych/gradle-actions)
 - [JS Build Actions](https://github.com/elstudio/actions-js-build) - Run Grunt or Gulp build tasks and commit file changes.
 - [Ember CLI Actions](https://github.com/NuckChorris/ember-cli-actions)

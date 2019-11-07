@@ -244,6 +244,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 
 ### Security
 - [A vulnerability scanner for your docker images](https://github.com/phonito/phonito-scanner-action)
+- [Automatically approve and merge Dependabot updates](https://github.com/ridedott/dependabot-auto-merge-action)
 
 ### Pull Requests
 

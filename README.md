@@ -306,6 +306,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [New package version checker for npm](https://github.com/MeilCli/npm-update-check-action)
 - [New package version checker for NuGet](https://github.com/MeilCli/nuget-update-check-action)
 - [New package version checker for Gradle](https://github.com/MeilCli/gradle-update-check-action)
+- [Send a Push Notification via Pushbullet](https://github.com/ShaunLWM/action-pushbullet)
 
 ### Deployment
 

@@ -194,6 +194,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Generate build numbers across multiple scopes](https://github.com/zyborg/gh-action-buildnum)
 - [Restrict cursing action](https://github.com/sobolevn/restrict-cursing-action) - Moderator bot for your project, automatically removes bad language.
 - [Publish GitHub release artifacts](https://github.com/skx/github-action-publish-binaries)
+- [Jekyll Diff Action](https://github.com/David-Byrne/jekyll-diff-action) - Diffs the built Jekyll site after a change, and comments the result back to GitHub.
 
 ### Testing and Linting
 
@@ -246,6 +247,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 ### Security
 
 - [A vulnerability scanner for your docker images](https://github.com/phonito/phonito-scanner-action)
+- [Automatically approve and merge Dependabot updates](https://github.com/ridedott/dependabot-auto-merge-action)
 
 ### Pull Requests
 
@@ -307,6 +309,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [New package version checker for npm](https://github.com/MeilCli/npm-update-check-action)
 - [New package version checker for NuGet](https://github.com/MeilCli/nuget-update-check-action)
 - [New package version checker for Gradle](https://github.com/MeilCli/gradle-update-check-action)
+- [Send a Push Notification via Pushbullet](https://github.com/ShaunLWM/action-pushbullet)
 
 ### Deployment
 
@@ -376,6 +379,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Runs a WebPageTest audit and prints the results as commit comment](https://github.com/JCofman/webPagetestAction)
 - [GitHub Actions for Hugo extended](https://github.com/peaceiris/actions-hugo)
 - [Generate OG Image](https://github.com/BoyWithSilverWings/generate-og-image) - Generate customisable open graph images from Markdown files.
+- [Runs Lighthouse and posts results to PRs and Slack](https://github.com/foo-software/lighthouse-check-action)
 
 ### Internet of Things (IOT)
 
@@ -406,6 +410,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Continuous deployment of Next.js app with Up](https://medium.com/@romanenko/simple-ci-for-next-js-projects-with-apex-up-github-actions-6f0b1b9a5400)
 - [Converting Docker-based Actions to JavaScript/TypeScript](https://httgp.com/converting-github-actions-from-docker-to-javascript/)
 - [GitHub Actions CI for Swift/iOS Projects](https://medium.com/rosberryapps/github-actions-ci-for-swift-projects-c129baceed1a)
+- [Working with GitHub Actions](https://jeffrafter.com/working-with-github-actions)
 
 > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information
 

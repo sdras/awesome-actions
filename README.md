@@ -243,6 +243,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Run shellcheck, with reviewdog output on the PR](https://github.com/reviewdog/action-shellcheck)
 - [Build Go applications for multiplatform](https://github.com/izumin5210/action-go-crossbuild)
 - [Catch insensitive, inconsiderate writing in your markdown docs](https://github.com/theashraf/alex-action)
+- [Run TestCafe tests](https://github.com/DevExpress/testcafe-action)
 
 ### Security
 

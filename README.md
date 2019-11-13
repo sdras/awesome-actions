@@ -195,6 +195,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Restrict cursing action](https://github.com/sobolevn/restrict-cursing-action) - Moderator bot for your project, automatically removes bad language.
 - [Publish GitHub release artifacts](https://github.com/skx/github-action-publish-binaries)
 - [Jekyll Diff Action](https://github.com/David-Byrne/jekyll-diff-action) - Diffs the built Jekyll site after a change, and comments the result back to GitHub.
+- [Wait for commit statuses](https://github.com/WyriHaximus/github-action-wait-for-status) - Wait until all statuses and checks are successful or any of them has failed and set its status output accordingly. 
 
 ### Testing and Linting
 

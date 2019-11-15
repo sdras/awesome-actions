@@ -357,6 +357,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Action For Semantic Release](https://github.com/cycjimmy/semantic-release-action)
 - [Deploy a Collection to Ansible Galaxy](https://github.com/artis3n/ansible_galaxy_collection)
 - [An example of using Terraform to validate and apply GitHub administration](https://github.com/asgharlabs/github-terraform/tree/master/.github/workflows)
+- [Publish module to Puppet Forge](https://github.com/barnumbirr/action-forge-publish)
 
 ### External Services
 

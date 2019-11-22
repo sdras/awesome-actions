@@ -195,6 +195,10 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Restrict cursing action](https://github.com/sobolevn/restrict-cursing-action) - Moderator bot for your project, automatically removes bad language.
 - [Publish GitHub release artifacts](https://github.com/skx/github-action-publish-binaries)
 - [Jekyll Diff Action](https://github.com/David-Byrne/jekyll-diff-action) - Diffs the built Jekyll site after a change, and comments the result back to GitHub.
+- [Branch Protection Bot](https://github.com/benjefferies/branch-protection-bot) - Temporarily disable and re-enable "Include administrators" option in branch protection.
+- [Next SemVers](https://github.com/WyriHaximus/github-action-next-semvers) - Output the next version for major, minor, and patch version based on the given semver version.
+- [Wait for commit statuses](https://github.com/WyriHaximus/github-action-wait-for-status) - Wait until all statuses and checks are successful or any of them has failed and set its status output accordingly. 
+- [Get Latest Tag](https://github.com/WyriHaximus/github-action-get-previous-tag) - Get the previous tag from git.
 - [Create Milestone](https://github.com/WyriHaximus/github-action-create-milestone) - Create a new open milestone given the title and description.
 
 ### Testing and Linting
@@ -244,6 +248,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Run shellcheck, with reviewdog output on the PR](https://github.com/reviewdog/action-shellcheck)
 - [Build Go applications for multiplatform](https://github.com/izumin5210/action-go-crossbuild)
 - [Catch insensitive, inconsiderate writing in your markdown docs](https://github.com/theashraf/alex-action)
+- [Run TestCafe tests](https://github.com/DevExpress/testcafe-action)
 
 ### Security
 
@@ -275,6 +280,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Block Autosquash Commits](https://github.com/xt0rted/block-autosquash-commits-action)
 - [Automatically Bump and Tag on Merge](https://github.com/anothrNick/github-tag-action)
 - [Automatically Update PRs with Outdated Checks and Squash and Merge the Ones Matching All Branch Protections](https://github.com/tibdex/autosquash)
+- [Merge Pal - automatically update and merge pull requests](https://github.com/maxkomarychev/merge-pal-action)
 
 ### GitHub Pages
 
@@ -286,6 +292,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Deploy assets to GitHub pages](https://github.com/maxheld83/ghpages) - No building, just deploying.
 - [GitHub Actions for deploying to GitHub Pages with Static Site Generators](https://github.com/peaceiris/actions-gh-pages)
 - [GitHub Action for Hexo](https://github.com/heowc/action-hexo)
+- [Deploy Google Analytics stats to GitHub Pages](https://github.com/cristianpb/analytics-google)
 
 ### Notifications and Messages
 
@@ -358,6 +365,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Action For Semantic Release](https://github.com/cycjimmy/semantic-release-action)
 - [Deploy a Collection to Ansible Galaxy](https://github.com/artis3n/ansible_galaxy_collection)
 - [An example of using Terraform to validate and apply GitHub administration](https://github.com/asgharlabs/github-terraform/tree/master/.github/workflows)
+- [Publish module to Puppet Forge](https://github.com/barnumbirr/action-forge-publish)
 
 ### External Services
 

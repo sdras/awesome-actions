@@ -59,12 +59,13 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 
 Tool actions for your workflow.
 
+<!--lint ignore awesome-spell-check-->
+- [actions/github](https://github.com/actions/github) - Wraps actions-toolkit into an Action for common GitHub automations.
 - [actions/checkout](https://github.com/actions/checkout) - Setup your repository on your workflow.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - Upload artifacts from your workflow.
 - [actions/download-artifact](https://github.com/actions/download-artifact) - Download artifacts from your build.
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions.
 - [actions/github-script](https://github.com/actions/github-script) - Write a script for GitHub API and the workflow contexts.
-- [`actions/github`](https://github.com/actions/github) - Wraps actions-toolkit into an Action for common GitHub automations.
 
 #### Actions for GitHub Automation
 

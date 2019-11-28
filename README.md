@@ -160,6 +160,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [GitHub Actions for Yarn - new syntax](https://github.com/sergioramos/yarn-actions)
 - [GitHub Actions for Android](https://github.com/Malinskiy/action-android)
 - [GitHub Actions for Logtalk and Prolog](https://github.com/logtalk-actions)
+- [GitHub Actions for Deno](https://github.com/denolib/setup-deno)
 
 ### Utility
 

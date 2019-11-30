@@ -286,6 +286,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Automatically Update PRs with Outdated Checks and Squash and Merge the Ones Matching All Branch Protections](https://github.com/tibdex/autosquash)
 - [Merge Pal - automatically update and merge pull requests](https://github.com/maxkomarychev/merge-pal-action)
 - [Enforce naming convention on pull request title](https://github.com/deepakputhraya/action-pr-title)
+- [Pull Request Stuck Notifier](https://github.com/loomble/pull-request-stuck-notifier-action)
 
 ### GitHub Pages
 

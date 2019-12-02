@@ -376,6 +376,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 
 ### External Services
 
+- [Assume AWS role](https://github.com/nordcloud/aws-assume-role/)
 - [Use a Jenkinsfile](https://github.com/jonico/jenkinsfile-runner-github-actions)
 - [Configure a DNS Record on Cloudflare](https://github.com/xorilog/cloudflare-dns-action)
 - [Firebase](https://github.com/natemoo-re/action-firebase)

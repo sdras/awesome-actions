@@ -162,7 +162,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [GitHub Actions for Android](https://github.com/Malinskiy/action-android)
 - [GitHub Actions for Logtalk and Prolog](https://github.com/logtalk-actions)
 - [GitHub Actions for Deno](https://github.com/denolib/setup-deno)
-- [Github Actions for Unity](https://github.com/webbertakken/unity-actions)
+- [GitHub Actions for Unity](https://github.com/webbertakken/unity-actions)
 
 ### Utility
 

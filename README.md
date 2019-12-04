@@ -162,6 +162,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [GitHub Actions for Android](https://github.com/Malinskiy/action-android)
 - [GitHub Actions for Logtalk and Prolog](https://github.com/logtalk-actions)
 - [GitHub Actions for Deno](https://github.com/denolib/setup-deno)
+- [GitHub Actions for Unity](https://github.com/webbertakken/unity-actions)
 
 ### Utility
 
@@ -254,6 +255,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Build Go applications for multiplatform](https://github.com/izumin5210/action-go-crossbuild)
 - [Catch insensitive, inconsiderate writing in your markdown docs](https://github.com/theashraf/alex-action)
 - [Run TestCafe tests](https://github.com/DevExpress/testcafe-action)
+- [Run Unity tests](https://github.com/webbertakken/unity-test-runner)
 
 ### Security
 

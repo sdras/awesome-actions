@@ -388,6 +388,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [GitHub Action for Google Cloud Platform (GCP)](https://github.com/exelban/gcloud)
 - [Upload files to any OpenStack Swift service provider](https://github.com/iksaku/openstack-swift-action)
 - [GitHub Action for sending Stack Overflow posts to Slack](https://github.com/logankilpatrick/StackOverflowBot)
+- [Assume AWS role](https://github.com/nordcloud/aws-assume-role/)
 
 ### Frontend Tools
 

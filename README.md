@@ -376,7 +376,6 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 
 ### External Services
 
-- [Assume AWS role](https://github.com/nordcloud/aws-assume-role/)
 - [Use a Jenkinsfile](https://github.com/jonico/jenkinsfile-runner-github-actions)
 - [Configure a DNS Record on Cloudflare](https://github.com/xorilog/cloudflare-dns-action)
 - [Firebase](https://github.com/natemoo-re/action-firebase)
@@ -387,6 +386,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [GitHub Action for Google Cloud Platform (GCP)](https://github.com/exelban/gcloud)
 - [Upload files to any OpenStack Swift service provider](https://github.com/iksaku/openstack-swift-action)
 - [GitHub Action for sending Stack Overflow posts to Slack](https://github.com/logankilpatrick/StackOverflowBot)
+- [Assume AWS role](https://github.com/nordcloud/aws-assume-role/)
 
 ### Frontend Tools
 

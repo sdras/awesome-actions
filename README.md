@@ -245,7 +245,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Stylelinter - GitHub Action that runs stylelint](https://github.com/exelban/stylelint)
 - [Run stylelint, with reviewdog output on the PR](https://github.com/reviewdog/action-stylelint)
 - [PyCodeStyle Action - A GitHub Action that leaves a comment on your PR with pycodestyle (autopep8) feedback](https://github.com/ankitvgupta/pycodestyle-action)
-- [wemake-python-styleguide - The strictest and most opinionated python linter ever](https://github.com/wemake-services/wemake-python-styleguide)
+- [wemake-python-styleguide - The strictest and most opinionated python linter ever, with optional reviewdog output on the PR](https://github.com/wemake-services/wemake-python-styleguide)
 - [Run TSLint with status checks and file diff annotations](https://github.com/mooyoul/tslint-actions)
 - [Lint Pull Request commits with commitlint](https://github.com/wagoid/commitlint-github-action)
 - [Run vint, with reviewdog output on the PR](https://github.com/reviewdog/action-vint)
@@ -256,6 +256,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Catch insensitive, inconsiderate writing in your markdown docs](https://github.com/theashraf/alex-action)
 - [Run TestCafe tests](https://github.com/DevExpress/testcafe-action)
 - [Run Unity tests](https://github.com/webbertakken/unity-test-runner)
+- [Run dotenv-linter - Lints your .env files like a charm, with optional reviewdog output on the PR](https://github.com/wemake-services/dotenv-linter) 
 
 ### Security
 

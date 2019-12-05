@@ -256,6 +256,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Catch insensitive, inconsiderate writing in your markdown docs](https://github.com/theashraf/alex-action)
 - [Run TestCafe tests](https://github.com/DevExpress/testcafe-action)
 - [Run Unity tests](https://github.com/webbertakken/unity-test-runner)
+- [Run Cypress E2E tests](https://github.com/cypress-io/github-action)
 
 ### Security
 

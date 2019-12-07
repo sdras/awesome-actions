@@ -3,7 +3,7 @@
 
 <p align="center">
   <br>
-    <img src="awesome-actions.png" style="width:250px"/>
+    <img src="awesome-actions.png" width="250"/>
   <br>
   <br>
   <br>

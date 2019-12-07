@@ -1,6 +1,3 @@
-<!--lint ignore no-dead-urls-->
-[![GitHub Actions status | sdras/awesome-actions](https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg)](https://github.com/sdras/awesome-actions/actions?workflow=Lint+Awesome+List)
-
 <p align="center">
   <br>
     <img src="awesome-actions.png" width="250"/>
@@ -10,6 +7,10 @@
 </p>
 
 # Awesome Actions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+### Status Badge
+<!--lint ignore no-dead-urls-->
+[![GitHub Actions status | sdras/awesome-actions](https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg)](https://github.com/sdras/awesome-actions/actions?workflow=Lint+Awesome+List)
 
 > A curated list of awesome things related to [GitHub Actions](https://github.com/actions).
 
@@ -104,25 +105,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [actions/hello-world-docker-action](https://github.com/actions/hello-world-docker-action) - A template to demonstrate how to build a Docker action.
 - [actions/container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using actions/toolkit.
-
-### Status Badge
-
-![GitHub Actions status | sdras/awesome-actions](https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg)
-
-- [Adding a workflow status badge to your repository - GitHub Help](https://help.github.com/en/github/automating-your-workflow-with-github-actions/configuring-a-workflow#adding-a-workflow-status-badge-to-your-repository)
-
-URL to a status badge SVG.
-
-```sh
-# Workflow name
-https://github.com/<OWNER>/<REPOSITORY>/workflows/<WORKFLOW_NAME>/badge.svg
-
-# File path
-https://github.com/<OWNER>/<REPOSITORY>/workflows/<WORKFLOW_FILE_PATH>/badge.svg
-
-# An example
-https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg
-```
 
 ## Community Resources
 

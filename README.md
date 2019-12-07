@@ -44,7 +44,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 
 - [Official Site](https://github.com/features/actions)
 - [Official Community Forum Board](https://github.community/t5/GitHub-Actions/bd-p/actions)
-- [Official Documentation](https://help.github.com/en/github/automating-your-workflow-with-github-actions)
+- [Official Documentation](https://help.github.com/en/actions/automating-your-workflow-with-github-actions)
 - [Official Actions organization](https://github.com/actions)
   - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments.
 - [GitHub Blog Announcement](https://github.blog/2018-10-17-action-demos/)
@@ -245,7 +245,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Stylelinter - GitHub Action that runs stylelint](https://github.com/exelban/stylelint)
 - [Run stylelint, with reviewdog output on the PR](https://github.com/reviewdog/action-stylelint)
 - [PyCodeStyle Action - A GitHub Action that leaves a comment on your PR with pycodestyle (autopep8) feedback](https://github.com/ankitvgupta/pycodestyle-action)
-- [wemake-python-styleguide - The strictest and most opinionated python linter ever](https://github.com/wemake-services/wemake-python-styleguide)
+- [wemake-python-styleguide - The strictest and most opinionated python linter ever, with optional reviewdog output on the PR](https://github.com/wemake-services/wemake-python-styleguide)
 - [Run TSLint with status checks and file diff annotations](https://github.com/mooyoul/tslint-actions)
 - [Lint Pull Request commits with commitlint](https://github.com/wagoid/commitlint-github-action)
 - [Run vint, with reviewdog output on the PR](https://github.com/reviewdog/action-vint)
@@ -257,6 +257,7 @@ https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.s
 - [Run TestCafe tests](https://github.com/DevExpress/testcafe-action)
 - [Run Unity tests](https://github.com/webbertakken/unity-test-runner)
 - [Run Cypress E2E tests](https://github.com/cypress-io/github-action)
+- [Run dotenv-linter - Lints your .env files like a charm, with optional reviewdog output on the PR](https://github.com/wemake-services/dotenv-linter) 
 
 ### Security
 

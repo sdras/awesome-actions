@@ -18,7 +18,6 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Workflow Examples](#workflow-examples)
   - [Official Actions](#official-actions)
   - [Create your Actions](#create-your-actions)
-  - [Status Badge](#status-badge)
 - [Community Resources](#community-resources)
   - [GitHub Tools and Management](#github-tools-and-management)
   - [Collection of Actions](#collection-of-actions)

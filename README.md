@@ -182,6 +182,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Close Milestone](https://github.com/WyriHaximus/github-action-close-milestone) - Close the given milestone.
 - [Action to enforce branch naming rules](https://github.com/deepakputhraya/action-branch-name)
 - [Install NPM dependencies with caching](https://github.com/bahmutov/npm-install)
+- [Expose slug of some GitHub variables](https://github.com/marketplace/actions/github-slug)
 
 ### Testing and Linting
 

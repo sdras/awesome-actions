@@ -355,6 +355,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Deploy a Collection to Ansible Galaxy](https://github.com/artis3n/ansible_galaxy_collection)
 - [An example of using Terraform to validate and apply GitHub administration](https://github.com/asgharlabs/github-terraform/tree/master/.github/workflows)
 - [Publish module to Puppet Forge](https://github.com/barnumbirr/action-forge-publish)
+- [Build and publish Electron apps](https://github.com/samuelmeuli/action-electron-builder)
 
 ### External Services
 

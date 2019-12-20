@@ -138,6 +138,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Actions for Logtalk and Prolog](https://github.com/logtalk-actions)
 - [GitHub Actions for Deno](https://github.com/denolib/setup-deno)
 - [GitHub Actions for Unity](https://github.com/webbertakken/unity-actions)
+- [Octions - GitHub Actions for GitHub REST API](https://github.com/maxkomarychev/octions)
 
 ### Utility
 
@@ -182,6 +183,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Close Milestone](https://github.com/WyriHaximus/github-action-close-milestone) - Close the given milestone.
 - [Action to enforce branch naming rules](https://github.com/deepakputhraya/action-branch-name)
 - [Install NPM dependencies with caching](https://github.com/bahmutov/npm-install)
+- [Expose slug of some GitHub variables](https://github.com/marketplace/actions/github-slug)
 - [AWS Secrets Manager Actions](https://github.com/say8425/aws-secrets-manager-actions) - Define AWS Secrets Manager secrets to environment values.
 
 ### Testing and Linting

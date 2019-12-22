@@ -358,6 +358,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [An example of using Terraform to validate and apply GitHub administration](https://github.com/asgharlabs/github-terraform/tree/master/.github/workflows)
 - [Publish module to Puppet Forge](https://github.com/barnumbirr/action-forge-publish)
 - [Build and publish Electron apps](https://github.com/samuelmeuli/action-electron-builder)
+- [Publish a Maven package](https://github.com/samuelmeuli/action-maven-publish)
 
 ### External Services
 

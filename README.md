@@ -185,6 +185,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Install NPM dependencies with caching](https://github.com/bahmutov/npm-install)
 - [Expose slug of some GitHub variables](https://github.com/marketplace/actions/github-slug)
 - [AWS Secrets Manager Actions](https://github.com/say8425/aws-secrets-manager-actions) - Define AWS Secrets Manager secrets to environment values.
+- [Edit JSON File](https://github.com/deef0000dragon1/json-edit-action)
 
 ### Testing and Linting
 

@@ -185,6 +185,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Install NPM dependencies with caching](https://github.com/bahmutov/npm-install)
 - [Expose slug of some GitHub variables](https://github.com/marketplace/actions/github-slug)
 - [AWS Secrets Manager Actions](https://github.com/say8425/aws-secrets-manager-actions) - Define AWS Secrets Manager secrets to environment values.
+- [Action to lint Awesome lists](https://github.com/squadcastHQ/awesome-lint-action) - Uses [awesome-lint](https://github.com/sindresorhus/awesome-lint) to lint awesome lists as an Action.
 
 ### Testing and Linting
 

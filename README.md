@@ -117,6 +117,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Run GitHub Actions Locally with a web interface. Supports new YAML syntax](https://github.com/phishy/wflow)
 - [Build and Publish Android debug APK](https://github.com/ShaunLWM/action-release-debugapk)
 - [Generate sequential build numbers for GitHub Actions](https://github.com/einaregilsson/build-number)
+- [Push Git changes to GitHub repository without authentication difficulties](https://github.com/ad-m/github-push-action)
 - [Generate release notes based on your events](https://github.com/Decathlon/release-notes-generator-action)
 - [Create a GitHub wiki page based on the provided markdown file](https://github.com/Decathlon/wiki-page-creator-action)
 - [Label your Pull Requests auto-magically (using committed files)](https://github.com/Decathlon/pull-request-labeler-action)

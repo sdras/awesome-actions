@@ -118,6 +118,9 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Build and Publish Android debug APK](https://github.com/ShaunLWM/action-release-debugapk)
 - [Generate sequential build numbers for GitHub Actions](https://github.com/einaregilsson/build-number)
 - [Push Git changes to GitHub repository without authentication difficulties](https://github.com/ad-m/github-push-action)
+- [Generate release notes based on your events](https://github.com/Decathlon/release-notes-generator-action)
+- [Create a GitHub wiki page based on the provided markdown file](https://github.com/Decathlon/wiki-page-creator-action)
+- [Label your Pull Requests auto-magically (using committed files)](https://github.com/Decathlon/pull-request-labeler-action)
 
 ### Collection of Actions
 
@@ -186,6 +189,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Expose slug of some GitHub variables](https://github.com/marketplace/actions/github-slug)
 - [AWS Secrets Manager Actions](https://github.com/say8425/aws-secrets-manager-actions) - Define AWS Secrets Manager secrets to environment values.
 - [Edit JSON File](https://github.com/deef0000dragon1/json-edit-action)
+- [Build Slate documentation](https://github.com/Decathlon/slate-builder-action)
 
 ### Testing and Linting
 

@@ -360,6 +360,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Publish module to Puppet Forge](https://github.com/barnumbirr/action-forge-publish)
 - [Build and publish Electron apps](https://github.com/samuelmeuli/action-electron-builder)
 - [Publish a Maven package](https://github.com/samuelmeuli/action-maven-publish)
+- [Build and deploy a theme to Ghost CMS](https://github.com/TryGhost/action-deploy-theme)
 
 ### External Services
 

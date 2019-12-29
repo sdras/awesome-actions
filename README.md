@@ -121,6 +121,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Generate release notes based on your events](https://github.com/Decathlon/release-notes-generator-action)
 - [Create a GitHub wiki page based on the provided markdown file](https://github.com/Decathlon/wiki-page-creator-action)
 - [Label your Pull Requests auto-magically (using committed files)](https://github.com/Decathlon/pull-request-labeler-action)
+- [Add Label to your Pull Requests based on the author team name](https://github.com/JulienKode/team-labeler-action)
 
 ### Collection of Actions
 

@@ -244,6 +244,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Run Unity tests](https://github.com/webbertakken/unity-test-runner)
 - [Run Cypress E2E tests](https://github.com/cypress-io/github-action)
 - [Run dotenv-linter - Lints your .env files like a charm, with optional reviewdog output on the PR](https://github.com/wemake-services/dotenv-linter) 
+- [Show and auto-fix linting errors for many programming languages](https://github.com/samuelmeuli/lint-action)
 
 ### Security
 

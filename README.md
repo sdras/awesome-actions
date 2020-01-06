@@ -426,6 +426,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Actions CI for Swift/iOS Projects](https://medium.com/rosberryapps/github-actions-ci-for-swift-projects-c129baceed1a)
 - [Working with GitHub Actions](https://jeffrafter.com/working-with-github-actions)
 - [GitHub Actions for Rails Developers](https://www.youtube.com/watch?v=gGUXydw22zw)
+- [GitHub Actions Advent Calendar](https://www.edwardthomson.com/blog/github_actions_advent_calendar.html)
 
 > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information
 

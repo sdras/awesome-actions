@@ -123,7 +123,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Label your Pull Requests auto-magically (using committed files)](https://github.com/Decathlon/pull-request-labeler-action)
 - [Add Label to your Pull Requests based on the author team name](https://github.com/JulienKode/team-labeler-action)
 - [Manually trigger your GitHub Actions from a UI](https://www.actionspanel.app)
-
+- [Get a list of file changes with PR/Push](https://github.com/trilom/file-changes-action)
 ### Collection of Actions
 
 - [Many linters and autofixers for various languages](https://github.com/bltavares/actions)

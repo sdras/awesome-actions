@@ -41,6 +41,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [Official Documentation](https://help.github.com/en/actions/automating-your-workflow-with-github-actions)
 - [Official Actions organization](https://github.com/actions)
   - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments.
+  - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions.
 - [GitHub Blog Announcement](https://github.blog/2018-10-17-action-demos/)
 
 ### Workflow Examples
@@ -93,6 +94,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [actions/hello-world-javascript-action](https://github.com/actions/hello-world-javascript-action) - A template to demonstrate how to build a JavaScript action.
 - [actions/javascript-action](https://github.com/actions/javascript-action) - Create a JavaScript Action.
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action.
+- [actions/http-client](https://github.com/actions/http-client) - A lightweight HTTP client optimized for use with actions, TypeScript with generics and async await.
 
 #### Docker Container Actions
 

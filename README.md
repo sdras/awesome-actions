@@ -250,6 +250,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Run dotenv-linter - Lints your .env files like a charm, with optional reviewdog output on the PR](https://github.com/wemake-services/dotenv-linter) 
 - [Show and auto-fix linting errors for many programming languages](https://github.com/samuelmeuli/lint-action)
 - [Test Ansible roles with Molecule](https://github.com/robertdebock/molecule-action)
+- [Run dotenv-linter, with reviewdog output on the PR](https://github.com/mgrachev/action-dotenv-linter)
 
 ### Security
 

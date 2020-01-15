@@ -197,7 +197,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Edit JSON File](https://github.com/deef0000dragon1/json-edit-action)
 - [Build Slate documentation](https://github.com/Decathlon/slate-builder-action)
 - [Get latest SemVer and branch name given a search string](https://github.com/jessicalostinspace/github-action-get-regex-branch)
-- [Generate terraform documentation](https://github.com/Dirrk/terraform-docs) - Uses terraform-docs to generate docs for terraform modules
+- [Generate terraform documentation](https://github.com/Dirrk/terraform-docs) - Uses terraform-docs to generate docs for terraform modules.
 
 ### Testing and Linting
 

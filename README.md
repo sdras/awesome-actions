@@ -222,6 +222,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Lint a Dockerfile using Hadolint](https://github.com/cds-snc/github-actions/tree/master/docker-lint)
 - [Lint terraform files using tflint](https://github.com/cds-snc/github-actions/tree/master/tf-lint)
 - [Lint terraform files using tflint, with reviewdog output on the PR](https://github.com/reviewdog/action-tflint)
+- [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec) 
 - [Validate Puppet modules using Puppet PDK](https://github.com/mpepping/github-actions/tree/master/pdk-validate)
 - [Scan git commits for secrets with gitleaks](https://github.com/eshork/gitleaks-action)
 - [Scan code with SonarCloud](https://github.com/sonarsource/sonarcloud-github-action)

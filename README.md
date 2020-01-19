@@ -32,6 +32,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Machine Learning Ops](#machine-learning-ops)
   - [Performance Monitoring](#performance-monitoring)
   - [Cheat Sheet](#cheat-sheet)
+  - [Build](#build)
 - [Tutorials](#tutorials)
 
 ## Official Resources
@@ -424,6 +425,11 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Cheat Sheet
 
 - [GitHub Actions Branding Cheat Sheet](https://haya14busa.github.io/github-action-brandings/)
+
+### Build
+
+- [run-cmake](https://github.com/lukka/run-cmake) - Multi platform action to build C/C++ software with [CMake](https://cmake.org) and [Ninja](https://ninja-build.org/).
+- [run-vcpkg](https://github.com/lukka/run-vcpkg) - Multi platform action to build and install C/C++ dependencies with [vcpkg](https://github.com/microsoft/vcpkg).
 
 ## Tutorials
 

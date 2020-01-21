@@ -294,6 +294,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Merge Pal - automatically update and merge pull requests](https://github.com/maxkomarychev/merge-pal-action)
 - [Enforce naming convention on pull request title](https://github.com/deepakputhraya/action-pr-title)
 - [Pull Request Stuck Notifier](https://github.com/loomble/pull-request-stuck-notifier-action)
+- [Lint pull request name with commitlint (Awesome if you squash merge !)](https://github.com/JulienKode/pull-request-name-linter-action)
 
 ### GitHub Pages
 

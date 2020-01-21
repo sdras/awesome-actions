@@ -201,6 +201,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Cut Release Branch](https://github.com/jessicalostinspace/cut-release-action) - Cuts a release branch given a branch prefix and optional semantic version.
 - [Generate terraform documentation](https://github.com/Dirrk/terraform-docs) - Uses terraform-docs to generate docs for terraform modules.
 - [Increment Semantic Version](https://github.com/christian-draeger/increment-semantic-version) - Bump a given semantic version (SemVer), depending on given release type.
+- [Read Properties](https://github.com/christian-draeger/read-properties) - Read values from `.properties` files.
+- [Write Properties](https://github.com/christian-draeger/write-properties) - Write values to `.properties` files.
 
 ### Testing and Linting
 

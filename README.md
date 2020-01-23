@@ -20,8 +20,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [GitHub Tools and Management](#github-tools-and-management)
   - [Collection of Actions](#collection-of-actions)
   - [Utility](#utility)
-  - [Testing and Linting](#testing-and-linting)
-  - [Security](#security)
+  - [Static Analysis](#static-analysis)
+  - [Monitoring](#monitoring)
   - [Pull Requests](#pull-requests)
   - [GitHub Pages](#github-pages)
   - [Notifications and Messages](#notifications-and-messages)
@@ -30,9 +30,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Frontend Tools](#frontend-tools)
   - [Internet of Things (IOT)](#internet-of-things-iot)
   - [Machine Learning Ops](#machine-learning-ops)
-  - [Performance Monitoring](#performance-monitoring)
-  - [Cheat Sheet](#cheat-sheet)
   - [Build](#build)
+  - [Cheat Sheet](#cheat-sheet)
 - [Tutorials](#tutorials)
 
 ## Official Resources

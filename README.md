@@ -126,6 +126,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Add Label to your Pull Requests based on the author team name](https://github.com/JulienKode/team-labeler-action)
 - [Manually trigger your GitHub Actions from a UI](https://www.actionspanel.app)
 - [Get a list of file changes with PR/Push](https://github.com/trilom/file-changes-action)
+- [Use private actions in any workflow](https://github.com/InVisionApp/private-action-loader)
 
 ### Collection of Actions
 
@@ -260,6 +261,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Run dotenv-linter, with reviewdog output on the PR](https://github.com/mgrachev/action-dotenv-linter)
 - [Show and auto-fix linting errors for many programming languages](https://github.com/samuelmeuli/lint-action)
 - [PHP_CodeSniffer With Annotations](https://github.com/chekalsky/phpcs-action)
+- [Linter for markdown (with presets)](https://github.com/avto-dev/markdown-lint)
 
 #### Security
 

@@ -259,6 +259,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Run dotenv-linter - Lints your .env files like a charm, with optional reviewdog output on the PR](https://github.com/wemake-services/dotenv-linter)
 - [Run dotenv-linter, with reviewdog output on the PR](https://github.com/mgrachev/action-dotenv-linter)
 - [Show and auto-fix linting errors for many programming languages](https://github.com/samuelmeuli/lint-action)
+- [Linter for markdown (with presets)](https://github.com/avto-dev/markdown-lint)
 
 #### Security
 

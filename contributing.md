@@ -21,7 +21,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Please don't use bold or italics unless it's somehow appropriate to the link.
 - Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
 - Make an individual pull request for each suggestion.
-- Use Title Casing.
+- Use [Title Casing](https://titlecaseconverter.com/).
 - Use the following format: `[List Name](link)`
 - New categories or improvements to the existing categorization are welcome.
 - Please check your spelling and grammar.

@@ -274,6 +274,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Scan for secrets in your source code](https://github.com/cds-snc/github-actions/tree/master/seekret)
 - [AWS Secrets Manager Actions](https://github.com/say8425/aws-secrets-manager-actions) - Define AWS Secrets Manager secrets to environment values.
 - [Linting your AWS IAM policy documents for correctness and security issues](https://github.com/xen0l/iam-lint)
+- [Secret Spreader](https://github.com/webfactory/secret-spreader) - Not an action per se, but a tool to manage Actions Secrets across a list of repositories.
 
 #### Code Coverage
 

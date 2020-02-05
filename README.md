@@ -479,7 +479,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Building GitHub Actions in Node.js](https://jasonet.co/posts/building-github-actions-in-node/)
 - [GitHub Actions on Android project](http://vgaidarji.me/blog/2019/01/27/github-actions)
 - [GitHub Actions for PHP Developers](https://stefanzweifel.io/posts/github-actions-for-php-developers/)
-- [Zero Downtime Laravel Deployments with Github Actions](https://atymic.dev/blog/github-actions-laravel-ci-cd/)
+- [Zero Downtime Laravel Deployments with GitHub Actions](https://atymic.dev/blog/github-actions-laravel-ci-cd/)
 - [Continuous deployment of Next.js app with Up](https://medium.com/@romanenko/simple-ci-for-next-js-projects-with-apex-up-github-actions-6f0b1b9a5400)
 - [Converting Docker-based Actions to JavaScript/TypeScript](https://httgp.com/converting-github-actions-from-docker-to-javascript/)
 - [GitHub Actions CI for Swift/iOS Projects](https://medium.com/rosberryapps/github-actions-ci-for-swift-projects-c129baceed1a)

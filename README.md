@@ -195,6 +195,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Create an envfile](https://github.com/SpicyPizza/create-envfile)
 - [Export global environment variables for succeeding build steps](https://github.com/zweitag/github-actions)
 - [Programmatically set environment variables for use in subsequent steps](https://github.com/allenevans/set-env)
+- [Install Conda environments for Python](https://github.com/goanpeca/setup-miniconda)
 
 #### Dependencies
 

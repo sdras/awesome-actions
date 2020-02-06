@@ -237,7 +237,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [PHP Code fixer Action](https://github.com/OskarStark/php-cs-fixer-ga)
 - [Lint a Dockerfile](https://github.com/jwr0/dockerfile-linter-action) (using replicatedhq/dockerfilelint)
 - [Runs Hadolint against a Dockerfile within a repository](https://github.com/burdzwastaken/hadolint-action)
-- [Run ESLint with status checks and file diff annotations](https://github.com/gimenete/eslint-action)
 - [Run ESLint, with reviewdog output on the PR](https://github.com/reviewdog/action-eslint)
 - [JavaScript-based linter for \*.workflow files](https://github.com/OmarTawfik/github-actions-js)
 - [Lint a Dockerfile using Hadolint](https://github.com/cds-snc/github-actions/tree/master/docker-lint)

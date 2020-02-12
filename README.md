@@ -123,7 +123,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Get a list of file changes with PR/Push](https://github.com/trilom/file-changes-action)
 - [Use private actions in any workflow](https://github.com/InVisionApp/private-action-loader)
 - [Label Your Issues Using the Issue's Contents](https://github.com/damccorm/tag-ur-it)
-- [Rollback a Github Release](https://github.com/author/action-rollback)
+- [Rollback a GitHub Release](https://github.com/author/action-rollback)
 
 ### Collection of Actions
 

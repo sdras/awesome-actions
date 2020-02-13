@@ -344,6 +344,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Publish a Maven package](https://github.com/samuelmeuli/action-maven-publish)
 - [Build and deploy a theme to Ghost CMS](https://github.com/TryGhost/action-deploy-theme)
 - [Deploy an Ansible role to Ansible Galaxy](https://github.com/robertdebock/galaxy-action)
+- [Publish a package with 2FA using Slack](https://github.com/erezrokah/2fa-with-slack-action)
 
 #### Docker
 

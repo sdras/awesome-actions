@@ -295,7 +295,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Actions for deploying to GitHub Pages with Static Site Generators](https://github.com/peaceiris/actions-gh-pages)
 - [GitHub Action for Hexo](https://github.com/heowc/action-hexo)
 - [Deploy Google Analytics stats to GitHub Pages](https://github.com/cristianpb/analytics-google)
-- [A Jupyter Notebook Blogging Platform Powered by GitHub Actions, Pages and Jekyll - by fastai](https://github.com/fastai/fastpages)
+- [A Jupyter Notebook Blogging Platform Powered by GitHub Actions, Pages and Jekyll](https://github.com/fastai/fastpages)
 
 ### Notifications and Messages
 

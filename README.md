@@ -31,6 +31,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Machine Learning Ops](#machine-learning-ops)
   - [Build](#build)
   - [Cheat Sheet](#cheat-sheet)
+  - [Tools](#tools)
 - [Tutorials](#tutorials)
 
 ## Official Resources
@@ -407,6 +408,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Cheat Sheet
 
 - [GitHub Actions Branding Cheat Sheet](https://haya14busa.github.io/github-action-brandings/)
+
+### Tools
+
+- [Run GitHub Actions Locally](https://github.com/nektos/act)
 
 ## Tutorials
 

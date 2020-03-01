@@ -172,6 +172,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Build Slate documentation](https://github.com/Decathlon/slate-builder-action)
 - [Read Properties](https://github.com/christian-draeger/read-properties) - Read values from `.properties` files.
 - [Write Properties](https://github.com/christian-draeger/write-properties) - Write values to `.properties` files.
+- [Mind Your Language Action](https://github.com/tailaiw/mind-your-language-action) - Detect offensive comments in issues and pull requests, and warn senders.
 
 #### Environments
 
@@ -196,7 +197,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [PHPStan Static code analyzer Action](https://github.com/OskarStark/phpstan-ga)
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
-- [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec) 
+- [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec)
 
 #### Testing
 

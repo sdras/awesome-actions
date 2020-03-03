@@ -355,6 +355,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Publish one or more JS modules to a registry](https://github.com/author/action-publish)
 - [Publish a package with 2FA using Slack](https://github.com/erezrokah/2fa-with-slack-action)
 - [Serialize Workflow Runs in Continuous Deployment Pipelines](https://github.com/softprops/turnstyle)
+- [Netlify Deploy GitHub Action for each commit](https://github.com/nwtgck/actions-netlify)
 
 #### Docker
 

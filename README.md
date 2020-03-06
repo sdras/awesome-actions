@@ -31,7 +31,6 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Machine Learning Ops](#machine-learning-ops)
   - [Build](#build)
   - [Cheat Sheet](#cheat-sheet)
-  - [Tools](#tools)
 - [Tutorials](#tutorials)
 
 ## Official Resources
@@ -125,7 +124,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Use private actions in any workflow](https://github.com/InVisionApp/private-action-loader)
 - [Label Your Issues Using the Issue's Contents](https://github.com/damccorm/tag-ur-it)
 - [Test GitHub Actions Locally](https://github.com/nektos/act)
-
 
 ### Collection of Actions
 

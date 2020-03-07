@@ -313,6 +313,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [New package version checker for Gradle](https://github.com/MeilCli/gradle-update-check-action)
 - [Send a Push Notification via Pushbullet](https://github.com/ShaunLWM/action-pushbullet)
 - [Create an Outlook Calendar Event using Microsoft Graph](https://github.com/anoopt/ms-graph-create-event)
+- [Watch for GitHub Wiki page changes and post to Slack](https://github.com/benmatselby/gollum-page-watcher-action)
 
 ### Deployment
 

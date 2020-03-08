@@ -401,6 +401,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Submitting Argo Workflows to GKE](https://github.com/machine-learning-apps/gke-argo)
 - [Query Experiment Tracking Results From Weights & Biases](https://github.com/machine-learning-apps/wandb-action)
 - [Run Parameterized Jupyter Notebooks](https://github.com/yaananth/run-notebook)
+- [Compile, Deploy and Run Kubeflow Pipeline](https://github.com/NikeNano/kubeflow-github-action)
 
 ### Build
 

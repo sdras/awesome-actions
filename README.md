@@ -350,6 +350,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Deploy an Ansible role to Ansible Galaxy](https://github.com/robertdebock/galaxy-action)
 - [Publish one or more JS modules to a registry](https://github.com/author/action-publish)
 - [Publish a package with 2FA using Slack](https://github.com/erezrokah/2fa-with-slack-action)
+- [Serialize Workflow Runs in Continuous Deployment Pipelines](https://github.com/softprops/turnstyle)
 
 #### Docker
 

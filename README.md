@@ -125,6 +125,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Label Your Issues Using the Issue's Contents](https://github.com/damccorm/tag-ur-it)
 - [Rollback a GitHub Release](https://github.com/author/action-rollback)
 - [Lock Closed Issues and Pull Requests after a Period of Inactivity](https://github.com/dessant/lock-threads)
+- [Get Commit Difference Count Between Two Branches](https://github.com/jessicalostinspace/commit-difference-action)
 
 ### Collection of Actions
 

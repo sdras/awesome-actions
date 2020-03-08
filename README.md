@@ -125,6 +125,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Label Your Issues Using the Issue's Contents](https://github.com/damccorm/tag-ur-it)
 - [Rollback a GitHub Release](https://github.com/author/action-rollback)
 - [Lock Closed Issues and Pull Requests after a Period of Inactivity](https://github.com/dessant/lock-threads)
+- [Get Commit Difference Count Between Two Branches](https://github.com/jessicalostinspace/commit-difference-action)
 
 ### Collection of Actions
 
@@ -176,6 +177,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Write Properties](https://github.com/christian-draeger/write-properties) - Write values to `.properties` files.
 - [Apply templates with Jinja2](https://github.com/cuchi/jinja2-action) - Use the Jinja2 template engine to generate files from templates.
 - [Has Changes](https://github.com/UnicornGlobal/has-changes-action) - Check if there are code changes from previous steps.
+- [Mind Your Language Action](https://github.com/tailaiw/mind-your-language-action) - Detect offensive comments in issues and pull requests, and warn senders.
 
 #### Environments
 
@@ -200,7 +202,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [PHPStan Static code analyzer Action](https://github.com/OskarStark/phpstan-ga)
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
-- [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec) 
+- [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec)
 
 #### Testing
 
@@ -241,6 +243,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [PHP_CodeSniffer With Annotations](https://github.com/chekalsky/phpcs-action)
 - [Linter for markdown (with presets)](https://github.com/avto-dev/markdown-lint)
 - [Stylelint problem matcher to create annotations](https://github.com/xt0rted/stylelint-problem-matcher)
+- [Run sqlcheck on the PR to identifies anti-patterns in SQL queries](https://github.com/yokawasa/action-sqlcheck)
 
 #### Security
 

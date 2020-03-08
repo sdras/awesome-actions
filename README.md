@@ -254,6 +254,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Scan code with SonarCloud](https://github.com/sonarsource/sonarcloud-github-action)
 - [Send your code coverage to codecov.io](https://github.com/codecov/codecov-action)
 - [Publishing code coverage to CodeClimate](https://github.com/paambaati/codeclimate-action)
+- [Update repository go report card](https://github.com/creekorful/goreportcard-action)
 
 ### Monitoring
 

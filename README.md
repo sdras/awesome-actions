@@ -123,6 +123,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Get a list of file changes with PR/Push](https://github.com/trilom/file-changes-action)
 - [Use private actions in any workflow](https://github.com/InVisionApp/private-action-loader)
 - [Label Your Issues Using the Issue's Contents](https://github.com/damccorm/tag-ur-it)
+- [Rollback a GitHub Release](https://github.com/author/action-rollback)
+- [Lock Closed Issues and Pull Requests after a Period of Inactivity](https://github.com/dessant/lock-threads)
 - [Get Commit Difference Count Between Two Branches](https://github.com/jessicalostinspace/commit-difference-action)
 
 ### Collection of Actions
@@ -173,6 +175,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Build Slate documentation](https://github.com/Decathlon/slate-builder-action)
 - [Read Properties](https://github.com/christian-draeger/read-properties) - Read values from `.properties` files.
 - [Write Properties](https://github.com/christian-draeger/write-properties) - Write values to `.properties` files.
+- [Apply templates with Jinja2](https://github.com/cuchi/jinja2-action) - Use the Jinja2 template engine to generate files from templates.
+- [Mind Your Language Action](https://github.com/tailaiw/mind-your-language-action) - Detect offensive comments in issues and pull requests, and warn senders.
 
 #### Environments
 
@@ -197,7 +201,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [PHPStan Static code analyzer Action](https://github.com/OskarStark/phpstan-ga)
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
-- [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec) 
+- [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec)
 
 #### Testing
 
@@ -238,6 +242,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [PHP_CodeSniffer With Annotations](https://github.com/chekalsky/phpcs-action)
 - [Linter for markdown (with presets)](https://github.com/avto-dev/markdown-lint)
 - [Stylelint problem matcher to create annotations](https://github.com/xt0rted/stylelint-problem-matcher)
+- [Run sqlcheck on the PR to identifies anti-patterns in SQL queries](https://github.com/yokawasa/action-sqlcheck)
 
 #### Security
 
@@ -253,6 +258,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Scan code with SonarCloud](https://github.com/sonarsource/sonarcloud-github-action)
 - [Send your code coverage to codecov.io](https://github.com/codecov/codecov-action)
 - [Publishing code coverage to CodeClimate](https://github.com/paambaati/codeclimate-action)
+- [Update repository go report card](https://github.com/creekorful/goreportcard-action)
 
 ### Monitoring
 
@@ -346,6 +352,9 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Publish a Maven package](https://github.com/samuelmeuli/action-maven-publish)
 - [Build and deploy a theme to Ghost CMS](https://github.com/TryGhost/action-deploy-theme)
 - [Deploy an Ansible role to Ansible Galaxy](https://github.com/robertdebock/galaxy-action)
+- [Publish one or more JS modules to a registry](https://github.com/author/action-publish)
+- [Publish a package with 2FA using Slack](https://github.com/erezrokah/2fa-with-slack-action)
+- [Serialize Workflow Runs in Continuous Deployment Pipelines](https://github.com/softprops/turnstyle)
 
 #### Docker
 
@@ -397,6 +406,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Submitting Argo Workflows to GKE](https://github.com/machine-learning-apps/gke-argo)
 - [Query Experiment Tracking Results From Weights & Biases](https://github.com/machine-learning-apps/wandb-action)
 - [Run Parameterized Jupyter Notebooks](https://github.com/yaananth/run-notebook)
+- [Compile, Deploy and Run Kubeflow Pipeline](https://github.com/NikeNano/kubeflow-github-action)
 
 ### Build
 

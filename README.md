@@ -37,7 +37,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 
 - [Official Site](https://github.com/features/actions)
 - [Official Community Forum Board](https://github.community/t5/GitHub-Actions/bd-p/actions)
-- [Official Documentation](https://help.github.com/en/actions/automating-your-workflow-with-github-actions)
+- [Official Documentation](https://help.github.com/en/actions)
 - [Official Actions organization](https://github.com/actions)
   - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments.
   - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions.
@@ -123,6 +123,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Get a list of file changes with PR/Push](https://github.com/trilom/file-changes-action)
 - [Use private actions in any workflow](https://github.com/InVisionApp/private-action-loader)
 - [Label Your Issues Using the Issue's Contents](https://github.com/damccorm/tag-ur-it)
+- [Rollback a GitHub Release](https://github.com/author/action-rollback)
 
 ### Collection of Actions
 
@@ -172,6 +173,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Build Slate documentation](https://github.com/Decathlon/slate-builder-action)
 - [Read Properties](https://github.com/christian-draeger/read-properties) - Read values from `.properties` files.
 - [Write Properties](https://github.com/christian-draeger/write-properties) - Write values to `.properties` files.
+- [Apply templates with Jinja2](https://github.com/cuchi/jinja2-action) - Use the Jinja2 template engine to generate files from templates.
 
 #### Environments
 
@@ -295,6 +297,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Actions for deploying to GitHub Pages with Static Site Generators](https://github.com/peaceiris/actions-gh-pages)
 - [GitHub Action for Hexo](https://github.com/heowc/action-hexo)
 - [Deploy Google Analytics stats to GitHub Pages](https://github.com/cristianpb/analytics-google)
+- [A Jupyter Notebook Blogging Platform Powered by GitHub Actions, Pages and Jekyll](https://github.com/fastai/fastpages)
 
 ### Notifications and Messages
 
@@ -344,6 +347,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Publish a Maven package](https://github.com/samuelmeuli/action-maven-publish)
 - [Build and deploy a theme to Ghost CMS](https://github.com/TryGhost/action-deploy-theme)
 - [Deploy an Ansible role to Ansible Galaxy](https://github.com/robertdebock/galaxy-action)
+- [Publish one or more JS modules to a registry](https://github.com/author/action-publish)
 - [Publish a package with 2FA using Slack](https://github.com/erezrokah/2fa-with-slack-action)
 
 #### Docker
@@ -402,6 +406,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [run-cmake](https://github.com/lukka/run-cmake) - Multi platform action to build C/C++ software with [CMake](https://cmake.org) and [Ninja](https://ninja-build.org/).
 - [run-vcpkg](https://github.com/lukka/run-vcpkg) - Multi platform action to build and install C/C++ dependencies with [vcpkg](https://github.com/microsoft/vcpkg).
 - [Build Go applications for multiplatform](https://github.com/izumin5210/action-go-crossbuild)
+- [Generate ~/.m2/settings.xml for Maven builds](https://github.com/whelk-io/maven-settings-xml-action)
 
 ### Cheat Sheet
 

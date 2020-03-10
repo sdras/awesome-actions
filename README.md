@@ -214,6 +214,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Run Cypress E2E tests](https://github.com/cypress-io/github-action)
 - [Test Ansible roles with Molecule](https://github.com/robertdebock/molecule-action)
 
+#### Performance Testing
+
+- [Run performance testing](https://github.com/kenju/github-actions-artillery) with [artilleryio](https://github.com/artilleryio/artillery)
+
 #### Linting
 
 - [PHP Code fixer Action](https://github.com/OskarStark/php-cs-fixer-ga)

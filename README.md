@@ -216,7 +216,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### Performance Testing
 
-- [Run performance testing](https://github.com/kenju/github-actions-artillery) with [artilleryio](https://github.com/artilleryio/artillery)
+- [Run performance testing with artillery.io](https://github.com/kenju/github-actions-artillery)
 
 #### Linting
 

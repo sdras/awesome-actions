@@ -364,6 +364,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Update a Docker Hub repository description from README.md](https://github.com/peter-evans/dockerhub-description)
 - [Publish Docker Images to the GitHub Package Registry (GPR)](https://github.com/machine-learning-apps/gpr-docker-publish)
 - [Update a repository's "Full description" on Docker Hub](https://github.com/mpepping/github-actions/tree/master/docker-hub-metadata)
+- [Build and publish docker images to any registry using Kaniko](https://github.com/outillage/kaniko-action)
 
 #### Kubernetes
 

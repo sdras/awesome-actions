@@ -113,6 +113,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Publish GitHub Releases with Assets](https://github.com/softprops/action-gh-release)
 - [GitHub Project Automation+](https://github.com/alex-page/github-project-automation-plus) - Automate GitHub Project cards with any webhook event.
 - [Run GitHub Actions Locally with a web interface](https://github.com/phishy/wflow)
+- [Run GitHub Actions Locally in Terminal](https://github.com/nektos/act)
 - [Build and Publish Android debug APK](https://github.com/ShaunLWM/action-release-debugapk)
 - [Generate sequential build numbers for GitHub Actions](https://github.com/einaregilsson/build-number)
 - [Push Git changes to GitHub repository without authentication difficulties](https://github.com/ad-m/github-push-action)

@@ -71,6 +71,7 @@ Automate management for issues, pull requests, and releases.
 - [actions/first-interaction](https://github.com/actions/first-interaction) - An action for filtering pull requests and issues from first-time contributors.
 - [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction.
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests.
+- [actions/delete-package-versions](https://github.com/actions/delete-package-versions) - Delete versions of a package from GitHub Packages.
 
 #### Setup Actions
 

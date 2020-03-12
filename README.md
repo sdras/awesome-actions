@@ -421,6 +421,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Build Go applications for multiplatform](https://github.com/izumin5210/action-go-crossbuild)
 - [Generate ~/.m2/settings.xml for Maven builds](https://github.com/whelk-io/maven-settings-xml-action)
 
+### Database
+
+- [Setup Cassandra Schema](https://github.com/fabasoad/setup-cassandra-action) - Running scripts from the provided folder on top of Cassandra cluster.
+
 ### Cheat Sheet
 
 - [GitHub Actions Branding Cheat Sheet](https://haya14busa.github.io/github-action-brandings/)

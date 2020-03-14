@@ -30,6 +30,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Frontend Tools](#frontend-tools)
   - [Machine Learning Ops](#machine-learning-ops)
   - [Build](#build)
+  - [Database](#database)
   - [Cheat Sheet](#cheat-sheet)
 - [Tutorials](#tutorials)
 
@@ -420,6 +421,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [run-vcpkg](https://github.com/lukka/run-vcpkg) - Multi platform action to build and install C/C++ dependencies with [vcpkg](https://github.com/microsoft/vcpkg).
 - [Build Go applications for multiplatform](https://github.com/izumin5210/action-go-crossbuild)
 - [Generate ~/.m2/settings.xml for Maven builds](https://github.com/whelk-io/maven-settings-xml-action)
+
+### Database
+
+- [Setup Cassandra Schema](https://github.com/fabasoad/setup-cassandra-action) - Running scripts from the provided folder on top of Cassandra cluster.
 
 ### Cheat Sheet
 

@@ -30,6 +30,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Frontend Tools](#frontend-tools)
   - [Machine Learning Ops](#machine-learning-ops)
   - [Build](#build)
+  - [Database](#database)
   - [Cheat Sheet](#cheat-sheet)
 - [Tutorials](#tutorials)
 

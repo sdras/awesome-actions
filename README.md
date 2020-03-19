@@ -149,6 +149,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Actions for Deno](https://github.com/denolib/setup-deno)
 - [GitHub Actions for Unity](https://github.com/webbertakken/unity-actions)
 - [Octions - GitHub Actions for GitHub REST API](https://github.com/maxkomarychev/octions)
+- [GitHub Actions for Docker](https://github.com/docker/github-actions)
 
 ### Utility
 

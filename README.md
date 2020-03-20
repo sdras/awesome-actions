@@ -427,7 +427,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Setup Cassandra Schema](https://github.com/fabasoad/setup-cassandra-action) - Running scripts from the provided folder on top of Cassandra cluster.
 
-### Localiation
+### Localization
 
 - [Find and automatically fix typos and grammar issues in your code](https://github.com/sobolevn/misspell-fixer-action) 
 

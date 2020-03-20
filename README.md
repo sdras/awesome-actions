@@ -31,6 +31,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Machine Learning Ops](#machine-learning-ops)
   - [Build](#build)
   - [Database](#database)
+  - [Localization](#localization)
   - [Cheat Sheet](#cheat-sheet)
 - [Tutorials](#tutorials)
 
@@ -425,6 +426,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Database
 
 - [Setup Cassandra Schema](https://github.com/fabasoad/setup-cassandra-action) - Running scripts from the provided folder on top of Cassandra cluster.
+
+### Localiation
+
+- [Find and automatically fix typos and grammar issues in your code](https://github.com/sobolevn/misspell-fixer-action) 
 
 ### Cheat Sheet
 

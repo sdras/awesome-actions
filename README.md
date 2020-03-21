@@ -73,6 +73,7 @@ Automate management for issues, pull requests, and releases.
 - [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction.
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests.
 - [actions/delete-package-versions](https://github.com/actions/delete-package-versions) - Delete versions of a package from GitHub Packages.
+- [juliangruber/merge-pull-request-action](https://github.com/juliangruber/merge-pull-request-action) - Merge a pull request
 
 #### Setup Actions
 

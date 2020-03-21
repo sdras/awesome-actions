@@ -73,7 +73,6 @@ Automate management for issues, pull requests, and releases.
 - [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction.
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests.
 - [actions/delete-package-versions](https://github.com/actions/delete-package-versions) - Delete versions of a package from GitHub Packages.
-- [juliangruber/merge-pull-request-action](https://github.com/juliangruber/merge-pull-request-action) - Merge a pull request
 
 #### Setup Actions
 
@@ -130,6 +129,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Rollback a GitHub Release](https://github.com/author/action-rollback)
 - [Lock Closed Issues and Pull Requests after a Period of Inactivity](https://github.com/dessant/lock-threads)
 - [Get Commit Difference Count Between Two Branches](https://github.com/jessicalostinspace/commit-difference-action)
+- [juliangruber/merge-pull-request-action](https://github.com/juliangruber/merge-pull-request-action) - Merge a pull request
 
 ### Collection of Actions
 

@@ -146,6 +146,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Actions for Logtalk and Prolog](https://github.com/logtalk-actions)
 - [GitHub Actions for Deno](https://github.com/denolib/setup-deno)
 - [GitHub Actions for Unity](https://github.com/webbertakken/unity-actions)
+- [GitHub Actions for Cocoapods](https://github.com/maxim-lobanov/setup-cocoapods)
 - [Octions - GitHub Actions for GitHub REST API](https://github.com/maxkomarychev/octions)
 
 ### Utility

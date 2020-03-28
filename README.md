@@ -421,6 +421,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [run-vcpkg](https://github.com/lukka/run-vcpkg) - Multi platform action to build and install C/C++ dependencies with [vcpkg](https://github.com/microsoft/vcpkg).
 - [Build Go applications for multiplatform](https://github.com/izumin5210/action-go-crossbuild)
 - [Generate ~/.m2/settings.xml for Maven builds](https://github.com/whelk-io/maven-settings-xml-action)
+- [Run Pascal script](https://github.com/fabasoad/pascal-action) - Run Pascal script action.
 
 ### Database
 

@@ -396,6 +396,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Upload files to any OpenStack Swift service provider](https://github.com/iksaku/openstack-swift-action)
 - [GitHub Action for sending Stack Overflow posts to Slack](https://github.com/logankilpatrick/StackOverflowBot)
 - [Assume AWS role](https://github.com/nordcloud/aws-assume-role/)
+- [JSONbin Action](https://github.com/fabasoad/jsonbin-action) - Generate custom response using [JSONbin](https://jsonbin.io) service.
 
 ### Frontend Tools
 

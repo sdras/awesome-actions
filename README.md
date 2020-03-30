@@ -175,8 +175,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [awesome-lint as a GitHub Action](https://github.com/max/awesome-lint)
 - [Edit JSON File](https://github.com/deef0000dragon1/json-edit-action)
 - [Build Slate documentation](https://github.com/Decathlon/slate-builder-action)
-- [Read Properties](https://github.com/christian-draeger/read-properties) - Read values from `.properties` files.
-- [Write Properties](https://github.com/christian-draeger/write-properties) - Write values to `.properties` files.
+- [Read Properties](https://github.com/christian-draeger/read-properties) - Read values from '.properties' files.
+- [Write Properties](https://github.com/christian-draeger/write-properties) - Write values to '.properties' files.
 - [Apply templates with Jinja2](https://github.com/cuchi/jinja2-action) - Use the Jinja2 template engine to generate files from templates.
 - [Has Changes](https://github.com/UnicornGlobal/has-changes-action) - Check if there are code changes from previous steps.
 - [Mind Your Language Action](https://github.com/tailaiw/mind-your-language-action) - Detect offensive comments in issues and pull requests, and warn senders.

@@ -316,7 +316,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Post a Slack message as a bot](https://github.com/pullreminders/slack-action)
 - [Send an SMS from GitHub Actions using Nexmo](https://github.com/nexmo-community/nexmo-sms-action)
 - [Send a Telegram Message](https://github.com/appleboy/telegram-action)
-- [Send a File or Text Message to Discord (custom define color, username or avatar)](https://github.com/appleboy/telegram-action)
+- [Send a File or Text Message to Discord (custom define color, username or avatar)](https://github.com/appleboy/discord-action)
 - [Collaborate on tweets using pull requests](https://github.com/gr2m/twitter-together)
 - [Send a Push Notification via Push by Techulus](https://github.com/techulus/push-github-action)
 - [Send email with SendGrid](https://github.com/peter-evans/sendgrid-action)

@@ -146,7 +146,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Actions for Logtalk and Prolog](https://github.com/logtalk-actions)
 - [GitHub Actions for Deno](https://github.com/denolib/setup-deno)
 - [GitHub Actions for Unity](https://github.com/webbertakken/unity-actions)
-- [GitHub Actions for Cocoapods](https://github.com/maxim-lobanov/setup-cocoapods)
 - [Octions - GitHub Actions for GitHub REST API](https://github.com/maxkomarychev/octions)
 
 ### Utility
@@ -181,6 +180,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Apply templates with Jinja2](https://github.com/cuchi/jinja2-action) - Use the Jinja2 template engine to generate files from templates.
 - [Has Changes](https://github.com/UnicornGlobal/has-changes-action) - Check if there are code changes from previous steps.
 - [Mind Your Language Action](https://github.com/tailaiw/mind-your-language-action) - Detect offensive comments in issues and pull requests, and warn senders.
+- [Setup Cocoapods](https://github.com/maxim-lobanov/setup-cocoapods) - Setup specific version of Cocoapods
 
 #### Environments
 

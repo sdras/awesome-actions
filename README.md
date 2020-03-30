@@ -50,7 +50,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [actions/example-services](https://github.com/actions/example-services) - Example workflows using service containers.
 
 ### Official Actions
-
+<!--lint disable no-dead-urls-->
 #### Workflow Tool Actions
 
 Tool actions for your workflow.

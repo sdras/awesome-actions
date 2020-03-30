@@ -270,7 +270,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Runs Lighthouse and posts results to PRs and Slack](https://github.com/foo-software/lighthouse-check-action)
 - [Run Lighthouse in CI using GitHub Actions](https://github.com/treosh/lighthouse-ci-action)
 - [Continuous Benchmarking and Benchmark Visualization for Go](https://github.com/bobheadxi/gobenchdata)
-- [Size Limit Action](https://github.com/andresz1/size-limit-action) - Compares the real cost of your JS in every PR and rejects it if exceeds the limit using [Size Limit](https://github.com/ai/size-limit)
+- [Size Limit Action](https://github.com/andresz1/size-limit-action) - Comments cost comparison of your JS in PRs and rejects them if limit is exceeded
 
 ### Pull Requests
 

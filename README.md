@@ -129,7 +129,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Rollback a GitHub Release](https://github.com/author/action-rollback)
 - [Lock Closed Issues and Pull Requests after a Period of Inactivity](https://github.com/dessant/lock-threads)
 - [Get Commit Difference Count Between Two Branches](https://github.com/jessicalostinspace/commit-difference-action)
-- [Publish Go binaries to Github Release Assets](https://github.com/wangyoucao577/go-release-action)
+- [Publish Go Binaries to GitHub Release Assets](https://github.com/wangyoucao577/go-release-action)
 
 ### Collection of Actions
 

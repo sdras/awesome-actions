@@ -182,6 +182,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Mind Your Language Action](https://github.com/tailaiw/mind-your-language-action) - Detect offensive comments in issues and pull requests, and warn senders.
 - [YAML/JSON/XML Converter](https://github.com/fabasoad/yaml-json-xml-converter-action) - Converts YAML/JSON/XML file formats interchangeably. 
 - [NSFW Detection](https://github.com/fabasoad/nsfw-detection-action) - Detect NSFW content in commited files.
+- [Has Changed Path](https://github.com/MarceloPrado/has-changed-path) - Conditionally run actions based on changed paths.
 
 #### Environments
 

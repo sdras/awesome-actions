@@ -181,6 +181,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Has Changes](https://github.com/UnicornGlobal/has-changes-action) - Check if there are code changes from previous steps.
 - [Mind Your Language Action](https://github.com/tailaiw/mind-your-language-action) - Detect offensive comments in issues and pull requests, and warn senders.
 - [Linguist](https://github.com/fabasoad/linguist-action) - Checks a repository and produces information about used languages in output.
+- [NSFW Detection](https://github.com/fabasoad/nsfw-detection-action) - Detect NSFW content in commited files.
 
 #### Environments
 
@@ -297,6 +298,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Pull Request Stuck Notifier](https://github.com/loomble/pull-request-stuck-notifier-action)
 - [Lint pull request name with commitlint (Awesome if you squash merge !)](https://github.com/JulienKode/pull-request-name-linter-action)
 - [Block PR merges when Checks for target branches are failing](https://github.com/cirrus-actions/branch-guard)
+- [Get generated static site screeshots updated by Pull Request](https://github.com/ssowonny/diff-pages-action)
 
 ### GitHub Pages
 
@@ -369,6 +371,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Publish Docker Images to the GitHub Package Registry (GPR)](https://github.com/machine-learning-apps/gpr-docker-publish)
 - [Update a repository's "Full description" on Docker Hub](https://github.com/mpepping/github-actions/tree/master/docker-hub-metadata)
 - [Build and publish docker images to any registry using Kaniko](https://github.com/outillage/kaniko-action)
+- [Monitor and limit your docker image size](https://github.com/wemake-services/docker-image-size-limit)
 
 #### Kubernetes
 
@@ -407,6 +410,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Actions for Hugo extended](https://github.com/peaceiris/actions-hugo)
 - [Generate OG Image](https://github.com/BoyWithSilverWings/generate-og-image) - Generate customisable open graph images from Markdown files.
 - [GitHub Actions for mdBook](https://github.com/peaceiris/actions-mdbook)
+- [Setup Mint](https://github.com/fabasoad/setup-mint-action) - Setup Mint (programming language for writing single page applications).
 
 ### Machine Learning Ops
 
@@ -422,6 +426,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [run-vcpkg](https://github.com/lukka/run-vcpkg) - Multi platform action to build and install C/C++ dependencies with [vcpkg](https://github.com/microsoft/vcpkg).
 - [Build Go applications for multiplatform](https://github.com/izumin5210/action-go-crossbuild)
 - [Generate ~/.m2/settings.xml for Maven builds](https://github.com/whelk-io/maven-settings-xml-action)
+- [Setup Brainfuck](https://github.com/fabasoad/brainfuck-install-action/) - Setup brainfuck interpreter.
 
 ### Database
 

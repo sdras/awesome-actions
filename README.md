@@ -129,7 +129,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Rollback a GitHub Release](https://github.com/author/action-rollback)
 - [Lock Closed Issues and Pull Requests after a Period of Inactivity](https://github.com/dessant/lock-threads)
 - [Get Commit Difference Count Between Two Branches](https://github.com/jessicalostinspace/commit-difference-action)
-- [Publish Go Binaries to GitHub Release Assets](https://github.com/wangyoucao577/go-release-action)
 
 ### Collection of Actions
 
@@ -427,6 +426,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Build Go applications for multiplatform](https://github.com/izumin5210/action-go-crossbuild)
 - [Generate ~/.m2/settings.xml for Maven builds](https://github.com/whelk-io/maven-settings-xml-action)
 - [Setup Brainfuck](https://github.com/fabasoad/brainfuck-install-action/) - Setup brainfuck interpreter.
+- [Publish Go Binaries to GitHub Release Assets](https://github.com/wangyoucao577/go-release-action)
 
 ### Database
 

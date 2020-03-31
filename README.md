@@ -31,6 +31,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Machine Learning Ops](#machine-learning-ops)
   - [Build](#build)
   - [Database](#database)
+  - [Localization](#localization)
   - [Cheat Sheet](#cheat-sheet)
 - [Tutorials](#tutorials)
 
@@ -129,6 +130,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Rollback a GitHub Release](https://github.com/author/action-rollback)
 - [Lock Closed Issues and Pull Requests after a Period of Inactivity](https://github.com/dessant/lock-threads)
 - [Get Commit Difference Count Between Two Branches](https://github.com/jessicalostinspace/commit-difference-action)
+- [Generate Release Notes Based on Git References](https://github.com/metcalfc/changelog-generator)
 
 ### Collection of Actions
 
@@ -180,8 +182,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Apply templates with Jinja2](https://github.com/cuchi/jinja2-action) - Use the Jinja2 template engine to generate files from templates.
 - [Has Changes](https://github.com/UnicornGlobal/has-changes-action) - Check if there are code changes from previous steps.
 - [Mind Your Language Action](https://github.com/tailaiw/mind-your-language-action) - Detect offensive comments in issues and pull requests, and warn senders.
-- [Twilio Voice Call](https://github.com/fabasoad/twilio-voice-call-action/) - Make Twilio voice call with defined text.
+- [YAML/JSON/XML Converter](https://github.com/fabasoad/yaml-json-xml-converter-action) - Converts YAML/JSON/XML file formats interchangeably. 
 - [NSFW Detection](https://github.com/fabasoad/nsfw-detection-action) - Detect NSFW content in commited files.
+- [Has Changed Path](https://github.com/MarceloPrado/has-changed-path) - Conditionally run actions based on changed paths.
+- [Twilio Voice Call](https://github.com/fabasoad/twilio-voice-call-action/) - Make Twilio voice call with defined text.
 
 #### Environments
 
@@ -189,6 +193,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Export global environment variables for succeeding build steps](https://github.com/zweitag/github-actions)
 - [Programmatically set environment variables for use in subsequent steps](https://github.com/allenevans/set-env)
 - [Install Conda environments for Python](https://github.com/goanpeca/setup-miniconda)
+- [Setup NativeScript](https://github.com/hrueger/setup-nativescript)
 
 #### Dependencies
 
@@ -272,6 +277,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Runs Lighthouse and posts results to PRs and Slack](https://github.com/foo-software/lighthouse-check-action)
 - [Run Lighthouse in CI using GitHub Actions](https://github.com/treosh/lighthouse-ci-action)
 - [Continuous Benchmarking and Benchmark Visualization for Go](https://github.com/bobheadxi/gobenchdata)
+- [Size Limit Action](https://github.com/andresz1/size-limit-action) - Comments cost comparison of your JS in PRs and rejects them if limit is exceeded.
 
 ### Pull Requests
 
@@ -317,7 +323,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Post a Slack message as a bot](https://github.com/pullreminders/slack-action)
 - [Send an SMS from GitHub Actions using Nexmo](https://github.com/nexmo-community/nexmo-sms-action)
 - [Send a Telegram Message](https://github.com/appleboy/telegram-action)
-- [Send a File or Text Message to Discord (custom define color, username or avatar)](https://github.com/appleboy/telegram-action)
+- [Send a File or Text Message to Discord (custom define color, username or avatar)](https://github.com/appleboy/discord-action)
 - [Collaborate on tweets using pull requests](https://github.com/gr2m/twitter-together)
 - [Send a Push Notification via Push by Techulus](https://github.com/techulus/push-github-action)
 - [Send email with SendGrid](https://github.com/peter-evans/sendgrid-action)
@@ -431,6 +437,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Database
 
 - [Setup Cassandra Schema](https://github.com/fabasoad/setup-cassandra-action) - Running scripts from the provided folder on top of Cassandra cluster.
+
+### Localization
+
+- [Find and automatically fix typos and grammar issues in your code](https://github.com/sobolevn/misspell-fixer-action) 
 
 ### Cheat Sheet
 

@@ -195,6 +195,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Programmatically set environment variables for use in subsequent steps](https://github.com/allenevans/set-env)
 - [Install Conda environments for Python](https://github.com/goanpeca/setup-miniconda)
 - [Setup NativeScript](https://github.com/hrueger/setup-nativescript)
+- [Create a JSON environment file](https://github.com/schdck/create-env-json)
 
 #### Dependencies
 

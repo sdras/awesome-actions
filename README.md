@@ -228,6 +228,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Run Cypress E2E tests](https://github.com/cypress-io/github-action)
 - [Test Ansible roles with Molecule](https://github.com/robertdebock/molecule-action)
 - [Run performance testing with artillery.io](https://github.com/kenju/github-actions-artillery)
+- [Detect Flaky Tests with BuildPulse](https://github.com/Workshop64/buildpulse-action)
 
 #### Linting
 

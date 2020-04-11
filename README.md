@@ -189,7 +189,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Linguist](https://github.com/fabasoad/linguist-action) - Checks a repository and produces information about used languages in output.
 - [Twilio Voice Call](https://github.com/fabasoad/twilio-voice-call-action/) - Make Twilio voice call with defined text.
 - [Setup Xamarin](https://github.com/maxim-lobanov/setup-xamarin) - Switch between pre-installed versions of Xamarin and Mono for macOS images.
-- [Public IP](https://github.com/haythem/public-ip) - Queries GitHub actions runner's public IP address
+- [Public IP](https://github.com/haythem/public-ip) - Queries GitHub actions runner's public IP address.
 
 #### Environments
 

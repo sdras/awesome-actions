@@ -219,7 +219,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### Testing
 
-- [Snyk Test Action](https://github.com/snyk/actions)
 - [Run Tests through Puppeteer, the Headless Chrome Node API](https://github.com/ianwalter/puppeteer)
 - [xUnit Slack Reporter: Sends summary of tests from xUnit reports to a Slack channel](https://github.com/ivanklee86/xunit-slack-reporter)
 - [Run codeception tests](https://github.com/joelwmale/codeception-action)
@@ -262,6 +261,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### Security
 
+- [Snyk Test Action](https://github.com/snyk/actions)
 - [A vulnerability scanner for your docker images](https://github.com/phonito/phonito-scanner-action)
 - [Automatically approve and merge Dependabot updates](https://github.com/ridedott/dependabot-auto-merge-action)
 - [Run dlint security linter on your Python code](https://github.com/xen0l/dlint-check)

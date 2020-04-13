@@ -312,6 +312,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Lint pull request name with commitlint (Awesome if you squash merge !)](https://github.com/JulienKode/pull-request-name-linter-action)
 - [Block PR merges when Checks for target branches are failing](https://github.com/cirrus-actions/branch-guard)
 - [Get generated static site screeshots updated by Pull Request](https://github.com/ssowonny/diff-pages-action)
+- [Add Labels Depending if the Pull Request Still in Progress](https://github.com/AlbertHernandez/working-label-action)
 
 ### GitHub Pages
 

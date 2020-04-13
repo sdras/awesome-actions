@@ -21,6 +21,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Collection of Actions](#collection-of-actions)
   - [Utility](#utility)
   - [Static Analysis](#static-analysis)
+  - [Dynamic Analysis](#dynamic-analysis)
   - [Monitoring](#monitoring)
   - [Pull Requests](#pull-requests)
   - [GitHub Pages](#github-pages)
@@ -285,6 +286,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Send your code coverage to codecov.io](https://github.com/codecov/codecov-action)
 - [Publishing code coverage to CodeClimate](https://github.com/paambaati/codeclimate-action)
 - [Update repository go report card](https://github.com/creekorful/goreportcard-action)
+
+### Dynamic Analysis
+
+- [Run Gofmt to check Golang code formatting](https://github.com/Jerome1337/gofmt-action)
 
 ### Monitoring
 

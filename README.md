@@ -220,7 +220,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### Testing
 
-- [Snyk Test Action](https://github.com/snyk/actions)
 - [Run Tests through Puppeteer, the Headless Chrome Node API](https://github.com/ianwalter/puppeteer)
 - [xUnit Slack Reporter: Sends summary of tests from xUnit reports to a Slack channel](https://github.com/ivanklee86/xunit-slack-reporter)
 - [Run codeception tests](https://github.com/joelwmale/codeception-action)
@@ -270,6 +269,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Linting your AWS IAM policy documents for correctness and security issues](https://github.com/xen0l/iam-lint)
 - [Secret Spreader](https://github.com/webfactory/secret-spreader) - Not an action per se, but a tool to manage Actions Secrets across a list of repositories.
 - [Secrets Sync Action](https://github.com/google/secrets-sync-action) - Action syncs secrets across multiple repositories.
+- [Snyk Test Action](https://github.com/snyk/actions)
 
 #### Code Coverage
 

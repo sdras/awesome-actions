@@ -153,6 +153,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Actions for Unity](https://github.com/webbertakken/unity-actions)
 - [Octions - GitHub Actions for GitHub REST API](https://github.com/maxkomarychev/octions)
 - [GitHub Actions for Docker](https://github.com/docker/github-actions)
+- [GitHub Actions for AWS](https://github.com/clowdhaus/aws-github-actions)
 
 ### Utility
 
@@ -406,10 +407,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Sync/upload a directory to an AWS S3 bucket](https://github.com/jakejarvis/s3-sync-action)
 - [Deploy Lambda code to an existing function](https://github.com/appleboy/lambda-action)
-- [Run awscli](https://github.com/clowdhaus/aws-github-actions)
-- [Invalidate CloudFront cache](https://github.com/clowdhaus/aws-github-actions)
-- [Acquire IAM access credentials](https://github.com/clowdhaus/aws-github-actions)
-- [Sync to S3](https://github.com/clowdhaus/aws-github-actions)
 
 #### Terraform
 

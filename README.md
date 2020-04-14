@@ -393,6 +393,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Build and publish docker images to any registry using Kaniko](https://github.com/outillage/kaniko-action)
 - [Monitor and limit your docker image size](https://github.com/wemake-services/docker-image-size-limit)
 - [Publish Docker Images to the Amazon Elastic Container Registry (ECR)](https://github.com/appleboy/docker-ecr-action)
+- [Build And Push Your Docker Images Caching Each Stage To Reduce Build Time](https://github.com/whoan/docker-build-with-cache-action)
 
 #### Kubernetes
 

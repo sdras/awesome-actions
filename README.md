@@ -188,7 +188,9 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Has Changed Path](https://github.com/MarceloPrado/has-changed-path) - Conditionally run actions based on changed paths.
 - [Linguist](https://github.com/fabasoad/linguist-action) - Checks a repository and produces information about used languages in output.
 - [Twilio Voice Call](https://github.com/fabasoad/twilio-voice-call-action/) - Make Twilio voice call with defined text.
+- [Setup Xamarin](https://github.com/maxim-lobanov/setup-xamarin) - Switch between pre-installed versions of Xamarin and Mono for macOS images.
 - [Setup Cocoapods](https://github.com/maxim-lobanov/setup-cocoapods) - Setup specific version of Cocoapods.
+- [Public IP](https://github.com/haythem/public-ip) - Queries GitHub actions runner's public IP address.
 
 #### Environments
 
@@ -197,6 +199,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Programmatically set environment variables for use in subsequent steps](https://github.com/allenevans/set-env)
 - [Install Conda environments for Python](https://github.com/goanpeca/setup-miniconda)
 - [Setup NativeScript](https://github.com/hrueger/setup-nativescript)
+- [Create a JSON Environment File](https://github.com/schdck/create-env-json)
 
 #### Dependencies
 
@@ -227,6 +230,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Run Cypress E2E tests](https://github.com/cypress-io/github-action)
 - [Test Ansible roles with Molecule](https://github.com/robertdebock/molecule-action)
 - [Run performance testing with artillery.io](https://github.com/kenju/github-actions-artillery)
+- [Detect Flaky Tests with BuildPulse](https://github.com/Workshop64/buildpulse-action)
 
 #### Linting
 
@@ -266,6 +270,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [AWS Secrets Manager Actions](https://github.com/say8425/aws-secrets-manager-actions) - Define AWS Secrets Manager secrets to environment values.
 - [Linting your AWS IAM policy documents for correctness and security issues](https://github.com/xen0l/iam-lint)
 - [Secret Spreader](https://github.com/webfactory/secret-spreader) - Not an action per se, but a tool to manage Actions Secrets across a list of repositories.
+- [Secrets Sync Action](https://github.com/google/secrets-sync-action) - Action syncs secrets across multiple repositories.
 
 #### Code Coverage
 
@@ -308,6 +313,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Lint pull request name with commitlint (Awesome if you squash merge !)](https://github.com/JulienKode/pull-request-name-linter-action)
 - [Block PR merges when Checks for target branches are failing](https://github.com/cirrus-actions/branch-guard)
 - [Get generated static site screeshots updated by Pull Request](https://github.com/ssowonny/diff-pages-action)
+- [Add Labels Depending if the Pull Request Still in Progress](https://github.com/AlbertHernandez/working-label-action)
 
 ### GitHub Pages
 
@@ -319,6 +325,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Action for Hexo](https://github.com/heowc/action-hexo)
 - [Deploy Google Analytics stats to GitHub Pages](https://github.com/cristianpb/analytics-google)
 - [A Jupyter Notebook Blogging Platform Powered by GitHub Actions, Pages and Jekyll](https://github.com/fastai/fastpages)
+- [Deploy A Static Site to GitHub Pages](https://github.com/appleboy/gh-pages-action) - Deploy to custom directory and ignore folder/file.
 
 ### Notifications and Messages
 
@@ -381,6 +388,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Update a repository's "Full description" on Docker Hub](https://github.com/mpepping/github-actions/tree/master/docker-hub-metadata)
 - [Build and publish docker images to any registry using Kaniko](https://github.com/outillage/kaniko-action)
 - [Monitor and limit your docker image size](https://github.com/wemake-services/docker-image-size-limit)
+- [Publish Docker Images to the Amazon Elastic Container Registry (ECR)](https://github.com/appleboy/docker-ecr-action)
 
 #### Kubernetes
 

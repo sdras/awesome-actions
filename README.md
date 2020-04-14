@@ -51,12 +51,15 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [actions/example-services](https://github.com/actions/example-services) - Example workflows using service containers.
 
 ### Official Actions
+
 <!--lint disable no-dead-urls-->
+
 #### Workflow Tool Actions
 
 Tool actions for your workflow.
 
 <!--lint ignore awesome-spell-check-->
+
 - [actions/github](https://github.com/actions/github) - Wraps actions-toolkit into an Action for common GitHub automations.
 - [actions/checkout](https://github.com/actions/checkout) - Setup your repository on your workflow.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - Upload artifacts from your workflow.
@@ -183,12 +186,14 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Apply templates with Jinja2](https://github.com/cuchi/jinja2-action) - Use the Jinja2 template engine to generate files from templates.
 - [Has Changes](https://github.com/UnicornGlobal/has-changes-action) - Check if there are code changes from previous steps.
 - [Mind Your Language Action](https://github.com/tailaiw/mind-your-language-action) - Detect offensive comments in issues and pull requests, and warn senders.
-- [YAML/JSON/XML Converter](https://github.com/fabasoad/yaml-json-xml-converter-action) - Converts YAML/JSON/XML file formats interchangeably. 
+- [YAML/JSON/XML Converter](https://github.com/fabasoad/yaml-json-xml-converter-action) - Converts YAML/JSON/XML file formats interchangeably.
 - [NSFW Detection](https://github.com/fabasoad/nsfw-detection-action) - Detect NSFW content in commited files.
 - [Has Changed Path](https://github.com/MarceloPrado/has-changed-path) - Conditionally run actions based on changed paths.
 - [Linguist](https://github.com/fabasoad/linguist-action) - Checks a repository and produces information about used languages in output.
 - [Twilio Voice Call](https://github.com/fabasoad/twilio-voice-call-action/) - Make Twilio voice call with defined text.
 - [Setup Xamarin](https://github.com/maxim-lobanov/setup-xamarin) - Switch between pre-installed versions of Xamarin and Mono for macOS images.
+- [Memer Action](https://github.com/Bhupesh-V/memer-action) - A GitHub Action for Programmer Memes xD.
+- [Setup Cocoapods](https://github.com/maxim-lobanov/setup-cocoapods) - Setup specific version of Cocoapods.
 - [Public IP](https://github.com/haythem/public-ip) - Queries GitHub actions runner's public IP address.
 
 #### Environments
@@ -220,7 +225,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### Testing
 
-- [Snyk Test Action](https://github.com/snyk/actions)
 - [Run Tests through Puppeteer, the Headless Chrome Node API](https://github.com/ianwalter/puppeteer)
 - [xUnit Slack Reporter: Sends summary of tests from xUnit reports to a Slack channel](https://github.com/ivanklee86/xunit-slack-reporter)
 - [Run codeception tests](https://github.com/joelwmale/codeception-action)
@@ -270,6 +274,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Linting your AWS IAM policy documents for correctness and security issues](https://github.com/xen0l/iam-lint)
 - [Secret Spreader](https://github.com/webfactory/secret-spreader) - Not an action per se, but a tool to manage Actions Secrets across a list of repositories.
 - [Secrets Sync Action](https://github.com/google/secrets-sync-action) - Action syncs secrets across multiple repositories.
+- [Snyk Test Action](https://github.com/snyk/actions)
 
 #### Code Coverage
 
@@ -379,6 +384,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Publish a package with 2FA using Slack](https://github.com/erezrokah/2fa-with-slack-action)
 - [Serialize Workflow Runs in Continuous Deployment Pipelines](https://github.com/softprops/turnstyle)
 - [Netlify Deploy GitHub Action for each commit](https://github.com/nwtgck/actions-netlify)
+- [Run Ansible Playbooks](https://github.com/arillso/action.playbook)
 - [Publish a Python Distribution Package to Anaconda Cloud](https://github.com/fcakyon/conda-publish-action)
 
 #### Docker
@@ -389,6 +395,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Build and publish docker images to any registry using Kaniko](https://github.com/outillage/kaniko-action)
 - [Monitor and limit your docker image size](https://github.com/wemake-services/docker-image-size-limit)
 - [Publish Docker Images to the Amazon Elastic Container Registry (ECR)](https://github.com/appleboy/docker-ecr-action)
+- [Build And Push Your Docker Images Caching Each Stage To Reduce Build Time](https://github.com/whoan/docker-build-with-cache-action)
 
 #### Kubernetes
 
@@ -405,7 +412,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Generate terraform documentation](https://github.com/Dirrk/terraform-docs) - Uses terraform-docs to generate docs for terraform modules.
 - [An example of using Terraform to validate and apply GitHub administration](https://github.com/asgharlabs/github-terraform/tree/master/.github/workflows)
-
 
 ### External Services
 

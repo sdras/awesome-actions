@@ -261,7 +261,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### Security
 
-- [Snyk Test Action](https://github.com/snyk/actions)
 - [A vulnerability scanner for your docker images](https://github.com/phonito/phonito-scanner-action)
 - [Automatically approve and merge Dependabot updates](https://github.com/ridedott/dependabot-auto-merge-action)
 - [Run dlint security linter on your Python code](https://github.com/xen0l/dlint-check)
@@ -269,6 +268,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Linting your AWS IAM policy documents for correctness and security issues](https://github.com/xen0l/iam-lint)
 - [Secret Spreader](https://github.com/webfactory/secret-spreader) - Not an action per se, but a tool to manage Actions Secrets across a list of repositories.
 - [Secrets Sync Action](https://github.com/google/secrets-sync-action) - Action syncs secrets across multiple repositories.
+- [Snyk Test Action](https://github.com/snyk/actions)
 
 #### Code Coverage
 

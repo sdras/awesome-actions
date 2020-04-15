@@ -134,6 +134,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Lock Closed Issues and Pull Requests after a Period of Inactivity](https://github.com/dessant/lock-threads)
 - [Get Commit Difference Count Between Two Branches](https://github.com/jessicalostinspace/commit-difference-action)
 - [Generate Release Notes Based on Git References](https://github.com/metcalfc/changelog-generator)
+- [Enforce Policies on GitHub Repositories and Commits](https://github.com/talos-systems/conform)
 
 ### Collection of Actions
 

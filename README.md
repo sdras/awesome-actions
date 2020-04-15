@@ -387,6 +387,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Serialize Workflow Runs in Continuous Deployment Pipelines](https://github.com/softprops/turnstyle)
 - [Netlify Deploy GitHub Action for each commit](https://github.com/nwtgck/actions-netlify)
 - [Run Ansible Playbooks](https://github.com/arillso/action.playbook)
+- [Publish a Python Distribution Package to Anaconda Cloud](https://github.com/fcakyon/conda-publish-action)
 
 #### Docker
 

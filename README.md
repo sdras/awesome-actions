@@ -135,6 +135,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Get Commit Difference Count Between Two Branches](https://github.com/jessicalostinspace/commit-difference-action)
 - [Generate Release Notes Based on Git References](https://github.com/metcalfc/changelog-generator)
 - [Enforce Policies on GitHub Repositories and Commits](https://github.com/talos-systems/conform)
+- [Auto label issue based on a text/synonym](https://github.com/Renato66/auto-label)
 
 ### Collection of Actions
 

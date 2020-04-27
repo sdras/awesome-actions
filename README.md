@@ -278,7 +278,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Secret Spreader](https://github.com/webfactory/secret-spreader) - Not an action per se, but a tool to manage Actions Secrets across a list of repositories.
 - [Secrets Sync Action](https://github.com/google/secrets-sync-action) - Action syncs secrets across multiple repositories.
 - [Snyk Test Action](https://github.com/snyk/actions)
-- [Manage Your GitHub Actions secrets, With A Simple CLI](https://github.com/unfor19/githubsecrets)
+- [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 
 #### Code Coverage
 

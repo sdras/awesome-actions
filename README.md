@@ -60,7 +60,6 @@ Tool actions for your workflow.
 
 <!--lint ignore awesome-spell-check-->
 
-- [actions/github](https://github.com/actions/github) - Wraps actions-toolkit into an Action for common GitHub automations.
 - [actions/checkout](https://github.com/actions/checkout) - Setup your repository on your workflow.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - Upload artifacts from your workflow.
 - [actions/download-artifact](https://github.com/actions/download-artifact) - Download artifacts from your build.
@@ -351,6 +350,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Send a Push Notification via Pushbullet](https://github.com/ShaunLWM/action-pushbullet)
 - [Create an Outlook Calendar Event using Microsoft Graph](https://github.com/anoopt/ms-graph-create-event)
 - [Watch for GitHub Wiki page changes and post to Slack](https://github.com/benmatselby/gollum-page-watcher-action)
+- [Send an SMS using MessageBird](https://github.com/nikitasavinov/messagebird-sms-action)
 
 ### Deployment
 
@@ -481,6 +481,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Actions Advent Calendar](https://www.edwardthomson.com/blog/github_actions_advent_calendar.html)
 - [Zero Downtime Laravel Deployments with GitHub Actions](https://atymic.dev/blog/github-actions-laravel-ci-cd/)
 - [Building Custom GitHub Actions Pluralsight Course](https://www.pluralsight.com/courses/building-custom-github-actions/)
+- [Continuously Deploying Django to DigitalOcean with Docker and GitHub Actions](https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/)
 
 > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information
 

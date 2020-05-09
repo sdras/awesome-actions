@@ -134,6 +134,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Get Commit Difference Count Between Two Branches](https://github.com/jessicalostinspace/commit-difference-action)
 - [Generate Release Notes Based on Git References](https://github.com/metcalfc/changelog-generator)
 - [Enforce Policies on GitHub Repositories and Commits](https://github.com/talos-systems/conform)
+- [Auto Label Issue Based on Issue Description](https://github.com/Renato66/auto-label)
 
 ### Collection of Actions
 
@@ -197,6 +198,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Memer Action](https://github.com/Bhupesh-V/memer-action) - A GitHub Action for Programmer Memes xD.
 - [Setup Cocoapods](https://github.com/maxim-lobanov/setup-cocoapods) - Setup specific version of Cocoapods.
 - [Public IP](https://github.com/haythem/public-ip) - Queries GitHub actions runner's public IP address.
+- [GitHub Actions for Lazarus/FPC](https://github.com/gcarreno/setup-lazarus)
 - [Twilio Fax](https://github.com/fabasoad/twilio-fax-action/) - Sends a document by fax using your Twilio account.
 
 #### Environments
@@ -278,6 +280,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Secret Spreader](https://github.com/webfactory/secret-spreader) - Not an action per se, but a tool to manage Actions Secrets across a list of repositories.
 - [Secrets Sync Action](https://github.com/google/secrets-sync-action) - Action syncs secrets across multiple repositories.
 - [Snyk Test Action](https://github.com/snyk/actions)
+- [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 
 #### Code Coverage
 
@@ -319,7 +322,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Pull Request Stuck Notifier](https://github.com/loomble/pull-request-stuck-notifier-action)
 - [Lint pull request name with commitlint (Awesome if you squash merge !)](https://github.com/JulienKode/pull-request-name-linter-action)
 - [Block PR merges when Checks for target branches are failing](https://github.com/cirrus-actions/branch-guard)
-- [Get generated static site screeshots updated by Pull Request](https://github.com/ssowonny/diff-pages-action)
+- [Get generated static site screenshots updated by Pull Request](https://github.com/ssowonny/diff-pages-action)
 - [Add Labels Depending if the Pull Request Still in Progress](https://github.com/AlbertHernandez/working-label-action)
 
 ### GitHub Pages

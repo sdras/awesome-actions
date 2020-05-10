@@ -213,6 +213,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 #### Dependencies
 
 - [Install NPM dependencies with caching](https://github.com/bahmutov/npm-install)
+- [Highlight New NPM Dependencies](https://github.com/hiwelo/new-dependencies-action) - Comment pull requests with information about new NPM dependencies added.
 
 #### Semantic Versioning
 

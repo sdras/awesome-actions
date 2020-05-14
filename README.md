@@ -32,6 +32,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Build](#build)
   - [Database](#database)
   - [Localization](#localization)
+  - [Runners](#runners)
   - [Cheat Sheet](#cheat-sheet)
 - [Tutorials](#tutorials)
 
@@ -104,6 +105,11 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [actions/hello-world-docker-action](https://github.com/actions/hello-world-docker-action) - A template to demonstrate how to build a Docker action.
 - [actions/container-toolkit-action](https://github.com/actions/container-toolkit-action) - Template repo for creating container actions using actions/toolkit.
+
+#### Runners
+
+- [Adding self-hosted runners](https://help.github.com/en/actions/hosting-your-own-runners/adding-self-hosted-runners)
+- [Systemd - Configuring self-hosted runner service](https://help.github.com/en/actions/hosting-your-own-runners/configuring-the-self-hosted-runner-application-as-a-service)
 
 ## Community Resources
 
@@ -469,6 +475,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Find and automatically fix typos and grammar issues in your code](https://github.com/sobolevn/misspell-fixer-action)
 - [Translation](https://github.com/fabasoad/translation-action) - Translate text from any language to any language.
+
+### Runners
+
+- [GitHub Actions self-hosted runners provisioning](https://github.com/samber/github-actions-runner)
 
 ### Cheat Sheet
 

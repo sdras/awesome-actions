@@ -296,6 +296,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Run Lighthouse in CI using GitHub Actions](https://github.com/treosh/lighthouse-ci-action)
 - [Continuous Benchmarking and Benchmark Visualization for Go](https://github.com/bobheadxi/gobenchdata)
 - [Size Limit Action](https://github.com/andresz1/size-limit-action) - Comments cost comparison of your JS in PRs and rejects them if limit is exceeded.
+- [GitHub Status monitoring Action](https://github.com/crazy-max/ghaction-github-status)
 
 ### Pull Requests
 

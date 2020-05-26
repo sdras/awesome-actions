@@ -451,6 +451,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Query Experiment Tracking Results From Weights & Biases](https://github.com/machine-learning-apps/wandb-action)
 - [Run Parameterized Jupyter Notebooks](https://github.com/yaananth/run-notebook)
 - [Compile, Deploy and Run Kubeflow Pipeline](https://github.com/NikeNano/kubeflow-github-action)
+- [Automatically Dockerize a data-science repository as a Jupyter Server](https://github.com/machine-learning-apps/repo2docker-action)
+- [Azure Machine Learning w/GitHub Actions)[https://github.com/machine-learning-apps/ml-template-azure]
 
 ### Build
 

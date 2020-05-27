@@ -135,7 +135,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Generate Release Notes Based on Git References](https://github.com/metcalfc/changelog-generator)
 - [Enforce Policies on GitHub Repositories and Commits](https://github.com/talos-systems/conform)
 - [Auto Label Issue Based on Issue Description](https://github.com/Renato66/auto-label)
-- [Update configured GitHub Actions to the latest versions](https://github.com/fabasoad/ghacu)
+- [Update Configured GitHub Actions to the Latest Versions](https://github.com/fabasoad/ghacu)
 
 ### Collection of Actions
 

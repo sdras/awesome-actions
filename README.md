@@ -38,7 +38,6 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 ## Official Resources
 
 - [Official Site](https://github.com/features/actions)
-- [Official Community Forum Board](https://github.community/t5/GitHub-Actions/bd-p/actions)
 - [Official Documentation](https://help.github.com/en/actions)
 - [Official Actions organization](https://github.com/actions)
   - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments.

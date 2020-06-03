@@ -328,6 +328,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Block PR merges when Checks for target branches are failing](https://github.com/cirrus-actions/branch-guard)
 - [Get generated static site screenshots updated by Pull Request](https://github.com/ssowonny/diff-pages-action)
 - [Add Labels Depending if the Pull Request Still in Progress](https://github.com/AlbertHernandez/working-label-action)
+- [Automatically add a ticket or issue number to the start of all Pull Request titles](https://github.com/neofinancial/ticket-check-action)
 
 ### GitHub Pages
 

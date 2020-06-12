@@ -490,6 +490,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Zero Downtime Laravel Deployments with GitHub Actions](https://atymic.dev/blog/github-actions-laravel-ci-cd/)
 - [Building Custom GitHub Actions Pluralsight Course](https://www.pluralsight.com/courses/building-custom-github-actions/)
 - [Continuously Deploying Django to DigitalOcean with Docker and GitHub Actions](https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/)
+- [Deploying Self-Hosted Github Actions Runners with Docker](https://testdriven.io/blog/github-actions-docker/) - Deploy self-hosted Github Actions runners with Docker and Docker Swarm to DigitalOcean.
 
 > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information
 

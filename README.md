@@ -215,6 +215,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 #### Dependencies
 
 - [Install NPM dependencies with caching](https://github.com/bahmutov/npm-install)
+- [Cache NPM dependencies](https://github.com/c-hive/gha-npm-cache)
 
 #### Semantic Versioning
 

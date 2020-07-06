@@ -491,7 +491,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Building Custom GitHub Actions Pluralsight Course](https://www.pluralsight.com/courses/building-custom-github-actions/)
 - [Continuously Deploying Django to DigitalOcean with Docker and GitHub Actions](https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/)
 - [Setup Auto-scaled self-hosted GitHub Actions Runners on AWS Spot-instances](https://040code.github.io/2020/05/25/scaling-selfhosted-action-runners)
-- [Ci-for-research - GitHub Self-hosted runner guides](https://github.com/ci-for-research/self-hosted-runners) Collection of guides explaining how to set up GitHub self-hosted runners on several platforms.
+- [Ci-for-research - GitHub Self-hosted runner guides](https://github.com/ci-for-research/self-hosted-runners) - Collection of guides explaining how to set up GitHub self-hosted runners on several platforms.
 
 > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information
 

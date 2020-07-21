@@ -17,6 +17,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Official Actions](#official-actions)
   - [Create your Actions](#create-your-actions)
 - [Community Resources](#community-resources)
+  - [Prebuilt Workflow Templates](#prebuilt-workflow-templates
   - [GitHub Tools and Management](#github-tools-and-management)
   - [Collection of Actions](#collection-of-actions)
   - [Utility](#utility)

@@ -106,6 +106,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ## Community Resources
 
+### Prebuilt Workflow Templates
+
+- [Universal GitHub Actions](https://github.com/Videndum/Universal-GitAction-Workflows) - Workflow template designed to automate all your needs without interfering with development operations.
+
 ### GitHub Tools and Management
 
 - [Declaratively setup GitHub Labels](https://github.com/lannonbr/issue-label-manager-action)
@@ -138,7 +142,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Collection of Actions
 
-- [Universal GitHub Actions](https://github.com/Videndum/Universal-GitAction-Workflows) - Workflow template designed to automate all your needs without interfering with development operations.
 - [Use HashiCorp's Terraform](https://github.com/hashicorp/setup-terraform)
 - [GitHub Actions for Yarn 1](https://github.com/Borales/actions-yarn)
 - [GitHub Actions for Yarn 2](https://github.com/sergioramos/yarn-actions)

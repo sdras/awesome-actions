@@ -202,7 +202,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Public IP](https://github.com/haythem/public-ip) - Queries GitHub actions runner's public IP address.
 - [GitHub Actions for Lazarus/FPC](https://github.com/gcarreno/setup-lazarus)
 - [Twilio Fax](https://github.com/fabasoad/twilio-fax-action/) - Sends a document by fax using your Twilio account.
-- [GitHub Environment Variables Action](https://github.com/FranzDiebold/github-env-vars-action) - A GitHub Action to expose useful environment variables such as the branch/tag name, repository slug, ref slug, and many more! :rocket:
+- [GitHub Environment Variables Action](https://github.com/FranzDiebold/github-env-vars-action) - A GitHub Action to expose useful environment variables such as the branch/tag name, repository slug, ref slug, and many more :rocket:!
 
 #### Environments
 

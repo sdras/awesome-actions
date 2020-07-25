@@ -360,6 +360,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Pull Request Lint With Regex](https://github.com/MorrisonCole/pr-lint-action)
 - [Pull Request Landmines](https://github.com/tylermurry/github-pr-landmine)
 - [Annotate a GitHub Pull Request Based on a Checkstyle XML-Report](https://github.com/staabm/annotate-pull-request-from-checkstyle)
+- [Pull Request Stats](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
 
 ### GitHub Pages
 

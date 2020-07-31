@@ -135,7 +135,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Enforce Policies on GitHub Repositories and Commits](https://github.com/talos-systems/conform)
 - [Auto Label Issue Based on Issue Description](https://github.com/Renato66/auto-label)
 - [Update Configured GitHub Actions to the Latest Versions](https://github.com/fabasoad/ghacu)
-- [Prow Github Actions](https://github.com/jpmcb/prow-github-actions) - Automation of policy enforcement, chat-ops, and automatic PR merging.
+- [Prow GitHub Actions](https://github.com/jpmcb/prow-github-actions) - Automation of policy enforcement, chat-ops, and automatic PR merging.
 
 ### Collection of Actions
 

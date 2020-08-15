@@ -359,7 +359,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Create an Outlook Calendar Event using Microsoft Graph](https://github.com/anoopt/ms-graph-create-event)
 - [Watch for GitHub Wiki page changes and post to Slack](https://github.com/benmatselby/gollum-page-watcher-action)
 - [Send an SMS using MessageBird](https://github.com/nikitasavinov/messagebird-sms-action)
-- [Keep your PRs in sync with Teamwork.com tasks](https://github.com/miguelbemartin/teamwork-github)
+- [Keep your PRs in sync with Teamwork tasks](https://github.com/miguelbemartin/teamwork-github)
 
 ### Deployment
 

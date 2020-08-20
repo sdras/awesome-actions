@@ -340,6 +340,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Deploy Google Analytics stats to GitHub Pages](https://github.com/cristianpb/analytics-google)
 - [A Jupyter Notebook Blogging Platform Powered by GitHub Actions, Pages and Jekyll](https://github.com/fastai/fastpages)
 - [Deploy A Static Site to GitHub Pages](https://github.com/appleboy/gh-pages-action) - Deploy to custom directory and ignore folder/file.
+- [Deploy effectively to GitHub Pages](https://github.com/crazy-max/ghaction-github-pages) - With advanced settings (signed commits, check GitHub Pages Status).
 
 ### Notifications and Messages
 

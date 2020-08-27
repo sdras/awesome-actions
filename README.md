@@ -216,6 +216,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [PowerShell Script](https://github.com/Amadevus/pwsh-script) - Run PowerShell scripts with workflow contexts (e.g. `$github.token`) and cmdlets, return value => action output.
 - [Upload and Scan Files with VirusTotal](https://github.com/crazy-max/ghaction-virustotal)
 - [Import a GPG Key](https://github.com/crazy-max/ghaction-import-gpg)
+- [Compress with UPX](https://github.com/crazy-max/ghaction-upx) - The Ultimate Packer for eXecutables.
 
 #### Environments
 

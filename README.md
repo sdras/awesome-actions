@@ -138,6 +138,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Update Configured GitHub Actions to the Latest Versions](https://github.com/fabasoad/ghacu)
 - [Remove Old Artifacts](https://github.com/c-hive/gha-remove-artifacts)
 - [Expose Git Commit Data As Environment Variables](https://github.com/rlespinasse/git-commit-data-action)
+- [Sync Defined Files/Binaries to Wiki or External Repositories](https://github.com/kai-tub/external-repo-sync-action)
 
 ### Collection of Actions
 

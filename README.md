@@ -214,6 +214,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Setup Kubernetes tools](https://github.com/yokawasa/action-setup-kube-tools) - Install Kubernetes tools (kubectl, kustomize, helm, kubeval, conftest, and yq) on the runner.
 - [Setup Elastic Cloud Control Tool](https://github.com/yokawasa/action-setup-ecctl) - Install a specific version of ecctl on the runner.
 - [PowerShell Script](https://github.com/Amadevus/pwsh-script) - Run PowerShell scripts with workflow contexts (e.g. `$github.token`) and cmdlets, return value => action output.
+- [Upload and Scan Files with VirusTotal](https://github.com/crazy-max/ghaction-virustotal)
 
 #### Environments
 

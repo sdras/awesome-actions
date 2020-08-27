@@ -201,8 +201,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Setup Cocoapods](https://github.com/maxim-lobanov/setup-cocoapods) - Setup specific version of Cocoapods.
 - [Public IP](https://github.com/haythem/public-ip) - Queries GitHub actions runner's public IP address.
 - [GitHub Actions for Lazarus/FPC](https://github.com/gcarreno/setup-lazarus)
-- [Easily Import a GPG Key](https://github.com/crazy-max/ghaction-import-gpg)
 - [Twilio Fax](https://github.com/fabasoad/twilio-fax-action/) - Sends a document by fax using your Twilio account.
+- [Import a GPG Key](https://github.com/crazy-max/ghaction-import-gpg)
 
 #### Environments
 

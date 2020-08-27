@@ -208,10 +208,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Public IP](https://github.com/haythem/public-ip) - Queries GitHub actions runner's public IP address.
 - [GitHub Actions for Lazarus/FPC](https://github.com/gcarreno/setup-lazarus)
 - [Twilio Fax](https://github.com/fabasoad/twilio-fax-action/) - Sends a document by fax using your Twilio account.
-- [Compress with UPX](https://github.com/crazy-max/ghaction-upx) - The Ultimate Packer for eXecutables.
 - [Setup Kubernetes tools](https://github.com/yokawasa/action-setup-kube-tools) - Install Kubernetes tools (kubectl, kustomize, helm, kubeval, conftest, and yq) on the runner.
 - [Setup Elastic Cloud Control Tool](https://github.com/yokawasa/action-setup-ecctl) - Install a specific version of ecctl on the runner.
 - [PowerShell Script](https://github.com/Amadevus/pwsh-script) - Run PowerShell scripts with workflow contexts (e.g. `$github.token`) and cmdlets, return value => action output.
+- [Compress with UPX](https://github.com/crazy-max/ghaction-upx) - The Ultimate Packer for eXecutables.
 
 #### Environments
 

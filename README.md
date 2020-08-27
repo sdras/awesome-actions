@@ -347,7 +347,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Block PR merges when Checks for target branches are failing](https://github.com/cirrus-actions/branch-guard)
 - [Get generated static site screenshots updated by Pull Request](https://github.com/ssowonny/diff-pages-action)
 - [Add Labels Depending if the Pull Request Still in Progress](https://github.com/AlbertHernandez/working-label-action)
-- [Ticket Check Action](https://github.com/neofinancial/ticket-check-action) - Automatically add a ticket or issue number to the start of all Pull Request titles
+- [Ticket Check Action](https://github.com/neofinancial/ticket-check-action) - Automatically add a ticket or issue number to the start of all Pull Request titles.
 
 ### GitHub Pages
 
@@ -518,7 +518,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Deploying Self-Hosted GitHub Actions Runners with Docker](https://testdriven.io/blog/github-actions-docker/) - Deploy self-hosted GitHub Actions runners with Docker and Docker Swarm to DigitalOcean.
 - [Setup Auto-scaled self-hosted GitHub Actions Runners on AWS Spot-instances](https://040code.github.io/2020/05/25/scaling-selfhosted-action-runners)
 
-> Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information
+> Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information.
 
 ## License
 

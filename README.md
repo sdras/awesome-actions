@@ -276,6 +276,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Linter for markdown (with presets)](https://github.com/avto-dev/markdown-lint)
 - [Stylelint problem matcher to create annotations](https://github.com/xt0rted/stylelint-problem-matcher)
 - [Run sqlcheck on the PR to identifies anti-patterns in SQL queries](https://github.com/yokawasa/action-sqlcheck)
+- [Validate Fastlane Supply Metadata Against the Play Store Guidelines](https://github.com/ashutoshgngwr/validate-fastlane-supply-metadata)
 - [Run Golint to lint your Golang code](https://github.com/Jerome1337/golint-action)
 
 #### Security

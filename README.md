@@ -368,6 +368,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Watch for GitHub Wiki page changes and post to Slack](https://github.com/benmatselby/gollum-page-watcher-action)
 - [Send an SMS using MessageBird](https://github.com/nikitasavinov/messagebird-sms-action)
 - [Reply to Stale Bots](https://github.com/c-hive/fresh-bot)
+- [Send an Embed Message to Discord](https://github.com/sarisia/actions-status-discord)
 
 ### Deployment
 

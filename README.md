@@ -125,7 +125,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Create a GitHub wiki page based on the provided markdown file](https://github.com/Decathlon/wiki-page-creator-action)
 - [Label your Pull Requests auto-magically (using committed files)](https://github.com/Decathlon/pull-request-labeler-action)
 - [Add Label to your Pull Requests based on the author team name](https://github.com/JulienKode/team-labeler-action)
-- [Manually trigger your GitHub Actions from a UI](https://www.actionspanel.app)
 - [Get a list of file changes with PR/Push](https://github.com/trilom/file-changes-action)
 - [Use private actions in any workflow](https://github.com/InVisionApp/private-action-loader)
 - [Label Your Issues Using the Issue's Contents](https://github.com/damccorm/tag-ur-it)
@@ -136,11 +135,14 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Enforce Policies on GitHub Repositories and Commits](https://github.com/talos-systems/conform)
 - [Auto Label Issue Based on Issue Description](https://github.com/Renato66/auto-label)
 - [Update Configured GitHub Actions to the Latest Versions](https://github.com/fabasoad/ghacu)
-- [Manage Labels on GitHub (create/rename/update/delete) as code](https://github.com/crazy-max/ghaction-github-labeler)
+- [Create Issue Branch](https://github.com/robvanderleek/create-issue-branch)
 - [Remove Old Artifacts](https://github.com/c-hive/gha-remove-artifacts)
 - [Expose Git Commit Data As Environment Variables](https://github.com/rlespinasse/git-commit-data-action)
 - [Sync Defined Files/Binaries to Wiki or External Repositories](https://github.com/kai-tub/external-repo-sync-action)
 - [Create/Update/Delete a GitHub Wiki Page Based on Any File](https://github.com/Andrew-Chen-Wang/github-wiki-action)
+- [Prow GitHub Actions](https://github.com/jpmcb/prow-github-actions) - Automation of policy enforcement, chat-ops, and automatic PR merging.
+- [Check GitHub Status in your Workflow](https://github.com/crazy-max/ghaction-github-status)
+- [Manage Labels on GitHub (create/rename/update/delete) as code](https://github.com/crazy-max/ghaction-github-labeler)
 
 ### Collection of Actions
 
@@ -349,6 +351,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Get generated static site screenshots updated by Pull Request](https://github.com/ssowonny/diff-pages-action)
 - [Add Labels Depending if the Pull Request Still in Progress](https://github.com/AlbertHernandez/working-label-action)
 - [Ticket Check Action](https://github.com/neofinancial/ticket-check-action) - Automatically add a ticket or issue number to the start of all Pull Request titles.
+- [Pull Request Lint With Regex](https://github.com/MorrisonCole/pr-lint-action)
 
 ### GitHub Pages
 
@@ -361,6 +364,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Deploy Google Analytics stats to GitHub Pages](https://github.com/cristianpb/analytics-google)
 - [A Jupyter Notebook Blogging Platform Powered by GitHub Actions, Pages and Jekyll](https://github.com/fastai/fastpages)
 - [Deploy A Static Site to GitHub Pages](https://github.com/appleboy/gh-pages-action) - Deploy to custom directory and ignore folder/file.
+- [Deploy to GitHub Pages with Advanced Settings](https://github.com/crazy-max/ghaction-github-pages)
 
 ### Notifications and Messages
 
@@ -438,6 +442,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Deploy to any Cloud or Kubernetes Using Pulumi](https://github.com/pulumi/actions)
 - [Deploy to Kubernetes with kubectl](https://github.com/steebchen/kubectl)
 - [Get Kubeconfig File From Google Kubernetes Engine (GKE)](https://github.com/machine-learning-apps/gke-kubeconfig)
+- [Kustomize Kubernetes Config YAMLs](https://github.com/karancode/kustomize-github-action)
 - [Create a Kubernetes Cluster for Testing Using Krucible](https://github.com/Krucible/krucible-github-action)
 
 #### AWS

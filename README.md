@@ -215,6 +215,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Setup Elastic Cloud Control Tool](https://github.com/yokawasa/action-setup-ecctl) - Install a specific version of ecctl on the runner.
 - [PowerShell Script](https://github.com/Amadevus/pwsh-script) - Run PowerShell scripts with workflow contexts (e.g. `$github.token`) and cmdlets, return value => action output.
 - [Upload and Scan Files with VirusTotal](https://github.com/crazy-max/ghaction-virustotal)
+- [Import a GPG Key](https://github.com/crazy-max/ghaction-import-gpg)
 
 #### Environments
 

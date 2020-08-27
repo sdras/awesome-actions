@@ -349,6 +349,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Get generated static site screenshots updated by Pull Request](https://github.com/ssowonny/diff-pages-action)
 - [Add Labels Depending if the Pull Request Still in Progress](https://github.com/AlbertHernandez/working-label-action)
 - [Ticket Check Action](https://github.com/neofinancial/ticket-check-action) - Automatically add a ticket or issue number to the start of all Pull Request titles.
+- [Pull Request Lint With Regex](https://github.com/MorrisonCole/pr-lint-action)
 
 ### GitHub Pages
 

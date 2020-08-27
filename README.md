@@ -135,6 +135,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Enforce Policies on GitHub Repositories and Commits](https://github.com/talos-systems/conform)
 - [Auto Label Issue Based on Issue Description](https://github.com/Renato66/auto-label)
 - [Update Configured GitHub Actions to the Latest Versions](https://github.com/fabasoad/ghacu)
+- [Create Issue Branch](https://github.com/robvanderleek/create-issue-branch)
 - [Remove Old Artifacts](https://github.com/c-hive/gha-remove-artifacts)
 - [Expose Git Commit Data As Environment Variables](https://github.com/rlespinasse/git-commit-data-action)
 - [Sync Defined Files/Binaries to Wiki or External Repositories](https://github.com/kai-tub/external-repo-sync-action)

@@ -142,6 +142,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Create/Update/Delete a GitHub Wiki Page Based on Any File](https://github.com/Andrew-Chen-Wang/github-wiki-action)
 - [Prow GitHub Actions](https://github.com/jpmcb/prow-github-actions) - Automation of policy enforcement, chat-ops, and automatic PR merging.
 - [Check GitHub Status in your Workflow](https://github.com/crazy-max/ghaction-github-status)
+- [Manage Labels on GitHub (create/rename/update/delete) as Code](https://github.com/crazy-max/ghaction-github-labeler)
 
 ### Collection of Actions
 

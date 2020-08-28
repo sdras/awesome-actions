@@ -217,6 +217,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Upload and Scan Files with VirusTotal](https://github.com/crazy-max/ghaction-virustotal)
 - [Import a GPG Key](https://github.com/crazy-max/ghaction-import-gpg)
 - [Compress with UPX](https://github.com/crazy-max/ghaction-upx) - The Ultimate Packer for eXecutables.
+- [Pull the New Go Module Version Into the Proxy Cache](https://github.com/andrewslotin/go-proxy-pull-action) - Ensures the latest version of your Go module is in the proxy cache. Also updates the pkg.go.dev documentation upon release.
 
 #### Environments
 

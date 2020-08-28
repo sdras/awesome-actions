@@ -357,7 +357,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Ticket Check Action](https://github.com/neofinancial/ticket-check-action) - Automatically add a ticket or issue number to the start of all Pull Request titles.
 - [Pull Request Lint With Regex](https://github.com/MorrisonCole/pr-lint-action)
 - [Pull Request Landmines](https://github.com/tylermurry/github-pr-landmine)
-- [Annotate a Github Pull Request based on a Checkstyle XML-report](https://github.com/staabm/annotate-pull-request-from-checkstyle)
+- [Annotate a GitHub Pull Request Based on a Checkstyle XML-Report](https://github.com/staabm/annotate-pull-request-from-checkstyle)
 
 ### GitHub Pages
 

@@ -327,7 +327,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Size Limit Action](https://github.com/andresz1/size-limit-action) - Comments cost comparison of your JS in PRs and rejects them if limit is exceeded.
 - [Check bundlephobia](https://github.com/carlesnunez/check-my-bundlephobia) - Comments new and modified package size according to bundlephobia.io website and rejects PR on threshold surpassed.
 
-### Pull Requests (PRs)
+### Pull Requests
 
 - [Set PR Reviewers Based on Assignees](https://github.com/pullreminders/assignee-to-reviewer-action)
 - [Open or Update PR on Branch Push (with Branch Selection)](https://github.com/vsoch/pull-request-action)

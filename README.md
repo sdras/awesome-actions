@@ -440,6 +440,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Publish Docker Images to the Amazon Elastic Container Registry (ECR)](https://github.com/appleboy/docker-ecr-action)
 - [Build And Push Your Docker Images Caching Each Stage To Reduce Build Time](https://github.com/whoan/docker-build-with-cache-action)
 - [Set up Docker Buildx](https://github.com/crazy-max/ghaction-docker-buildx)
+- [Convert Branch or Tag Name Into Docker-Compatible Image Tag](https://github.com/ankitvgupta/ref-to-tag-action/)
 
 #### Kubernetes
 

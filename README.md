@@ -218,7 +218,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Import a GPG Key](https://github.com/crazy-max/ghaction-import-gpg)
 - [Compress with UPX](https://github.com/crazy-max/ghaction-upx) - The Ultimate Packer for eXecutables.
 - [Pull the New Go Module Version Into the Proxy Cache](https://github.com/andrewslotin/go-proxy-pull-action) - Ensures the latest version of your Go module is in the proxy cache. Also updates the pkg.go.dev documentation upon release.
-- [Delete Run Artifacts](https://github.com/marketplace/actions/delete-run-artifacts) - Deletes All Artifacts at the End of a Workflow Run.
+- [Delete Run Artifacts](https://github.com/marketplace/actions/delete-run-artifacts) - Deletes all artifacts at the end of a workflow run.
 
 #### Environments
 

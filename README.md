@@ -351,7 +351,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Automatically Update PRs with Outdated Checks and Squash and Merge the Ones Matching All Branch Protections](https://github.com/tibdex/autosquash)
 - [Merge Pal - Automatically Update and Merge PRs](https://github.com/maxkomarychev/merge-pal-action)
 - [Enforce naming convention on pull request title](https://github.com/deepakputhraya/action-pr-title)
-- [Pull Request Stuck Notifier](https://github.com/loomble/pull-request-stuck-notifier-action)
+- [Pull Request Stuck Notifier](https://github.com/jrylan/github-action-stuck-pr-notifier)
 - [Lint pull request name with commitlint (Awesome if you squash merge !)](https://github.com/JulienKode/pull-request-name-linter-action)
 - [Block PR merges when Checks for target branches are failing](https://github.com/cirrus-actions/branch-guard)
 - [Get generated static site screenshots updated by Pull Request](https://github.com/ssowonny/diff-pages-action)

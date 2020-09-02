@@ -396,6 +396,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Reply to Stale Bots](https://github.com/c-hive/fresh-bot)
 - [Send an Embed Message to Discord](https://github.com/sarisia/actions-status-discord)
 - [Keep Your PRs in Sync With Teamwork Tasks](https://github.com/miguelbemartin/teamwork-github)
+- [Send a MS Teams channel notification](https://github.com/opsless/ms-teams-github-actions)
 
 ### Deployment
 

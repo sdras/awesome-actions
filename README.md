@@ -400,7 +400,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Send an Embed Message to Discord](https://github.com/sarisia/actions-status-discord)
 - [Keep Your PRs in Sync With Teamwork Tasks](https://github.com/miguelbemartin/teamwork-github)
 - [Send Microsoft Teams Notification](https://github.com/opsless/ms-teams-github-actions)
-- [GitHub Twittction](https://github.com/m1ner79/Github-Twittction) - Post on Twitter after different github events
+- [GitHub Twittction](https://github.com/m1ner79/Github-Twittction) - Post on Twitter after different GitHub events.
 
 ### Deployment
 

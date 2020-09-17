@@ -143,6 +143,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Prow GitHub Actions](https://github.com/jpmcb/prow-github-actions) - Automation of policy enforcement, chat-ops, and automatic PR merging.
 - [Check GitHub Status in your Workflow](https://github.com/crazy-max/ghaction-github-status)
 - [Manage Labels on GitHub (create/rename/update/delete) as Code](https://github.com/crazy-max/ghaction-github-labeler)
+- [Code of conduct compliance through sentiments analysis](https://github.com/derberg/code-of-conduct-sentiment-analysis-github-action) - Analyze sentiments in issues and PRs to identify negative content that may violate your code of conduct.
 
 ### Collection of Actions
 
@@ -399,6 +400,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Send an Embed Message to Discord](https://github.com/sarisia/actions-status-discord)
 - [Keep Your PRs in Sync With Teamwork Tasks](https://github.com/miguelbemartin/teamwork-github)
 - [Send Microsoft Teams Notification](https://github.com/opsless/ms-teams-github-actions)
+- [GitHub Twittction](https://github.com/m1ner79/Github-Twittction) - Post on Twitter after different github events
 
 ### Deployment
 

@@ -398,7 +398,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Send an SMS using MessageBird](https://github.com/nikitasavinov/messagebird-sms-action)
 - [Reply to Stale Bots](https://github.com/c-hive/fresh-bot)
 - [Send an Embed Message to Discord](https://github.com/sarisia/actions-status-discord)
-- [Keep Your PRs in Sync With Teamwork Tasks](https://github.com/miguelbemartin/teamwork-github)
+- [Keep Your PRs in Sync With Teamwork Tasks](https://github.com/Teamwork/github-sync)
 - [Send Microsoft Teams Notification](https://github.com/opsless/ms-teams-github-actions)
 
 ### Deployment

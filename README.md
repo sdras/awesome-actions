@@ -143,6 +143,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Prow GitHub Actions](https://github.com/jpmcb/prow-github-actions) - Automation of policy enforcement, chat-ops, and automatic PR merging.
 - [Check GitHub Status in your Workflow](https://github.com/crazy-max/ghaction-github-status)
 - [Manage Labels on GitHub (create/rename/update/delete) as Code](https://github.com/crazy-max/ghaction-github-labeler)
+- [Herald Rules for GitHub: Add Subscribers, Assignees, Labels, and More to Your PR](https://github.com/gagoar/use-herald-action)
 - [Code of Conduct Compliance Through Sentiments Analysis](https://github.com/derberg/code-of-conduct-sentiment-analysis-github-action) - Analyze sentiments in issues and PRs to identify negative content that may violate your code of conduct.
 
 ### Collection of Actions
@@ -222,6 +223,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Delete Run Artifacts](https://github.com/marketplace/actions/delete-run-artifacts) - Deletes all artifacts at the end of a workflow run.
 - [GitHub Environment Variables Action](https://github.com/FranzDiebold/github-env-vars-action) - Expose environment variables such as the branch/tag name, repository slug, and ref slug.
 - [GitHub Action Locks](https://github.com/abatilo/github-action-locks/blob/master/README.md) - Guarantee atomic execution of your GitHub Action workflows.
+- [Paths Filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits.
 
 #### Environments
 
@@ -398,7 +400,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Send an SMS using MessageBird](https://github.com/nikitasavinov/messagebird-sms-action)
 - [Reply to Stale Bots](https://github.com/c-hive/fresh-bot)
 - [Send an Embed Message to Discord](https://github.com/sarisia/actions-status-discord)
-- [Keep Your PRs in Sync With Teamwork Tasks](https://github.com/miguelbemartin/teamwork-github)
+- [Keep Your PRs in Sync With Teamwork Tasks](https://github.com/Teamwork/github-sync)
 - [Send Microsoft Teams Notification](https://github.com/opsless/ms-teams-github-actions)
 - [GitHub Twittction](https://github.com/m1ner79/Github-Twittction) - Post on Twitter after different GitHub events.
 
@@ -440,6 +442,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Run Ansible Playbooks](https://github.com/arillso/action.playbook)
 - [Publish a Python Distribution Package to Anaconda Cloud](https://github.com/fcakyon/conda-publish-action)
 - [Deploy VS Code Extension to Visual Studio Marketplace or the Open VSX Registry](https://github.com/HaaLeo/publish-vscode-extension)
+- [Deploy a YouTube Video to Anchor.fm Podcast](https://github.com/Schrodinger-Hat/youtube-to-anchorfm)
 
 #### Docker
 
@@ -543,6 +546,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Continuously Deploying Django to DigitalOcean with Docker and GitHub Actions](https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/)
 - [Deploying Self-Hosted GitHub Actions Runners with Docker](https://testdriven.io/blog/github-actions-docker/) - Deploy self-hosted GitHub Actions runners with Docker and Docker Swarm to DigitalOcean.
 - [Setup Auto-scaled self-hosted GitHub Actions Runners on AWS Spot-instances](https://040code.github.io/2020/05/25/scaling-selfhosted-action-runners)
+- [Getting the Gist of GitHub Actions](https://gist.github.com/br3ndonland/f9c753eb27381f97336aa21b8d932be6)
 
 > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information.
 

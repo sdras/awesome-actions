@@ -162,7 +162,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Actions for Deno](https://github.com/denolib/setup-deno)
 - [GitHub Actions for Unity](https://github.com/webbertakken/unity-actions)
 - [Octions - GitHub Actions for GitHub REST API](https://github.com/maxkomarychev/octions)
-- [GitHub Actions for Docker](https://github.com/docker/github-actions)
 - [GitHub Actions for AWS](https://github.com/clowdhaus/aws-github-actions)
 - [Actions Hub](https://github.com/actionshub)
 
@@ -444,6 +443,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### Docker
 
+- [Build and push Docker images with Buildx](https://github.com/docker/build-push-action)
+- [Login against a Docker registry](https://github.com/docker/login-action)
+- [Set up Docker Buildx](https://github.com/docker/setup-buildx-action)
+- [Install QEMU static binaries](https://github.com/docker/setup-qemu-action)
 - [Update a Docker Hub repository description from README.md](https://github.com/peter-evans/dockerhub-description)
 - [Publish Docker Images to the GitHub Package Registry (GPR)](https://github.com/machine-learning-apps/gpr-docker-publish)
 - [Update a repository's "Full description" on Docker Hub](https://github.com/mpepping/github-actions/tree/master/docker-hub-metadata)
@@ -451,7 +454,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Monitor and limit your docker image size](https://github.com/wemake-services/docker-image-size-limit)
 - [Publish Docker Images to the Amazon Elastic Container Registry (ECR)](https://github.com/appleboy/docker-ecr-action)
 - [Build And Push Your Docker Images Caching Each Stage To Reduce Build Time](https://github.com/whoan/docker-build-with-cache-action)
-- [Set up Docker Buildx](https://github.com/crazy-max/ghaction-docker-buildx)
 - [Convert Branch or Tag Name Into Docker-Compatible Image Tag](https://github.com/ankitvgupta/ref-to-tag-action/)
 - [Update a Container Repository Description From README.md](https://github.com/marketplace/actions/update-container-description-action) - Supported Registries: Docker Hub, Quay, Harbor.
 

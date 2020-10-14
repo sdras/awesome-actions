@@ -1,5 +1,8 @@
 name: Lint Awesome List
 on: [push, pull_request]
+  paths-ignore:
+    - android/*
+    - ios/*
 jobs:
   lint:
     name: Lint

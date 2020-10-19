@@ -423,6 +423,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Executing remote ssh commands](https://github.com/appleboy/ssh-action)
 - [Publish a Python distribution package to PyPI](https://github.com/pypa/gh-action-pypi-publish)
 - [Deploy Static Website to Azure Storage](https://github.com/feeloor/azure-static-website-deploy)
+- [Sync git repo to a Google Cloud Storage bucket (as a Static Website for example)](https://github.com/Nakilon/git-to-gcs)
 - [Cross platform Chocolatey CLI to build and publish packages](https://github.com/crazy-max/ghaction-chocolatey)
 - [Deploy iOS Pod Library to Cocoapods](https://github.com/michaelhenry/deploy-to-cocoapods-github-action)
 - [GitHub Action for TencentCloud Serverless](https://github.com/Juliiii/action-scf)

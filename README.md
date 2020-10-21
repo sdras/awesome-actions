@@ -209,7 +209,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Setup Xamarin](https://github.com/maxim-lobanov/setup-xamarin) - Switch between pre-installed versions of Xamarin and Mono for macOS images.
 - [Memer Action](https://github.com/Bhupesh-V/memer-action) - A GitHub Action for Programmer Memes xD.
 - [Setup Cocoapods](https://github.com/maxim-lobanov/setup-cocoapods) - Setup specific version of Cocoapods.
-- [Setup Android Tools](https://github.com/maxim-lobanov/setup-android-tools) - Set up Android tools with cache
 - [Public IP](https://github.com/haythem/public-ip) - Queries GitHub actions runner's public IP address.
 - [GitHub Actions for Lazarus/FPC](https://github.com/gcarreno/setup-lazarus)
 - [Twilio Fax](https://github.com/fabasoad/twilio-fax-action/) - Sends a document by fax using your Twilio account.
@@ -224,6 +223,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Environment Variables Action](https://github.com/FranzDiebold/github-env-vars-action) - Expose environment variables such as the branch/tag name, repository slug, and ref slug.
 - [GitHub Action Locks](https://github.com/abatilo/github-action-locks/blob/master/README.md) - Guarantee atomic execution of your GitHub Action workflows.
 - [Paths Filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits.
+- [Setup Android Tools](https://github.com/maxim-lobanov/setup-android-tools) - Set up Android tools with cache.
 
 #### Environments
 

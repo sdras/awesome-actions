@@ -446,6 +446,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Publish a Python Distribution Package to Anaconda Cloud](https://github.com/fcakyon/conda-publish-action)
 - [Deploy VS Code Extension to Visual Studio Marketplace or the Open VSX Registry](https://github.com/HaaLeo/publish-vscode-extension)
 - [Deploy a YouTube Video to Anchor.fm Podcast](https://github.com/Schrodinger-Hat/youtube-to-anchorfm)
+- [Deploy Vue app to Amazon S3](https://github.com/lewandy/vue-s3-deployer)
 
 #### Docker
 

@@ -34,6 +34,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Database](#database)
   - [Localization](#localization)
   - [Cheat Sheet](#cheat-sheet)
+  - [Time Tracking](#time-tracking)
 - [Tutorials](#tutorials)
 
 ## Official Resources
@@ -535,6 +536,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Cheat Sheet
 
 - [GitHub Actions Branding Cheat Sheet](https://haya14busa.github.io/github-action-brandings/)
+
+### Time Tracking
+
+- [Automatically Generate Website/Readme Embeddable WakaTime Coding Activity Graph](https://github.com/avinal/Profile-Readme-WakaTime)
 
 ## Tutorials
 

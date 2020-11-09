@@ -227,6 +227,9 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Action Locks](https://github.com/abatilo/github-action-locks/blob/master/README.md) - Guarantee atomic execution of your GitHub Action workflows.
 - [Paths Filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits.
 - [Minisauras](https://github.com/TeamTigers/minisauras) -  Pulls all the JavaScript and CSS files from your base branch, minify them and creates a pull-request with a new branch.
+- [Skip Duplicate Actions](https://github.com/fkirc/skip-duplicate-actions) - Skip duplicate workflow-runs. Skip or ignore specific paths. Cancel outdated workflow-runs.
+
+
 
 #### Environments
 

@@ -229,8 +229,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Minisauras](https://github.com/TeamTigers/minisauras) -  Pulls all the JavaScript and CSS files from your base branch, minify them and creates a pull-request with a new branch.
 - [Skip Duplicate Actions](https://github.com/fkirc/skip-duplicate-actions) - Skip duplicate workflow-runs. Skip or ignore specific paths. Cancel outdated workflow-runs.
 
-
-
 #### Environments
 
 - [Create an envfile](https://github.com/SpicyPizza/create-envfile)

@@ -526,6 +526,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Database
 
 - [Setup Cassandra Schema](https://github.com/fabasoad/setup-cassandra-action) - Running scripts from the provided folder on top of Cassandra cluster.
+- [Apply Movine Postgres Migrations](https://github.com/ahanoff/movine-action) - Apply postgres database migrations using [movine](https://github.com/byronwasti/movine) migrations manager.
 
 ### Localization
 

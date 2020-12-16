@@ -1,4 +1,4 @@
-name: Lint Awesome List
+https://www.contributor-covenant.org/version/1/4/code-of-conduct.htmlname: Lint Awesome List
 on: [push, pull_request]
 jobs:
   lint:

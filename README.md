@@ -228,7 +228,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Paths Filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits.
 - [Minisauras](https://github.com/TeamTigers/minisauras) -  Pulls all the JavaScript and CSS files from your base branch, minify them and creates a pull-request with a new branch.
 - [Release Mastermind](https://github.com/videndum/release-mastermind) - Incorperates all your management tools within one simple action. Capabilities include Label Management, Project Management, Enforcing conventions and much much more.
-- [Label Mastermind](https://github.com/videndum/label-mastermind) - The super-powered labeler for Github Actions, with complex customisable conditions for PR, Issues and Projects.
+- [Label Mastermind](https://github.com/videndum/label-mastermind) - The super-powered labeler for GitHub Actions, with complex customisable conditions for PR, Issues and Projects.
 - [Convention Mastermind](https://github.com/Videndum/convention-mastermind) - Enforce Conventions how and when you want, the way you want.
 
 #### Environments

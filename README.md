@@ -34,7 +34,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Database](#database)
   - [Localization](#localization)
   - [Cheat Sheet](#cheat-sheet)
-  - [Github Profile README](#github-profile-readme)
+  - [GitHub Profile README](#github-profile-readme)
 - [Tutorials](#tutorials)
 
 ## Official Resources
@@ -537,10 +537,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [GitHub Actions Branding Cheat Sheet](https://haya14busa.github.io/github-action-brandings/)
 
-### Github Profile README
+### GitHub Profile README
 
-- [Waka README Stats](https://github.com/anmol098/waka-readme-stats) - Add cool dev metrics to your github profile Readme
-- [Github Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - Generate your github summary card for profile README
+- [Waka README Stats](https://github.com/anmol098/waka-readme-stats) - Add cool dev metrics to your GitHub profile Readme.
+- [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - Generate your GitHub summary card for profile README.
 
 
 ## Tutorials

@@ -542,7 +542,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Waka README Stats](https://github.com/anmol098/waka-readme-stats) - Add cool dev metrics to your GitHub profile Readme.
 - [GitHub Profile Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - Generate your GitHub summary card for profile README.
 
-
 ## Tutorials
 
 - [Continuous deployment of Next.js app with Up](https://medium.com/@romanenko/simple-ci-for-next-js-projects-with-apex-up-github-actions-6f0b1b9a5400)

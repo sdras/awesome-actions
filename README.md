@@ -270,6 +270,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Run performance testing with artillery.io](https://github.com/kenju/github-actions-artillery)
 - [Detect Flaky Tests with BuildPulse](https://github.com/Workshop64/buildpulse-action)
 - [Display Inline Code Annotations for Jest Tests](https://github.com/IgnusG/jest-report-action)
+- [Display report from the test results directly in GitHub](https://github.com/dorny/test-reporter)
 
 #### Linting
 

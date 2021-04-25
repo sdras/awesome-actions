@@ -158,6 +158,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Actions for WordPress](https://github.com/10up/actions-wordpress/)
 - [GitHub Actions for Composer](https://github.com/MilesChou/composer-action)
 - [GitHub Actions for Flutter](https://github.com/subosito/flutter-action)
+- [GitHub Actions for Perl](https://github.com/perl-actions)
 - [GitHub Actions for PHP](https://github.com/shivammathur/setup-php)
 - [GitHub Actions for Rust](https://github.com/actions-rs)
 - [GitHub Actions for Android](https://github.com/Malinskiy/action-android)

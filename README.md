@@ -369,6 +369,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Annotate a GitHub Pull Request Based on a Checkstyle XML-Report](https://github.com/staabm/annotate-pull-request-from-checkstyle)
 - [Pull Request Stats](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
 - [Pull Request Description Enforcer](https://github.com/derkinderfietsen/pr-description-enforcer) - Enforces description on pull requests.
+- [Dynamic Template](https://github.com/luigibertaco/dynamic-template-action) - Allows PR templates to use dynamic tags to be replaced with PR metadata such as branch name, user details, etc.
 
 ### GitHub Pages
 

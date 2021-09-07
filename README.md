@@ -160,6 +160,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Actions for Flutter](https://github.com/subosito/flutter-action)
 - [GitHub Actions for PHP](https://github.com/shivammathur/setup-php)
 - [GitHub Actions for Rust](https://github.com/actions-rs)
+- [GitHub Actions for Common Lisp](https://40ants.com/ci/)
 - [GitHub Actions for Android](https://github.com/Malinskiy/action-android)
 - [GitHub Actions for Logtalk and Prolog](https://github.com/logtalk-actions)
 - [GitHub Actions for Deno](https://github.com/denolib/setup-deno)

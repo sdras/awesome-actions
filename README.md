@@ -522,6 +522,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Setup Brainfuck](https://github.com/fabasoad/setup-brainfuck-action) - Setup brainfuck interpreter.
 - [Publish Go Binaries to GitHub Release Assets](https://github.com/wangyoucao577/go-release-action)
 - [Setup COBOL](https://github.com/fabasoad/setup-cobol-action)
+- [Generate APK from Web Assets](https://github.com/darkshredder/web-to-app-action) - Transforms website to android application.
 
 ### Database
 

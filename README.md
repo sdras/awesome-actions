@@ -33,6 +33,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Build](#build)
   - [Database](#database)
   - [Localization](#localization)
+  - [Fun](#fun)
   - [Cheat Sheet](#cheat-sheet)
 - [Tutorials](#tutorials)
 
@@ -531,6 +532,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Find and automatically fix typos and grammar issues in your code](https://github.com/sobolevn/misspell-fixer-action)
 - [Translation](https://github.com/fabasoad/translation-action) - Translate text from any language to any language.
+
+### Fun
+
+- [Add equivalent of a like button in your README](https://github.com/ariary/Readme-Like-Button) - Visualize community approval on some part of your readme (can be used as a poll).
 
 ### Cheat Sheet
 

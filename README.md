@@ -243,6 +243,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Highlight New NPM Dependencies](https://github.com/hiwelo/new-dependencies-action) - Comments on pull requests newly added NPM dependencies information.
 - [Cache NPM Dependencies](https://github.com/c-hive/gha-npm-cache)
 - [Cache Yarn Dependencies](https://github.com/c-hive/gha-yarn-cache)
+- [Create or update PR](https://github.com/lenra-io/create-or-update-pr-action)
 
 #### Semantic Versioning
 

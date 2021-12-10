@@ -192,6 +192,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Get Latest Tag](https://github.com/WyriHaximus/github-action-get-previous-tag) - Get the previous tag from git.
 - [Create Milestone](https://github.com/WyriHaximus/github-action-create-milestone) - Create a new open milestone given the title and description.
 - [Close Milestone](https://github.com/WyriHaximus/github-action-close-milestone) - Close the given milestone.
+- [Create Milestone JS](https://github.com/sv-tools/create-milestone-action) - Create a new milestone or return an existing one. Pure JS action.
+- [Change Milestone JS](https://github.com/sv-tools/change-milestone-action) - Change an existing milestone. Pure JS action.
 - [Action to enforce branch naming rules](https://github.com/deepakputhraya/action-branch-name)
 - [Expose slug of some GitHub variables](https://github.com/marketplace/actions/github-slug)
 - [awesome-lint as a GitHub Action](https://github.com/max/awesome-lint)

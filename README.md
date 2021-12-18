@@ -173,7 +173,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Setup `ssh-agent`](https://github.com/webfactory/ssh-agent) - Run `ssh-agent` with additional SSH keys to access private repositories.
 - [GitHub Actions Badges for your README](https://github.com/atrox/github-actions-badge)
-- [Github Actions Stats for your profile's README](https://github.com/teoxoy/profile-readme-stats)
 - [GitHub Actions for Python project with poetry](https://github.com/abatilo/actions-poetry)
 - [GitHub Actions for Python project with pyenv](https://github.com/gabrielfalcao/pyenv-action)
 - [GitHub Actions to compile LaTeX documents](https://github.com/xu-cheng/latex-action)
@@ -228,6 +227,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Action Locks](https://github.com/abatilo/github-action-locks/blob/master/README.md) - Guarantee atomic execution of your GitHub Action workflows.
 - [Paths Filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits.
 - [Minisauras](https://github.com/TeamTigers/minisauras) -  Pulls all the JavaScript and CSS files from your base branch, minify them and creates a pull-request with a new branch.
+- [Github Actions Stats for your profile's README](https://github.com/teoxoy/profile-readme-stats)
 
 #### Environments
 

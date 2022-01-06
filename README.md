@@ -382,6 +382,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [A Jupyter Notebook Blogging Platform Powered by GitHub Actions, Pages and Jekyll](https://github.com/fastai/fastpages)
 - [Deploy A Static Site to GitHub Pages](https://github.com/appleboy/gh-pages-action) - Deploy to custom directory and ignore folder/file.
 - [Deploy to GitHub Pages with Advanced Settings](https://github.com/crazy-max/ghaction-github-pages)
+- [GitHub Pages Deploy Action including GitHub Enterprise support](https://github.com/JamesIves/github-pages-deploy-action)
 
 ### Notifications and Messages
 

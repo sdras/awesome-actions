@@ -535,6 +535,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Cheat Sheet
 
 - [GitHub Actions Branding Cheat Sheet](https://haya14busa.github.io/github-action-brandings/)
+- [GitHub Actions Security Cheat Sheet](https://blog.gitguardian.com/github-actions-security-cheat-sheet/)
 
 ## Tutorials
 

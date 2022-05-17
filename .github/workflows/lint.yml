@@ -1,9 +1,11 @@
 name: Lint Awesome List
-on: [push, pull_request]
+on: [ push, pull_request ]
 jobs:
   lint:
     name: Lint
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1.0.0
-      - uses: max/awesome-lint@v2.0.0
+      - uses: actions/checkout@2541b1294d2704b0964813337f33b291d3f8596b # pin@v3.0.2
+        with:
+          fetch-depth: 0
+      - uses: max/awesome-lint@d89069df8a5ae1127f7ea04fad0563c503b52e99 # pin@v2.0.0

@@ -511,6 +511,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Compile, Deploy and Run Kubeflow Pipeline](https://github.com/NikeNano/kubeflow-github-action)
 - [Automatically Dockerize A Data-Science Repo As A Jupyter Server](https://github.com/jupyterhub/repo2docker-action)
 - [Azure Machine Learning With GitHub Actions](https://github.com/machine-learning-apps/ml-template-azure)
+- [Get Started with CML on GitHub](https://cml.dev/doc/start/github)
+- [Continuous Integration with CML and Github Actions](https://mlops-guide.github.io/CICD/cml_testing/)
 
 ### Build
 

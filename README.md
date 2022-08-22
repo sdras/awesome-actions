@@ -89,6 +89,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [actions/setup-java: Java](https://github.com/actions/setup-java)
 - [actions/setup-ruby: Ruby](https://github.com/actions/setup-ruby)
 - [actions/setup-elixir: Elixir](https://github.com/actions/setup-elixir)
+- [ocaml/setup-ocaml OCaml](https://github.com/ocaml/setup-ocaml)
 
 ### Create your Actions
 

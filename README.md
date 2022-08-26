@@ -6,7 +6,7 @@
 
 # Awesome Actions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<!--lint ignore no-dead-urls-->![GitHub Actions status | sdras/awesome-actions](https://github.com/sdras/awesome-actions/workflows/Lint%20Awesome%20List/badge.svg)](https://github.com/sdras/awesome-actions/actions?workflow=Lint+Awesome+List)
 
-> A curated list of awesome things related to [GitHub Actions](https://github.com/actions).
+> A curated list of awesome things related to GitHub Actions.
 
 Actions are triggered by GitHub platform events directly in a repo and run on-demand workflows either on Linux, Windows or macOS virtual machines or inside a container in response. With GitHub Actions you can automate your workflow from idea to production.
 
@@ -33,13 +33,13 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Build](#build)
   - [Database](#database)
   - [Localization](#localization)
+  - [Fun](#fun)
   - [Cheat Sheet](#cheat-sheet)
 - [Tutorials](#tutorials)
 
 ## Official Resources
 
 - [Official Site](https://github.com/features/actions)
-- [Official Community Forum Board](https://github.community/t5/GitHub-Actions/bd-p/actions)
 - [Official Documentation](https://help.github.com/en/actions)
 - [Official Actions organization](https://github.com/actions)
   - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments.
@@ -61,7 +61,6 @@ Tool actions for your workflow.
 
 <!--lint ignore awesome-spell-check-->
 
-- [actions/github](https://github.com/actions/github) - Wraps actions-toolkit into an Action for common GitHub automations.
 - [actions/checkout](https://github.com/actions/checkout) - Setup your repository on your workflow.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - Upload artifacts from your workflow.
 - [actions/download-artifact](https://github.com/actions/download-artifact) - Download artifacts from your build.
@@ -127,7 +126,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Create a GitHub wiki page based on the provided markdown file](https://github.com/Decathlon/wiki-page-creator-action)
 - [Label your Pull Requests auto-magically (using committed files)](https://github.com/Decathlon/pull-request-labeler-action)
 - [Add Label to your Pull Requests based on the author team name](https://github.com/JulienKode/team-labeler-action)
-- [Manually trigger your GitHub Actions from a UI](https://www.actionspanel.app)
 - [Get a list of file changes with PR/Push](https://github.com/trilom/file-changes-action)
 - [Use private actions in any workflow](https://github.com/InVisionApp/private-action-loader)
 - [Label Your Issues Using the Issue's Contents](https://github.com/damccorm/tag-ur-it)
@@ -136,10 +134,24 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Get Commit Difference Count Between Two Branches](https://github.com/jessicalostinspace/commit-difference-action)
 - [Generate Release Notes Based on Git References](https://github.com/metcalfc/changelog-generator)
 - [Enforce Policies on GitHub Repositories and Commits](https://github.com/talos-systems/conform)
+- [Auto Label Issue Based on Issue Description](https://github.com/Renato66/auto-label)
+- [Update Configured GitHub Actions to the Latest Versions](https://github.com/fabasoad/ghacu)
+- [Create Issue Branch](https://github.com/robvanderleek/create-issue-branch)
+- [Remove Old Artifacts](https://github.com/c-hive/gha-remove-artifacts)
+- [Expose Git Commit Data As Environment Variables](https://github.com/rlespinasse/git-commit-data-action)
+- [Sync Defined Files/Binaries to Wiki or External Repositories](https://github.com/kai-tub/external-repo-sync-action)
+- [Create/Update/Delete a GitHub Wiki Page Based on Any File](https://github.com/Andrew-Chen-Wang/github-wiki-action)
+- [Prow GitHub Actions](https://github.com/jpmcb/prow-github-actions) - Automation of policy enforcement, chat-ops, and automatic PR merging.
+- [Check GitHub Status in your Workflow](https://github.com/crazy-max/ghaction-github-status)
+- [Manage Labels on GitHub (create/rename/update/delete) as Code](https://github.com/crazy-max/ghaction-github-labeler)
+- [Continuous Distribution of Funding to your Project Contributors and Dependencies](https://github.com/protontypes/libreselery)
+- [Herald Rules for GitHub: Add Subscribers, Assignees, Labels, and More to Your PR](https://github.com/gagoar/use-herald-action)
+- [GitHub Codeowners Validator](https://github.com/mszostok/codeowners-validator) - Ensures the correctness of your GitHub CODEOWNERS file. It supports public and private GitHub repositories and also GitHub Enterprise installations.
+- [Copybara Action](https://github.com/olivr/copybara-action) - Move and transform code between repositories (ideal to maintain several repos from one monorepo).
 
 ### Collection of Actions
 
-- [Use HashiCorp's Terraform](https://github.com/hashicorp/terraform-github-actions)
+- [Use HashiCorp's Terraform](https://github.com/hashicorp/setup-terraform)
 - [GitHub Actions for Yarn 1](https://github.com/Borales/actions-yarn)
 - [GitHub Actions for Yarn 2](https://github.com/sergioramos/yarn-actions)
 - [GitHub Actions for Golang](https://github.com/cedrickring/golang-action)
@@ -156,12 +168,14 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Octions - GitHub Actions for GitHub REST API](https://github.com/maxkomarychev/octions)
 - [GitHub Actions for Docker](https://github.com/docker/github-actions)
 - [GitHub Actions for AWS](https://github.com/clowdhaus/aws-github-actions)
+- [Actions Hub](https://github.com/actionshub)
 
 ### Utility
 
 - [Setup `ssh-agent`](https://github.com/webfactory/ssh-agent) - Run `ssh-agent` with additional SSH keys to access private repositories.
 - [GitHub Actions Badges for your README](https://github.com/atrox/github-actions-badge)
 - [GitHub Actions for Python project with poetry](https://github.com/abatilo/actions-poetry)
+- [GitHub Actions for Python project with pyenv](https://github.com/gabrielfalcao/pyenv-action)
 - [GitHub Actions to compile LaTeX documents](https://github.com/xu-cheng/latex-action)
 - [Update Maxmind Databases](https://github.com/meetup/maxmind-updater)
 - [Debug with SSH over tmate](https://github.com/mxschmitt/action-tmate) - Debug the Action directly by providing a SSH connection.
@@ -191,14 +205,29 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Has Changes](https://github.com/UnicornGlobal/has-changes-action) - Check if there are code changes from previous steps.
 - [Mind Your Language Action](https://github.com/tailaiw/mind-your-language-action) - Detect offensive comments in issues and pull requests, and warn senders.
 - [YAML/JSON/XML Converter](https://github.com/fabasoad/yaml-json-xml-converter-action) - Converts YAML/JSON/XML file formats interchangeably.
-- [NSFW Detection](https://github.com/fabasoad/nsfw-detection-action) - Detect NSFW content in commited files.
+- [NSFW Detection](https://github.com/fabasoad/nsfw-detection-action) - Detect NSFW content in committed files.
 - [Has Changed Path](https://github.com/MarceloPrado/has-changed-path) - Conditionally run actions based on changed paths.
 - [Linguist](https://github.com/fabasoad/linguist-action) - Checks a repository and produces information about used languages in output.
 - [Twilio Voice Call](https://github.com/fabasoad/twilio-voice-call-action/) - Make Twilio voice call with defined text.
+- [Setup Xcode](https://github.com/maxim-lobanov/setup-xcode) - Switch between pre-installed versions of Xcode for macOS images.
 - [Setup Xamarin](https://github.com/maxim-lobanov/setup-xamarin) - Switch between pre-installed versions of Xamarin and Mono for macOS images.
 - [Memer Action](https://github.com/Bhupesh-V/memer-action) - A GitHub Action for Programmer Memes xD.
 - [Setup Cocoapods](https://github.com/maxim-lobanov/setup-cocoapods) - Setup specific version of Cocoapods.
 - [Public IP](https://github.com/haythem/public-ip) - Queries GitHub actions runner's public IP address.
+- [GitHub Actions for Lazarus/FPC](https://github.com/gcarreno/setup-lazarus)
+- [Twilio Fax](https://github.com/fabasoad/twilio-fax-action/) - Sends a document by fax using your Twilio account.
+- [Setup Kubernetes tools](https://github.com/yokawasa/action-setup-kube-tools) - Install Kubernetes tools (kubectl, kustomize, helm, kubeval, conftest, and yq) on the runner.
+- [Setup Elastic Cloud Control Tool](https://github.com/yokawasa/action-setup-ecctl) - Install a specific version of ecctl on the runner.
+- [PowerShell Script](https://github.com/Amadevus/pwsh-script) - Run PowerShell scripts with workflow contexts (e.g. `$github.token`) and cmdlets, return value => action output.
+- [Upload and Scan Files with VirusTotal](https://github.com/crazy-max/ghaction-virustotal)
+- [Import a GPG Key](https://github.com/crazy-max/ghaction-import-gpg)
+- [Compress with UPX](https://github.com/crazy-max/ghaction-upx) - The Ultimate Packer for eXecutables.
+- [Pull the New Go Module Version Into the Proxy Cache](https://github.com/andrewslotin/go-proxy-pull-action) - Ensures the latest version of your Go module is in the proxy cache. Also updates the pkg.go.dev documentation upon release.
+- [Delete Run Artifacts](https://github.com/marketplace/actions/delete-run-artifacts) - Deletes all artifacts at the end of a workflow run.
+- [GitHub Environment Variables Action](https://github.com/FranzDiebold/github-env-vars-action) - Expose environment variables such as the branch/tag name, repository slug, and ref slug.
+- [GitHub Action Locks](https://github.com/abatilo/github-action-locks/blob/master/README.md) - Guarantee atomic execution of your GitHub Action workflows.
+- [Paths Filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits.
+- [Minisauras](https://github.com/TeamTigers/minisauras) -  Pulls all the JavaScript and CSS files from your base branch, minify them and creates a pull-request with a new branch.
 
 #### Environments
 
@@ -211,7 +240,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### Dependencies
 
-- [Install NPM dependencies with caching](https://github.com/bahmutov/npm-install)
+- [Install NPM Dependencies with Caching](https://github.com/bahmutov/npm-install)
+- [Highlight New NPM Dependencies](https://github.com/hiwelo/new-dependencies-action) - Comments on pull requests newly added NPM dependencies information.
+- [Cache NPM Dependencies](https://github.com/c-hive/gha-npm-cache)
+- [Cache Yarn Dependencies](https://github.com/c-hive/gha-yarn-cache)
 
 #### Semantic Versioning
 
@@ -238,16 +270,17 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Test Ansible roles with Molecule](https://github.com/robertdebock/molecule-action)
 - [Run performance testing with artillery.io](https://github.com/kenju/github-actions-artillery)
 - [Detect Flaky Tests with BuildPulse](https://github.com/Workshop64/buildpulse-action)
+- [Display Inline Code Annotations for Jest Tests](https://github.com/IgnusG/jest-report-action)
 
 #### Linting
 
-- [PHP Code fixer Action](https://github.com/OskarStark/php-cs-fixer-ga)
+- [PHP Coding Standards Fixer Action](https://github.com/OskarStark/php-cs-fixer-ga)
 - [Runs Hadolint against a Dockerfile within a repository](https://github.com/burdzwastaken/hadolint-action)
 - [Run ESLint, with reviewdog output on the PR](https://github.com/reviewdog/action-eslint)
 - [JavaScript-based linter for \*.workflow files](https://github.com/OmarTawfik/github-actions-js)
 - [Lint terraform files using tflint, with reviewdog output on the PR](https://github.com/reviewdog/action-tflint)
 - [autopep8: Automatically formats Python code to conform to the PEP 8 style guide](https://github.com/peter-evans/autopep8)
-- [Run `localheinz/composer-normalize` to ensure your PHP project has a normalized `composer.json`](https://github.com/localheinz/composer-normalize-action)
+- [Run `ergebnis/composer-normalize` to ensure your PHP project has a normalized `composer.json`](https://github.com/ergebnis/composer-normalize-action)
 - [Run Go lint checks on PR event](https://github.com/ArangoGutierrez/GoLinty-Action)
 - [Node.js - Automatically run the `format` and/or `lint` script used by the package](https://github.com/MarvinJWendt/run-node-formatter)
 - [Stylelinter - GitHub Action that runs stylelint](https://github.com/exelban/stylelint)
@@ -268,6 +301,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Linter for markdown (with presets)](https://github.com/avto-dev/markdown-lint)
 - [Stylelint problem matcher to create annotations](https://github.com/xt0rted/stylelint-problem-matcher)
 - [Run sqlcheck on the PR to identifies anti-patterns in SQL queries](https://github.com/yokawasa/action-sqlcheck)
+- [Validate Fastlane Supply Metadata Against the Play Store Guidelines](https://github.com/ashutoshgngwr/validate-fastlane-supply-metadata)
+- [Run Golint to lint your Golang code](https://github.com/Jerome1337/golint-action)
 
 #### Security
 
@@ -279,6 +314,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Secret Spreader](https://github.com/webfactory/secret-spreader) - Not an action per se, but a tool to manage Actions Secrets across a list of repositories.
 - [Secrets Sync Action](https://github.com/google/secrets-sync-action) - Action syncs secrets across multiple repositories.
 - [Snyk Test Action](https://github.com/snyk/actions)
+- [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
+- [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
 
 #### Code Coverage
 
@@ -290,6 +327,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Dynamic Analysis
 
 - [Run Gofmt to check Golang code formatting](https://github.com/Jerome1337/gofmt-action)
+- [Run Goimports to check Golang imports order](https://github.com/Jerome1337/goimports-action)
 
 ### Monitoring
 
@@ -298,34 +336,41 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Run Lighthouse in CI using GitHub Actions](https://github.com/treosh/lighthouse-ci-action)
 - [Continuous Benchmarking and Benchmark Visualization for Go](https://github.com/bobheadxi/gobenchdata)
 - [Size Limit Action](https://github.com/andresz1/size-limit-action) - Comments cost comparison of your JS in PRs and rejects them if limit is exceeded.
+- [Check bundlephobia](https://github.com/carlesnunez/check-my-bundlephobia) - Comments new and modified package size according to bundlephobia.io website and rejects PR on threshold surpassed.
 
 ### Pull Requests
 
-- [Set pull request reviewers based on assignees](https://github.com/pullreminders/assignee-to-reviewer-action)
-- [Open or update pull request on branch push (with branch selection)](https://github.com/vsoch/pull-request-action)
-- [Automatically rebase a PR](https://github.com/cirrus-actions/rebase)
-- [Label pull request once it has a specified number of approvals](https://github.com/pullreminders/label-when-approved-action)
-- [Add labels to Pull Request based on matched file patterns](https://github.com/banyan/auto-label)
-- [Auto approve pull requests](https://github.com/hmarr/auto-approve-action)
-- [Automatically add reviewers to pull request based on the configuration file](https://github.com/kentaro-m/auto-assign-action)
-- [Add labels to Pull Request based on branch name patterns](https://github.com/TimonVS/pr-labeler-action)
-- [Add labels to Pull Request based on total size of the diff](https://github.com/pascalgn/size-label-action)
-- [Automatically merge Pull Requests that are ready](https://github.com/pascalgn/automerge-action)
-- [Verify pull requests contain a ticket reference](https://github.com/vijaykramesh/pr-lint-action)
-- [Create a pull request for changes to your repository in the actions workspace](https://github.com/peter-evans/create-pull-request)
-- [Pull Request Lint](https://github.com/seferov/pr-lint-action)
-- [ChatOps For Pull Requests](https://github.com/machine-learning-apps/actions-chatops)
-- [Prefix title and body of a PR based on text extracted from branch name](https://github.com/tzkhan/pr-update-action)
+- [Set PR Reviewers Based on Assignees](https://github.com/pullreminders/assignee-to-reviewer-action)
+- [Open or Update PR on Branch Push (with Branch Selection)](https://github.com/vsoch/pull-request-action)
+- [Automatically Rebase a PR](https://github.com/cirrus-actions/rebase)
+- [Label PR once it has a Specified Number of Approvals](https://github.com/pullreminders/label-when-approved-action)
+- [Add Labels to a PR based on Matched File Patterns](https://github.com/banyan/auto-label)
+- [Auto-Approve PRs](https://github.com/hmarr/auto-approve-action)
+- [Automatically add Reviewers to PR based on the Configuration File](https://github.com/kentaro-m/auto-assign-action)
+- [Add Labels to a PR based on Branch Name Patterns](https://github.com/TimonVS/pr-labeler-action)
+- [Add Labels to a PR based on Total Size of the Diff](https://github.com/pascalgn/size-label-action)
+- [Automatically merge PRs That Are Ready](https://github.com/pascalgn/automerge-action)
+- [Verify That PRs Contain a Ticket Reference](https://github.com/vijaykramesh/pr-lint-action)
+- [Create a PR for Changes to your Repository in the Actions Workspace](https://github.com/peter-evans/create-pull-request)
+- [Lint a PR](https://github.com/seferov/pr-lint-action)
+- [ChatOps for PRs](https://github.com/machine-learning-apps/actions-chatops)
+- [Prefix Title and Body of a PR Based on Text Extracted from Branch Name](https://github.com/tzkhan/pr-update-action)
 - [Block Autosquash Commits](https://github.com/xt0rted/block-autosquash-commits-action)
 - [Automatically Bump and Tag on Merge](https://github.com/anothrNick/github-tag-action)
 - [Automatically Update PRs with Outdated Checks and Squash and Merge the Ones Matching All Branch Protections](https://github.com/tibdex/autosquash)
-- [Merge Pal - automatically update and merge pull requests](https://github.com/maxkomarychev/merge-pal-action)
+- [Merge Pal - Automatically Update and Merge PRs](https://github.com/maxkomarychev/merge-pal-action)
 - [Enforce naming convention on pull request title](https://github.com/deepakputhraya/action-pr-title)
-- [Pull Request Stuck Notifier](https://github.com/loomble/pull-request-stuck-notifier-action)
+- [Pull Request Stuck Notifier](https://github.com/jrylan/github-action-stuck-pr-notifier)
 - [Lint pull request name with commitlint (Awesome if you squash merge !)](https://github.com/JulienKode/pull-request-name-linter-action)
 - [Block PR merges when Checks for target branches are failing](https://github.com/cirrus-actions/branch-guard)
-- [Get generated static site screeshots updated by Pull Request](https://github.com/ssowonny/diff-pages-action)
+- [Get generated static site screenshots updated by Pull Request](https://github.com/ssowonny/diff-pages-action)
 - [Add Labels Depending if the Pull Request Still in Progress](https://github.com/AlbertHernandez/working-label-action)
+- [Ticket Check Action](https://github.com/neofinancial/ticket-check-action) - Automatically add a ticket or issue number to the start of all Pull Request titles.
+- [Pull Request Lint With Regex](https://github.com/MorrisonCole/pr-lint-action)
+- [Pull Request Landmines](https://github.com/tylermurry/github-pr-landmine)
+- [Annotate a GitHub Pull Request Based on a Checkstyle XML-Report](https://github.com/staabm/annotate-pull-request-from-checkstyle)
+- [Pull Request Stats](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
+- [Pull Request Description Enforcer](https://github.com/derkinderfietsen/pr-description-enforcer) - Enforces description on pull requests.
 
 ### GitHub Pages
 
@@ -338,12 +383,14 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Deploy Google Analytics stats to GitHub Pages](https://github.com/cristianpb/analytics-google)
 - [A Jupyter Notebook Blogging Platform Powered by GitHub Actions, Pages and Jekyll](https://github.com/fastai/fastpages)
 - [Deploy A Static Site to GitHub Pages](https://github.com/appleboy/gh-pages-action) - Deploy to custom directory and ignore folder/file.
+- [Deploy to GitHub Pages with Advanced Settings](https://github.com/crazy-max/ghaction-github-pages)
 
 ### Notifications and Messages
 
 - [Send a Discord notification](https://github.com/Ilshidur/action-discord)
 - [Post a Slack message as a bot](https://github.com/pullreminders/slack-action)
 - [Send an SMS from GitHub Actions using Nexmo](https://github.com/nexmo-community/nexmo-sms-action)
+- [Send an SMS from GitHub Actions using Clockworksms](https://github.com/bharathvaj1995/clockwork-sms-action)
 - [Send a Telegram Message](https://github.com/appleboy/telegram-action)
 - [Send a File or Text Message to Discord (custom define color, username or avatar)](https://github.com/appleboy/discord-action)
 - [Collaborate on tweets using pull requests](https://github.com/gr2m/twitter-together)
@@ -356,6 +403,11 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Send a Push Notification via Pushbullet](https://github.com/ShaunLWM/action-pushbullet)
 - [Create an Outlook Calendar Event using Microsoft Graph](https://github.com/anoopt/ms-graph-create-event)
 - [Watch for GitHub Wiki page changes and post to Slack](https://github.com/benmatselby/gollum-page-watcher-action)
+- [Send an SMS using MessageBird](https://github.com/nikitasavinov/messagebird-sms-action)
+- [Reply to Stale Bots](https://github.com/c-hive/fresh-bot)
+- [Send an Embed Message to Discord](https://github.com/sarisia/actions-status-discord)
+- [Keep Your PRs in Sync With Teamwork Tasks](https://github.com/Teamwork/github-sync)
+- [Send Microsoft Teams Notification](https://github.com/opsless/ms-teams-github-actions)
 
 ### Deployment
 
@@ -394,6 +446,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Netlify Deploy GitHub Action for each commit](https://github.com/nwtgck/actions-netlify)
 - [Run Ansible Playbooks](https://github.com/arillso/action.playbook)
 - [Publish a Python Distribution Package to Anaconda Cloud](https://github.com/fcakyon/conda-publish-action)
+- [Deploy VS Code Extension to Visual Studio Marketplace or the Open VSX Registry](https://github.com/HaaLeo/publish-vscode-extension)
+- [Deploy a YouTube Video to Anchor.fm Podcast](https://github.com/Schrodinger-Hat/youtube-to-anchorfm)
 
 #### Docker
 
@@ -404,12 +458,17 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Monitor and limit your docker image size](https://github.com/wemake-services/docker-image-size-limit)
 - [Publish Docker Images to the Amazon Elastic Container Registry (ECR)](https://github.com/appleboy/docker-ecr-action)
 - [Build And Push Your Docker Images Caching Each Stage To Reduce Build Time](https://github.com/whoan/docker-build-with-cache-action)
+- [Set up Docker Buildx](https://github.com/crazy-max/ghaction-docker-buildx)
+- [Convert Branch or Tag Name Into Docker-Compatible Image Tag](https://github.com/ankitvgupta/ref-to-tag-action/)
+- [Update a Container Repository Description From README.md](https://github.com/marketplace/actions/update-container-description-action) - Supported Registries: Docker Hub, Quay, Harbor.
 
 #### Kubernetes
 
 - [Deploy to any Cloud or Kubernetes Using Pulumi](https://github.com/pulumi/actions)
 - [Deploy to Kubernetes with kubectl](https://github.com/steebchen/kubectl)
 - [Get Kubeconfig File From Google Kubernetes Engine (GKE)](https://github.com/machine-learning-apps/gke-kubeconfig)
+- [Kustomize Kubernetes Config YAMLs](https://github.com/karancode/kustomize-github-action)
+- [Create a Kubernetes Cluster for Testing Using Krucible](https://github.com/Krucible/krucible-github-action)
 
 #### AWS
 
@@ -443,6 +502,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Generate OG Image](https://github.com/BoyWithSilverWings/generate-og-image) - Generate customisable open graph images from Markdown files.
 - [GitHub Actions for mdBook](https://github.com/peaceiris/actions-mdbook)
 - [Setup Mint](https://github.com/fabasoad/setup-mint-action) - Setup Mint (programming language for writing single page applications).
+- [Gatsby AWS S3 Deployment](https://github.com/jonelantha/gatsby-s3-action) - Deploy Gatsby to S3 (supports CloudFront).
 
 ### Machine Learning Ops
 
@@ -451,6 +511,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Query Experiment Tracking Results From Weights & Biases](https://github.com/machine-learning-apps/wandb-action)
 - [Run Parameterized Jupyter Notebooks](https://github.com/yaananth/run-notebook)
 - [Compile, Deploy and Run Kubeflow Pipeline](https://github.com/NikeNano/kubeflow-github-action)
+- [Automatically Dockerize A Data-Science Repo As A Jupyter Server](https://github.com/jupyterhub/repo2docker-action)
+- [Azure Machine Learning With GitHub Actions](https://github.com/machine-learning-apps/ml-template-azure)
 
 ### Build
 
@@ -459,8 +521,9 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Build Go applications for multiplatform](https://github.com/izumin5210/action-go-crossbuild)
 - [Generate ~/.m2/settings.xml for Maven builds](https://github.com/whelk-io/maven-settings-xml-action)
 - [Run Pascal Script](https://github.com/fabasoad/pascal-action)
-- [Setup Brainfuck](https://github.com/fabasoad/brainfuck-install-action/) - Setup brainfuck interpreter.
+- [Setup Brainfuck](https://github.com/fabasoad/setup-brainfuck-action) - Setup brainfuck interpreter.
 - [Publish Go Binaries to GitHub Release Assets](https://github.com/wangyoucao577/go-release-action)
+- [Setup COBOL](https://github.com/fabasoad/setup-cobol-action)
 
 ### Database
 
@@ -470,6 +533,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Find and automatically fix typos and grammar issues in your code](https://github.com/sobolevn/misspell-fixer-action)
 - [Translation](https://github.com/fabasoad/translation-action) - Translate text from any language to any language.
+
+### Fun
+
+- [Add equivalent of a like button in your README](https://github.com/ariary/Readme-Like-Button) - Visualize community approval on some part of your readme (can be used as a poll).
 
 ### Cheat Sheet
 
@@ -485,9 +552,9 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Actions Advent Calendar](https://www.edwardthomson.com/blog/github_actions_advent_calendar.html)
 - [Zero Downtime Laravel Deployments with GitHub Actions](https://atymic.dev/blog/github-actions-laravel-ci-cd/)
 - [Building Custom GitHub Actions Pluralsight Course](https://www.pluralsight.com/courses/building-custom-github-actions/)
+- [Continuously Deploying Django to DigitalOcean with Docker and GitHub Actions](https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/)
+- [Deploying Self-Hosted GitHub Actions Runners with Docker](https://testdriven.io/blog/github-actions-docker/) - Deploy self-hosted GitHub Actions runners with Docker and Docker Swarm to DigitalOcean.
+- [Setup Auto-scaled self-hosted GitHub Actions Runners on AWS Spot-instances](https://040code.github.io/2020/05/25/scaling-selfhosted-action-runners)
+- [Getting the Gist of GitHub Actions](https://gist.github.com/br3ndonland/f9c753eb27381f97336aa21b8d932be6)
 
-> Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information
-
-## License
-
-[![Creative Commons License](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+> Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information.

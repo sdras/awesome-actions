@@ -33,6 +33,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Build](#build)
   - [Database](#database)
   - [Localization](#localization)
+  - [Fun](#fun)
   - [Cheat Sheet](#cheat-sheet)
 - [Tutorials](#tutorials)
 
@@ -326,6 +327,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Dynamic Analysis
 
+- [Run Gofmt to check Golang code formatting](https://github.com/Jerome1337/gofmt-action)
 - [Run Goimports to check Golang imports order](https://github.com/Jerome1337/goimports-action)
 
 ### Monitoring
@@ -447,6 +449,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Publish a Python Distribution Package to Anaconda Cloud](https://github.com/fcakyon/conda-publish-action)
 - [Deploy VS Code Extension to Visual Studio Marketplace or the Open VSX Registry](https://github.com/HaaLeo/publish-vscode-extension)
 - [Deploy a YouTube Video to Anchor.fm Podcast](https://github.com/Schrodinger-Hat/youtube-to-anchorfm)
+- [Deploy with AWS CodeDeploy](https://github.com/webfactory/create-aws-codedeploy-deployment)
 
 #### Docker
 
@@ -533,6 +536,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Find and automatically fix typos and grammar issues in your code](https://github.com/sobolevn/misspell-fixer-action)
 - [Translation](https://github.com/fabasoad/translation-action) - Translate text from any language to any language.
 
+### Fun
+
+- [Add equivalent of a like button in your README](https://github.com/ariary/Readme-Like-Button) - Visualize community approval on some part of your readme (can be used as a poll).
+
 ### Cheat Sheet
 
 - [GitHub Actions Branding Cheat Sheet](https://haya14busa.github.io/github-action-brandings/)
@@ -553,7 +560,3 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Getting the Gist of GitHub Actions](https://gist.github.com/br3ndonland/f9c753eb27381f97336aa21b8d932be6)
 
 > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information.
-
-## License
-
-[![Creative Commons License](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

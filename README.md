@@ -469,6 +469,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Deploy to Kubernetes with kubectl](https://github.com/steebchen/kubectl)
 - [Get Kubeconfig File From Google Kubernetes Engine (GKE)](https://github.com/machine-learning-apps/gke-kubeconfig)
 - [Kustomize Kubernetes Config YAMLs](https://github.com/karancode/kustomize-github-action)
+- [Create a K3s Clusters for Testing Using K3d](https://github.com/AbsaOSS/k3d-action)
 - [Create a Kubernetes Cluster for Testing Using Krucible](https://github.com/Krucible/krucible-github-action)
 
 #### AWS

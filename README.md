@@ -200,6 +200,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Build Slate documentation](https://github.com/Decathlon/slate-builder-action)
 - [Read Properties](https://github.com/christian-draeger/read-properties) - Read values from `.properties` files.
 - [Write Properties](https://github.com/christian-draeger/write-properties) - Write values to `.properties` files.
+- [Yet another properties parser](https://github.com/madhead/read-java-properties) - Read values from `.properties` files.
 - [Autotag](https://github.com/butlerlogic/action-autotag) - Automatically generate a new tag when the manifest file (i.e. `package.json`) version changes.
 - [Apply templates with Jinja2](https://github.com/cuchi/jinja2-action) - Use the Jinja2 template engine to generate files from templates.
 - [Has Changes](https://github.com/UnicornGlobal/has-changes-action) - Check if there are code changes from previous steps.

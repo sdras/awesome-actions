@@ -88,7 +88,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [actions/setup-dotnet: .NET core sdk](https://github.com/actions/setup-dotnet)
 - [actions/setup-haskell: Haskell (GHC and Cabal)](https://github.com/actions/setup-haskell)
 - [actions/setup-java: Java](https://github.com/actions/setup-java)
-- [actions/setup-ruby: Ruby](https://github.com/actions/setup-ruby)
+- [ruby/setup-ruby: Ruby](https://github.com/ruby/setup-ruby)
 - [actions/setup-elixir: Elixir](https://github.com/actions/setup-elixir)
 
 ### Create your Actions

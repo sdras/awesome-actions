@@ -308,6 +308,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [A vulnerability scanner for your docker images](https://github.com/phonito/phonito-scanner-action)
 - [Automatically approve and merge Dependabot updates](https://github.com/ridedott/dependabot-auto-merge-action)
+- [Automatically approve and merge npm dependency updates (provider agnostic)](https://github.com/tjenkinson/gh-action-auto-merge-dependency-updates)
 - [Run dlint security linter on your Python code](https://github.com/xen0l/dlint-check)
 - [AWS Secrets Manager Actions](https://github.com/say8425/aws-secrets-manager-actions) - Define AWS Secrets Manager secrets to environment values.
 - [Linting your AWS IAM policy documents for correctness and security issues](https://github.com/xen0l/iam-lint)

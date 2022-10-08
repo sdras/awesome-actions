@@ -306,6 +306,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### Security
 
+- [GitGuardian Shield against exposed credentials in your commits](https://github.com/GitGuardian/ggshield-action)
 - [A vulnerability scanner for your docker images](https://github.com/phonito/phonito-scanner-action)
 - [Automatically approve and merge Dependabot updates](https://github.com/ridedott/dependabot-auto-merge-action)
 - [Run dlint security linter on your Python code](https://github.com/xen0l/dlint-check)

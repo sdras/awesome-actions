@@ -475,6 +475,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Sync/upload a directory to an AWS S3 bucket](https://github.com/jakejarvis/s3-sync-action)
 - [Deploy Lambda code to an existing function](https://github.com/appleboy/lambda-action)
+- [Sync/Invalidate files and send it to AWS S3 using s3cmd](https://github.com/ThiagoAnunciacao/s3cmd-sync-action)
 
 #### Terraform
 

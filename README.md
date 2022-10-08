@@ -534,6 +534,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Find and automatically fix typos and grammar issues in your code](https://github.com/sobolevn/misspell-fixer-action)
 - [Translation](https://github.com/fabasoad/translation-action) - Translate text from any language to any language.
+- [Localazy Upload](https://github.com/marketplace/actions/localazy-upload) - Upload your translation source file to [Localazy](https://localazy.com)
+- [Localazy Download](https://github.com/marketplace/actions/localazy-download) - Download translated files from [Localazy](https://localazy.com)
 
 ### Fun
 

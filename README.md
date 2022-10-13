@@ -408,6 +408,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Send an Embed Message to Discord](https://github.com/sarisia/actions-status-discord)
 - [Keep Your PRs in Sync With Teamwork Tasks](https://github.com/Teamwork/github-sync)
 - [Send Microsoft Teams Notification](https://github.com/opsless/ms-teams-github-actions)
+- [Discord Webhook](https://github.com/MineBartekSA/discord-webhook) - Action for sending messages through Discord Webhooks. Supports any runner and nearly all discord features.
 
 ### Deployment
 

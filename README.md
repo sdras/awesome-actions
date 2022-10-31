@@ -462,6 +462,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Set up Docker Buildx](https://github.com/crazy-max/ghaction-docker-buildx)
 - [Convert Branch or Tag Name Into Docker-Compatible Image Tag](https://github.com/ankitvgupta/ref-to-tag-action/)
 - [Update a Container Repository Description From README.md](https://github.com/marketplace/actions/update-container-description-action) - Supported Registries: Docker Hub, Quay, Harbor.
+- [Publish Docker images in a couple of registers](https://github.com/imjasonh/setup-ko)
 
 #### Kubernetes
 

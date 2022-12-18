@@ -32,6 +32,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Machine Learning Ops](#machine-learning-ops)
   - [Build](#build)
   - [Database](#database)
+  - [Netorking](#networking)
   - [Localization](#localization)
   - [Fun](#fun)
   - [Cheat Sheet](#cheat-sheet)
@@ -529,6 +530,10 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Database
 
 - [Setup Cassandra Schema](https://github.com/fabasoad/setup-cassandra-action) - Running scripts from the provided folder on top of Cassandra cluster.
+
+### Networking
+
+- [Setup ZeroTier](https://github.com/zerotier/github-action) - Connect your runner to a ZeroTier network.
 
 ### Localization
 

@@ -32,7 +32,7 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
   - [Machine Learning Ops](#machine-learning-ops)
   - [Build](#build)
   - [Database](#database)
-  - [Netorking](#networking)
+  - [Networking](#networking)
   - [Localization](#localization)
   - [Fun](#fun)
   - [Cheat Sheet](#cheat-sheet)

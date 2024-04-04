@@ -17,7 +17,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 - Please submit your contribution at the end of the list of the relevant category. If you don't find a section that it belongs in, please make one.
 - Please don't use a long description. The description should not wrap to 3 lines, ideally it should fit on one.
-- Search previous suggestions before making a new one, as yours may be a duplicate. 
+- Search previous suggestions before making a new one, as yours may be a duplicate.
 - Please don't use bold or italics unless it's somehow appropriate to the link.
 - Make sure the list is useful before submitting. That implies it has enough content and every item has a good succinct description.
 - Make an individual pull request for each suggestion.

@@ -170,6 +170,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Octions - GitHub Actions for GitHub REST API](https://github.com/maxkomarychev/octions)
 - [GitHub Actions for Docker](https://github.com/docker/github-actions)
 - [GitHub Actions for AWS](https://github.com/clowdhaus/aws-github-actions)
+- [GitHub Actions for Azure](https://github.com/Azure/actions)
 - [Actions Hub](https://github.com/actionshub)
 
 ### Utility

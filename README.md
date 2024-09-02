@@ -486,6 +486,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Generate terraform documentation](https://github.com/Dirrk/terraform-docs) - Uses terraform-docs to generate docs for terraform modules.
 - [An example of using Terraform to validate and apply GitHub administration](https://github.com/asgharlabs/github-terraform/tree/master/.github/workflows)
+- [Infracost](https://github.com/infracost/infracost-gh-action) - Cloud cost estimates for Terraform in your pull requests.
 
 ### External Services
 

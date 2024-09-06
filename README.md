@@ -192,6 +192,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Jekyll Diff Action](https://github.com/David-Byrne/jekyll-diff-action) - Diffs the built Jekyll site after a change, and comments the result back to GitHub.
 - [Branch Protection Bot](https://github.com/benjefferies/branch-protection-bot) - Temporarily disable and re-enable "Include administrators" option in branch protection.
 - [Wait for commit statuses](https://github.com/WyriHaximus/github-action-wait-for-status) - Wait until all statuses and checks are successful or any of them has failed and set its status output accordingly.
+- [Reliably signal whether a workflow matix has succeeded and is all-green](https://github.com/re-actors/alls-green) - Provide a unified check for whether the dependency jobs in a workflow are all green. This allows to have just one check added to the branch protection for a workflow, as opposed to listing each matrix-generated job name (and updating the branch protection on each matrix change). Motivation: https://github.com/marketplace/actions/alls-green#why.
 - [Get Latest Tag](https://github.com/WyriHaximus/github-action-get-previous-tag) - Get the previous tag from git.
 - [Create Milestone](https://github.com/WyriHaximus/github-action-create-milestone) - Create a new open milestone given the title and description.
 - [Close Milestone](https://github.com/WyriHaximus/github-action-close-milestone) - Close the given milestone.

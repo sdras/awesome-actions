@@ -540,6 +540,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Networking
 
 - [Setup ZeroTier](https://github.com/zerotier/github-action) - Connect your runner to a ZeroTier network.
+- [Setup Cloudflare Warp](https://github.com/sebst/actions-warp) - Connect the internet using Cloudflare Warp.
 
 ### Localization
 

@@ -414,6 +414,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Send an Embed Message to Discord](https://github.com/sarisia/actions-status-discord)
 - [Keep Your PRs in Sync With Teamwork Tasks](https://github.com/Teamwork/github-sync)
 - [Send Microsoft Teams Notification](https://github.com/opsless/ms-teams-github-actions)
+- [Send Slack message via SlackAPI](https://github.com/slackapi/slack-github-action)
 
 ### Deployment
 

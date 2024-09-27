@@ -271,6 +271,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Run TestCafe tests](https://github.com/DevExpress/testcafe-action)
 - [Run Unity tests](https://github.com/webbertakken/unity-test-runner)
 - [Run Cypress E2E tests](https://github.com/cypress-io/github-action)
+- [Test Ansible Collections with `ansible-test`](https://github.com/ansible-community/ansible-test-gh-action)
 - [Test Ansible roles with Molecule](https://github.com/robertdebock/molecule-action)
 - [Run performance testing with artillery.io](https://github.com/kenju/github-actions-artillery)
 - [Detect Flaky Tests with BuildPulse](https://github.com/Workshop64/buildpulse-action)

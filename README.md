@@ -309,6 +309,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Run sqlcheck on the PR to identifies anti-patterns in SQL queries](https://github.com/yokawasa/action-sqlcheck)
 - [Validate Fastlane Supply Metadata Against the Play Store Guidelines](https://github.com/ashutoshgngwr/validate-fastlane-supply-metadata)
 - [Run Golint to lint your Golang code](https://github.com/Jerome1337/golint-action)
+- [Check GoImport Errors with files and folders filter options](https://github.com/DarthBenro008/goimports-check-action)
 
 #### Security
 

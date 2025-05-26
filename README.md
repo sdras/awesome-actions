@@ -343,6 +343,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Continuous Benchmarking and Benchmark Visualization for Go](https://github.com/bobheadxi/gobenchdata)
 - [Size Limit Action](https://github.com/andresz1/size-limit-action) - Comments cost comparison of your JS in PRs and rejects them if limit is exceeded.
 - [Check bundlephobia](https://github.com/carlesnunez/check-my-bundlephobia) - Comments new and modified package size according to bundlephobia.io website and rejects PR on threshold surpassed.
+- [Lighthouse PR Commenter for Vercel](https://github.com/robbiecren07/lighthouse-vercel-action) - Runs Lighthouse audits against Vercel preview deployments and posts the scores as a pull request comment.
 
 ### Pull Requests
 

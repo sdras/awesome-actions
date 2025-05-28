@@ -543,6 +543,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Localization
 
+- [AI Translate Action](https://github.com/FidelusAleksander/ai-translate-action) - Translate a text or text file to any language using GitHub Models and action's built-in secrets.GITHUB_TOKEN
 - [Find and automatically fix typos and grammar issues in your code](https://github.com/sobolevn/misspell-fixer-action)
 - [Translation](https://github.com/fabasoad/translation-action) - Translate text from any language to any language.
 

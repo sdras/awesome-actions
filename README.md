@@ -322,6 +322,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 - [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
+- [Agent Treasury Policy Linter](https://github.com/Amara-ops/policy-linter-action) - CI gate for agent-treasury policies (selector+chainId allowlists, spend caps, timelock/quorum, pause/logging).
 
 #### Code Coverage
 

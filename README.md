@@ -151,6 +151,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Codeowners Validator](https://github.com/mszostok/codeowners-validator) - Ensures the correctness of your GitHub CODEOWNERS file. It supports public and private GitHub repositories and also GitHub Enterprise installations.
 - [Copybara Action](https://github.com/olivr/copybara-action) - Move and transform code between repositories (ideal to maintain several repos from one monorepo).
 
+- [GitHub Workflows Assistant](https://github.com/puzl-cloud/github-workflow-assistant) - Bulk edit GitHub Actions workflows across repos and branches via UI.
+
 ### Collection of Actions
 
 - [Use HashiCorp's Terraform](https://github.com/hashicorp/setup-terraform)

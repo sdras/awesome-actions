@@ -346,7 +346,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Pull Requests
 
-- [Set PR Reviewers Based on Assignees](https://github.com/pullreminders/assignee-to-reviewer-action)
 - [Open or Update PR on Branch Push (with Branch Selection)](https://github.com/vsoch/pull-request-action)
 - [Automatically Rebase a PR](https://github.com/cirrus-actions/rebase)
 - [Label PR once it has a Specified Number of Approvals](https://github.com/pullreminders/label-when-approved-action)

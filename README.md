@@ -255,6 +255,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Get latest SemVer and branch name given a search string](https://github.com/jessicalostinspace/github-action-get-regex-branch)
 - [Cut Release Branch](https://github.com/jessicalostinspace/cut-release-action) - Cuts a release branch given a branch prefix and optional semantic version.
 - [Increment Semantic Version](https://github.com/christian-draeger/increment-semantic-version) - Bump a given semantic version (SemVer), depending on given release type.
+- [Version Increment](https://github.com/reecetech/version-increment/) - Output the next version in semver, or calver (semver compliant) based on current tag.  Supports Python PEP440 as well.
 
 ### Static Analysis
 

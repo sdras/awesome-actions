@@ -279,6 +279,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### Linting
 
+- [agnix - Validate AI agent configurations](https://github.com/avifenesh/agnix) - Lint CLAUDE.md, SKILL.md, hooks, MCP, and .cursorrules in CI with 156 rules and SARIF output.
 - [PHP Coding Standards Fixer Action](https://github.com/OskarStark/php-cs-fixer-ga)
 - [Runs Hadolint against a Dockerfile within a repository](https://github.com/burdzwastaken/hadolint-action)
 - [Run ESLint, with reviewdog output on the PR](https://github.com/reviewdog/action-eslint)

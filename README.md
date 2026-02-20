@@ -258,6 +258,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Static Analysis
 
+- [Lint Cursor AI Rules](https://github.com/cursorrulespacks/cursor-lint-action) - Lint .mdc and .cursorrules files, catching broken frontmatter and missing fields that silently break AI code generation.
 - [PHPStan Static code analyzer Action](https://github.com/OskarStark/phpstan-ga)
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)

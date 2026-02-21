@@ -135,6 +135,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Lock Closed Issues and Pull Requests after a Period of Inactivity](https://github.com/dessant/lock-threads)
 - [Get Commit Difference Count Between Two Branches](https://github.com/jessicalostinspace/commit-difference-action)
 - [Generate Release Notes Based on Git References](https://github.com/metcalfc/changelog-generator)
+- [AI-Powered Release Notes Generator](https://github.com/fraygeist/changenote-ai) - Reads git history and generates human-quality release notes using AI. Supports 4 formats (standard, keep-a-changelog, semantic, narrative). Works as CLI or GitHub Action.
 - [Enforce Policies on GitHub Repositories and Commits](https://github.com/talos-systems/conform)
 - [Auto Label Issue Based on Issue Description](https://github.com/Renato66/auto-label)
 - [Update Configured GitHub Actions to the Latest Versions](https://github.com/fabasoad/ghacu)

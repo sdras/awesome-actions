@@ -498,6 +498,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Action for sending Stack Overflow posts to Slack](https://github.com/logankilpatrick/StackOverflowBot)
 - [Assume AWS role](https://github.com/nordcloud/aws-assume-role/)
 - [Generate Custom Response using JSONbin](https://github.com/fabasoad/jsonbin-action)
+- [Glasp Export](https://github.com/glasp-co/glasp-export) - Export Glasp highlights to Slack, Notion, Airtable, or Google Sheets automatically.
 
 ### Frontend Tools
 

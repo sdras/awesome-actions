@@ -395,6 +395,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Send a Discord notification](https://github.com/Ilshidur/action-discord)
 - [Post a Slack message as a bot](https://github.com/pullreminders/slack-action)
+- [Notify Cascade — send to Slack, email (SMTP), and custom webhooks in one step](https://github.com/kai-learner/notify-cascade)
 - [Send an SMS from GitHub Actions using Nexmo](https://github.com/nexmo-community/nexmo-sms-action)
 - [Send an SMS from GitHub Actions using Clockworksms](https://github.com/bharathvaj1995/clockwork-sms-action)
 - [Send a Telegram Message](https://github.com/appleboy/telegram-action)

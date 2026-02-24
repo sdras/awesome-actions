@@ -135,6 +135,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Lock Closed Issues and Pull Requests after a Period of Inactivity](https://github.com/dessant/lock-threads)
 - [Get Commit Difference Count Between Two Branches](https://github.com/jessicalostinspace/commit-difference-action)
 - [Generate Release Notes Based on Git References](https://github.com/metcalfc/changelog-generator)
+- [Auto Changelog Generator](https://github.com/a827681306/auto-changelog-generator) - Generate changelogs from Conventional Commits with emoji labels, breaking change highlights, and multiple output formats.
 - [Enforce Policies on GitHub Repositories and Commits](https://github.com/talos-systems/conform)
 - [Auto Label Issue Based on Issue Description](https://github.com/Renato66/auto-label)
 - [Update Configured GitHub Actions to the Latest Versions](https://github.com/fabasoad/ghacu)

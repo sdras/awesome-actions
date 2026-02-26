@@ -322,6 +322,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 - [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
+- [gh-workflow-hardener](https://github.com/indoor47/gh-workflow-hardener) - Pins GitHub Actions to SHA commit hashes, detects overly-broad permissions, and flags script injection vulnerabilities in workflow files.
 
 #### Code Coverage
 
@@ -377,6 +378,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Annotate a GitHub Pull Request Based on a Checkstyle XML-Report](https://github.com/staabm/annotate-pull-request-from-checkstyle)
 - [Pull Request Stats](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
 - [Pull Request Description Enforcer](https://github.com/derkinderfietsen/pr-description-enforcer) - Enforces description on pull requests.
+- [AI Code Review with Claude](https://github.com/indoor47/claude-pr-reviewer) - Post structured AI code review comments on every PR using Claude. Zero dependencies, Python stdlib only.
 
 ### GitHub Pages
 

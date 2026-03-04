@@ -510,6 +510,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Actions for mdBook](https://github.com/peaceiris/actions-mdbook)
 - [Setup Mint](https://github.com/fabasoad/setup-mint-action) - Setup Mint (programming language for writing single page applications).
 - [Gatsby AWS S3 Deployment](https://github.com/jonelantha/gatsby-s3-action) - Deploy Gatsby to S3 (supports CloudFront).
+- [Frostbyte Screenshot](https://github.com/OzorOwn/frostbyte-screenshot-action) - Take automated website screenshots in CI/CD. Supports 5 viewports, full-page capture, dark mode, and PR comments.
 
 ### Machine Learning Ops
 

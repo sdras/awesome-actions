@@ -322,6 +322,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 - [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
+- [Nucleus Scan](https://github.com/coproduct-opensource/nucleus) - Deterministic security scanner for AI agent configs (Claude Code, MCP, PodSpecs). Detects capability escalation via formal lattice analysis.
 
 #### Code Coverage
 

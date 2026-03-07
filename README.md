@@ -262,6 +262,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
 - [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec)
+- [AI Code Review Action](https://github.com/ETwithin/ai-code-review-action) - AI-powered code review on pull requests. Security audits, bug detection, and quality scores via NoPII API.
 
 #### Testing
 

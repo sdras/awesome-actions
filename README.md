@@ -261,6 +261,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [PHPStan Static code analyzer Action](https://github.com/OskarStark/phpstan-ga)
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
+- [AI Code Reviewer — Automated code review using Claude AI](https://github.com/avatrix1/ai-code-reviewer)
 - [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec)
 
 #### Testing
@@ -346,6 +347,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Pull Requests
 
+- [AI PR Description Generator — Auto-generate PR descriptions from diffs using Claude](https://github.com/avatrix1/ai-pr-description)
 - [Set PR Reviewers Based on Assignees](https://github.com/pullreminders/assignee-to-reviewer-action)
 - [Open or Update PR on Branch Push (with Branch Selection)](https://github.com/vsoch/pull-request-action)
 - [Automatically Rebase a PR](https://github.com/cirrus-actions/rebase)

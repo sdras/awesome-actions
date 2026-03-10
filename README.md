@@ -343,6 +343,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Continuous Benchmarking and Benchmark Visualization for Go](https://github.com/bobheadxi/gobenchdata)
 - [Size Limit Action](https://github.com/andresz1/size-limit-action) - Comments cost comparison of your JS in PRs and rejects them if limit is exceeded.
 - [Check bundlephobia](https://github.com/carlesnunez/check-my-bundlephobia) - Comments new and modified package size according to bundlephobia.io website and rejects PR on threshold surpassed.
+- [OSS Maintenance Evidence Log](https://github.com/dusan-maintains/oss-maintenance-log) - Automated public evidence log for OSS maintenance. Tracks PR SLA, npm health, and repo metrics across abandoned packages. Self-updates every 6h.
 
 ### Pull Requests
 

@@ -276,6 +276,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Detect Flaky Tests with BuildPulse](https://github.com/Workshop64/buildpulse-action)
 - [Display Inline Code Annotations for Jest Tests](https://github.com/IgnusG/jest-report-action)
 - [Run Julia tests](https://github.com/julia-actions/julia-runtest)
+- [QAI Agent](https://github.com/useqai/qai-agent) - Cluster CI test failures by root cause, score PR risk, and analyze Playwright traces for RCA.
 
 #### Linting
 

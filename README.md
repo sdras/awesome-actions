@@ -174,6 +174,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Utility
 
+- [Difflog](https://github.com/patchwork-eng/difflog) - Auto-generates a human-readable CHANGELOG.md from git commits on every push to main, using GPT-4o-mini. No commit convention required. BYOK. Free for public repos.
+- [Fragile](https://github.com/patchwork-eng/fragile) - Finds the load-bearing, undocumented files in your codebase — the ones you're afraid to touch. Scores by change frequency, reference count, and coverage gap. BYOK. Free for public repos.
 - [Setup `ssh-agent`](https://github.com/webfactory/ssh-agent) - Run `ssh-agent` with additional SSH keys to access private repositories.
 - [GitHub Actions Badges for your README](https://github.com/atrox/github-actions-badge)
 - [GitHub Actions for Python project with poetry](https://github.com/abatilo/actions-poetry)
@@ -346,6 +348,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Pull Requests
 
+- [AutoPR](https://github.com/patchwork-eng/autopr) - Auto-generates pull request descriptions from the diff when a PR opens — summary, testing notes, and change breakdown. Respects existing descriptions. BYOK. Free for public repos.
 - [Set PR Reviewers Based on Assignees](https://github.com/pullreminders/assignee-to-reviewer-action)
 - [Open or Update PR on Branch Push (with Branch Selection)](https://github.com/vsoch/pull-request-action)
 - [Automatically Rebase a PR](https://github.com/cirrus-actions/rebase)

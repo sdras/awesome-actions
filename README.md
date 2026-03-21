@@ -312,6 +312,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### Security
 
+- [Workflow Guardian](https://github.com/marketplace/actions/workflow-guardian) - Automatically validates GitHub Actions workflows for security issues, deprecated actions, missing permissions, and CVEs.
 - [A vulnerability scanner for your docker images](https://github.com/phonito/phonito-scanner-action)
 - [Automatically approve and merge Dependabot updates](https://github.com/ridedott/dependabot-auto-merge-action)
 - [Run dlint security linter on your Python code](https://github.com/xen0l/dlint-check)

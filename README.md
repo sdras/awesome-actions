@@ -310,6 +310,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Validate Fastlane Supply Metadata Against the Play Store Guidelines](https://github.com/ashutoshgngwr/validate-fastlane-supply-metadata)
 - [Run Golint to lint your Golang code](https://github.com/Jerome1337/golint-action)
 
+- [Clarvia AEO Score Check](https://github.com/clarvia-project/clarvia-action) - Check AEO (AI Engine Optimization) readiness of your API or MCP server. Scores accessibility, agent compatibility, data structure, and trust signals.
 #### Security
 
 - [A vulnerability scanner for your docker images](https://github.com/phonito/phonito-scanner-action)

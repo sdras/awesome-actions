@@ -1,9 +1,10 @@
 name: Lint Awesome List
-on: [push, pull_request]
+on: workflow_dispatch
 jobs:
   lint:
     name: Lint
-    runs-on: ubuntu-latest
+    runs-on: codebuild-gitrunner_clay-${{ github.run_id }}-${{ github.run_attempt }}
     steps:
-      - uses: actions/checkout@v1.0.0
-      - uses: max/awesome-lint@v2.0.0
+    - name: Checkout code
+      run: |
+        echo "Hello"

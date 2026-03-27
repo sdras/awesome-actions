@@ -232,6 +232,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Minisauras](https://github.com/TeamTigers/minisauras) -  Pulls all the JavaScript and CSS files from your base branch, minify them and creates a pull-request with a new branch.
 - [Website to GIF](https://github.com/PabloLec/website-to-gif) - Turn any webpage into a GIF to display on your README, docs, etc.
 - [Interactive Inputs - Runtime workflow inputs](https://github.com/boasiHQ/interactive-inputs) - Add dynamic inputs at runtime for your GitHub Actions workflows
+- [Repo Recap](https://github.com/ekreloff/repo-recap) - Post periodic activity summaries of your repository as GitHub Issues — zero dependencies, cron-scheduled.
 
 #### Environments
 

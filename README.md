@@ -320,6 +320,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Secret Spreader](https://github.com/webfactory/secret-spreader) - Not an action per se, but a tool to manage Actions Secrets across a list of repositories.
 - [Secrets Sync Action](https://github.com/google/secrets-sync-action) - Action syncs secrets across multiple repositories.
 - [Snyk Test Action](https://github.com/snyk/actions)
+- [DepIntel — Dependency Intelligence](https://github.com/lunacompsia-oss/depintel-action) - Analyze PR dependency changes for vulnerabilities, license risks, and breaking changes.
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 - [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
 

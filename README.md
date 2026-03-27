@@ -262,6 +262,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
 - [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec)
+- [Delimit API Governance](https://github.com/delimit-ai/delimit-action) - Detects 27 types of breaking API changes on every PR. Posts severity-graded comments with migration guides.
 
 #### Testing
 

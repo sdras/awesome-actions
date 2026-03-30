@@ -258,6 +258,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Static Analysis
 
+- [Hefesto Code Guardian](https://github.com/artvepa80/Agents-Hefesto) - AI-powered code quality guardian for AI-generated code. Catches security flaws, semantic drift, and complexity across 21 formats.
 - [PHPStan Static code analyzer Action](https://github.com/OskarStark/phpstan-ga)
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)

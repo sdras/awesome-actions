@@ -498,6 +498,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Action for sending Stack Overflow posts to Slack](https://github.com/logankilpatrick/StackOverflowBot)
 - [Assume AWS role](https://github.com/nordcloud/aws-assume-role/)
 - [Generate Custom Response using JSONbin](https://github.com/fabasoad/jsonbin-action)
+- [ShopSavvy Price Check](https://github.com/shopsavvy/github-action-shopsavvy) - Check product prices across retailers, get price history, and post results as PR comments.
 
 ### Frontend Tools
 

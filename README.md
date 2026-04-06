@@ -263,6 +263,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
 - [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec)
 - [Asqav Compliance Scanner](https://github.com/jagmarques/asqav-compliance) - AI agent compliance checks for EU AI Act, DORA, ISO 42001 on every PR.
+- [Asqav Compliance Scanner](https://github.com/jagmarques/asqav-compliance) - AI agent compliance checks for EU AI Act, DORA, ISO 42001 on every PR.
 
 #### Testing
 

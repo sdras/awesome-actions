@@ -322,6 +322,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 - [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
+- [VICE Security Audit](https://github.com/Webba-Creative-Technologies/vice) - Black-box and white-box security auditor that posts findings as PR comments and maintains a live security badge.
 
 #### Code Coverage
 

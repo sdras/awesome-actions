@@ -377,7 +377,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Annotate a GitHub Pull Request Based on a Checkstyle XML-Report](https://github.com/staabm/annotate-pull-request-from-checkstyle)
 - [Pull Request Stats](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
 - [Pull Request Description Enforcer](https://github.com/derkinderfietsen/pr-description-enforcer) - Enforces description on pull requests.
-
+- [AI PR Reviewer](https://github.com/theihtisham/ai-pr-reviewer) - AI-powered code review with bug detection, security scanning. Works with Ollama (free) or OpenAI/Anthropic.
 ### GitHub Pages
 
 - [Deploy a Zola site to GitHub Pages](https://github.com/shalzz/zola-deploy-action)
@@ -414,7 +414,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Send an Embed Message to Discord](https://github.com/sarisia/actions-status-discord)
 - [Keep Your PRs in Sync With Teamwork Tasks](https://github.com/Teamwork/github-sync)
 - [Send Microsoft Teams Notification](https://github.com/opsless/ms-teams-github-actions)
-
+- [AI Release Notes](https://github.com/theihtisham/ai-release-notes) - Auto-generate release notes with AI analysis, multi-format output, Slack/Discord integration.
 ### Deployment
 
 - [Deploy to Netlify](https://github.com/netlify/actions)

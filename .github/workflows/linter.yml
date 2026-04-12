@@ -1,0 +1,62 @@
+---
+name: Lint
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  packages: read
+  # To report GitHub Actions status checks
+  statuses: write
+
+jobs:
+  dedicated-linter:
+    name: Dedicated Linters
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        linter:
+          - awesome-lint
+          - textlint-titlecase
+          - textlint-linktitlecase
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          # so awesome-lint can check the repo age
+          fetch-depth: 0
+
+      - uses: taiki-e/install-action@just
+
+      - run: just configure
+        shell: bash
+
+      - run: just ${{ matrix.linter }}
+        shell: bash
+
+  general-linter:
+    name: General Linters
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          # super-linter needs the full git history to get the
+          # list of files that changed across commits
+          fetch-depth: 0
+
+      - name: Lint Awesome Actions
+        uses: super-linter/super-linter@v7
+        env:
+          # To report GitHub Actions status checks
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          VALIDATE_ALL_CODEBASE: false
+          VALIDATE_MARKDOWN_PRETTIER: false
+          VALIDATE_JSON_PRETTIER: false
+          VALIDATE_GIT_COMMITLINT: false

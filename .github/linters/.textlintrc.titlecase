@@ -1,0 +1,7 @@
+{
+  "plugins": { },
+  "filters": { },
+  "rules": {
+    "title-case": true
+  }
+}

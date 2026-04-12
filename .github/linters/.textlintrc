@@ -1,0 +1,15 @@
+{
+  "plugins": { },
+  "filters": { },
+  "rules": {
+    "terminology": {
+      "skip": [ "Link" ],
+      "exclude": [
+        "readme(s)?"
+      ],
+      "terms": [
+        [ "README(s)?", "README$1" ]
+      ]
+    }
+  }
+}

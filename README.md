@@ -377,6 +377,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Annotate a GitHub Pull Request Based on a Checkstyle XML-Report](https://github.com/staabm/annotate-pull-request-from-checkstyle)
 - [Pull Request Stats](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
 - [Pull Request Description Enforcer](https://github.com/derkinderfietsen/pr-description-enforcer) - Enforces description on pull requests.
+- [AI-Powered PR Explainer](https://github.com/dwylq/pr-explainer-action) — Reads PR diffs and posts structured analysis comments (what changed, why it matters, risks, focus areas) using Claude AI
 
 ### GitHub Pages
 

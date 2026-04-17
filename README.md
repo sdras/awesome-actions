@@ -322,6 +322,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 - [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
+- [Cipher Solana Wallet Audit](https://github.com/cryptomotifs/cipher-solana-wallet-audit) - Scans Solana repos for plaintext private keys, seed phrases, Solana CLI keypair JSON, leaked `.env` files, and other wallet-security anti-patterns. Fails CI on high-severity findings.
 
 #### Code Coverage
 

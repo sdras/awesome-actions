@@ -343,6 +343,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Continuous Benchmarking and Benchmark Visualization for Go](https://github.com/bobheadxi/gobenchdata)
 - [Size Limit Action](https://github.com/andresz1/size-limit-action) - Comments cost comparison of your JS in PRs and rejects them if limit is exceeded.
 - [Check bundlephobia](https://github.com/carlesnunez/check-my-bundlephobia) - Comments new and modified package size according to bundlephobia.io website and rejects PR on threshold surpassed.
+- [NHS Agentic Readiness Check](https://github.com/unitedideas/nhs-score-check-action) - Fetches your site's agentic readiness score from Not Human Search and fails CI if it drops below a threshold. Protects against regressions in your site's machine-readable surface (llms.txt, OpenAPI, ai-plugin, MCP, structured API).
 
 ### Pull Requests
 

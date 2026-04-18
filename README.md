@@ -232,6 +232,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Minisauras](https://github.com/TeamTigers/minisauras) -  Pulls all the JavaScript and CSS files from your base branch, minify them and creates a pull-request with a new branch.
 - [Website to GIF](https://github.com/PabloLec/website-to-gif) - Turn any webpage into a GIF to display on your README, docs, etc.
 - [Interactive Inputs - Runtime workflow inputs](https://github.com/boasiHQ/interactive-inputs) - Add dynamic inputs at runtime for your GitHub Actions workflows
+- [Ghstats](https://github.com/tiennm99/ghstats) - Go CLI + GitHub Action that generates themed SVG profile summary cards (9 cards, 61+ themes) for your profile README.
 
 #### Environments
 

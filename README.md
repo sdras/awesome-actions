@@ -262,6 +262,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
 - [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec)
+- [axle - Accessibility Compliance CI. Scans every PR for WCAG 2.1/2.2 AA violations and generates source-code fix diffs via Claude.](https://github.com/asafamos/axle-action)
 
 #### Testing
 

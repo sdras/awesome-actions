@@ -490,6 +490,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### External Services
 
 - [Use a Jenkinsfile](https://github.com/jonico/jenkinsfile-runner-github-actions)
+- [proofanchor-github-action](https://github.com/Fulcrum-Enterprises/proofanchor-github-action) - Anchor release artifact SHA-256 hashes to the Polygon blockchain for tamper-evident timestamps.
+Scroll down → Commit changes → "Add ProofAnchor blockchain timestamp action to External Services"
 - [GitHub Action for Firebase](https://github.com/w9jds/firebase-action)
 - [GitHub Action for Contentful Migration CLI](https://github.com/Shy/contentful-action)
 - [GitHub Actions for Pixela (a-know/pi)](https://github.com/peaceiris/actions-pixela)

@@ -553,6 +553,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Cheat Sheet
 
 - [GitHub Actions Branding Cheat Sheet](https://haya14busa.github.io/github-action-brandings/)
+- [ci-doctor](https://github.com/depmedicdev-byte/ci-doctor) - Audit a workflow for cost waste, security gaps, and reliability issues. 16 rules, SARIF + PR comment via [ci-doctor-action](https://github.com/depmedicdev-byte/ci-doctor-action).
+- [pin-actions](https://github.com/depmedicdev-byte/pin-actions) - One-shot CLI that pins every `uses:` reference in your workflows to a SHA.
 
 ## Tutorials
 

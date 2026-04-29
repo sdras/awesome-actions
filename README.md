@@ -52,6 +52,8 @@ Actions are triggered by GitHub platform events directly in a repo and run on-de
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Starter workflow management.
 - [actions/example-services](https://github.com/actions/example-services) - Example workflows using service containers.
 
+- [Free GitHub Actions Node CI Template](https://github.com/cleo-ai-ops/free-github-actions-node-ci-template) - Minimal Node.js CI workflow example with setup notes for test, lint, build, and dependency-cache jobs.
+
 ### Official Actions
 
 <!--lint disable no-dead-urls-->

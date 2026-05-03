@@ -545,6 +545,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Find and automatically fix typos and grammar issues in your code](https://github.com/sobolevn/misspell-fixer-action)
 - [Translation](https://github.com/fabasoad/translation-action) - Translate text from any language to any language.
+- [Find hardcoded strings that need internationalization in JS/TS/JSX/TSX files](https://github.com/theluckystrike/bln-i18n-checker)
 
 ### Fun
 

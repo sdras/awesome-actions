@@ -322,6 +322,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 - [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
+- [vorsken](https://github.com/zetide/vorsken) - Policy gate for PRs using Semgrep + Claude AI. Blocks vulnerable code before merge (OWASP API Top10).
 
 #### Code Coverage
 

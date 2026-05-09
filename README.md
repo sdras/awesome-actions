@@ -322,6 +322,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 - [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
+- [Shipcheck Repo Scanner](https://github.com/TateLyman/shipcheck-action) - Scan JavaScript, TypeScript, and MCP repos for release-readiness, secrets, webhook, database-rule, deploy, npm publish-token, and MCP metadata risks, with SARIF output.
 
 #### Code Coverage
 

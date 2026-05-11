@@ -322,6 +322,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 - [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
+- [skill-audit-mcp](https://github.com/eltociear/skill-audit-mcp) - Scan MCP servers, AI agent skill files, and plugins for 68 attack patterns across 4 severity levels (CRITICAL/HIGH/MEDIUM/LOW) — credential exfiltration, prompt injection, code execution, seed-phrase harvesting, auth bypass, path traversal. SARIF output uploads to GitHub Code Scanning.
 
 #### Code Coverage
 

@@ -377,6 +377,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Annotate a GitHub Pull Request Based on a Checkstyle XML-Report](https://github.com/staabm/annotate-pull-request-from-checkstyle)
 - [Pull Request Stats](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
 - [Pull Request Description Enforcer](https://github.com/derkinderfietsen/pr-description-enforcer) - Enforces description on pull requests.
+- [prpack-action](https://github.com/Lucas2944/prpack-action) - On every PR, packs the diff plus the full post-change content of every touched file into a single markdown file (uploaded as an artifact and summarized in a PR comment) for drop-in LLM code review.
 
 ### GitHub Pages
 

@@ -174,6 +174,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Utility
 
+- [Tokenometer](https://github.com/faraa2m/tokenometer) - LLM token cost + latency CLI and GitHub Action. Posts a sticky PR comment with per-prompt token + dollar cost across Claude, GPT-4o, Gemini, Mistral, and Cohere, and fails the build when a configurable budget is exceeded.
 - [Setup `ssh-agent`](https://github.com/webfactory/ssh-agent) - Run `ssh-agent` with additional SSH keys to access private repositories.
 - [GitHub Actions Badges for your README](https://github.com/atrox/github-actions-badge)
 - [GitHub Actions for Python project with poetry](https://github.com/abatilo/actions-poetry)

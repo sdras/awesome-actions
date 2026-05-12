@@ -300,6 +300,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Run golangci-lint, with reviewdog output on the PR](https://github.com/reviewdog/action-golangci-lint)
 - [Run shellcheck, with reviewdog output on the PR](https://github.com/reviewdog/action-shellcheck)
 - [Catch insensitive, inconsiderate writing in your markdown docs](https://github.com/theashraf/alex-action)
+- [Scan PR title, body, and commits for AI text fingerprints (em-dashes, "delve", parallel bullets) with aitells](https://github.com/Perufitlife/aitells-action)
 - [Run dotenv-linter - Lints your .env files like a charm, with optional reviewdog output on the PR](https://github.com/wemake-services/dotenv-linter)
 - [Run dotenv-linter, with reviewdog output on the PR](https://github.com/mgrachev/action-dotenv-linter)
 - [Show and auto-fix linting errors for many programming languages](https://github.com/samuelmeuli/lint-action)

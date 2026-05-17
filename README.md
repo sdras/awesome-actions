@@ -498,6 +498,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Action for sending Stack Overflow posts to Slack](https://github.com/logankilpatrick/StackOverflowBot)
 - [Assume AWS role](https://github.com/nordcloud/aws-assume-role/)
 - [Generate Custom Response using JSONbin](https://github.com/fabasoad/jsonbin-action)
+- [Warnely Country Risk Check](https://github.com/sn-lui/warnely-action) - Fetch the composite travel-safety score for any country via the Warnely Public API; gate workflows on a risk threshold. No auth, CC BY 4.0.
 
 ### Frontend Tools
 

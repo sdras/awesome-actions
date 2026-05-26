@@ -544,6 +544,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Localization
 
 - [Find and automatically fix typos and grammar issues in your code](https://github.com/sobolevn/misspell-fixer-action)
+- [LocaleLint](https://github.com/YinsPeace/localelint) - Validates iOS localization files (Xcode String Catalogs and XLIFF) for missing translations, placeholder mismatches, and CLDR plural coverage.
 - [Translation](https://github.com/fabasoad/translation-action) - Translate text from any language to any language.
 
 ### Fun

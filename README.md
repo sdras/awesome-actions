@@ -283,6 +283,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Runs Hadolint against a Dockerfile within a repository](https://github.com/burdzwastaken/hadolint-action)
 - [Run ESLint, with reviewdog output on the PR](https://github.com/reviewdog/action-eslint)
 - [JavaScript-based linter for \*.workflow files](https://github.com/OmarTawfik/github-actions-js)
+- [gha-shield - Browser-based GitHub Actions workflow security scanner (13 rules: unpinned actions, command injection, hardcoded secrets, missing permissions, etc.) Paste YAML, get a categorized report in 5 seconds, no install or signup.](https://fabridev444.github.io/gha-shield/)
 - [Lint terraform files using tflint, with reviewdog output on the PR](https://github.com/reviewdog/action-tflint)
 - [autopep8: Automatically formats Python code to conform to the PEP 8 style guide](https://github.com/peter-evans/autopep8)
 - [Run `ergebnis/composer-normalize` to ensure your PHP project has a normalized `composer.json`](https://github.com/ergebnis/composer-normalize-action)

@@ -346,6 +346,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Pull Requests
 
+- [AI Commit Reporter](https://github.com/CentipawnZ/ai-commit-reporter) - Automatically generate beautifully structured PR summaries and release notes from your commits using multi-provider LLMs (OpenAI, Gemini, Local). Supports auto-categorization and multi-language.
 - [Set PR Reviewers Based on Assignees](https://github.com/pullreminders/assignee-to-reviewer-action)
 - [Open or Update PR on Branch Push (with Branch Selection)](https://github.com/vsoch/pull-request-action)
 - [Automatically Rebase a PR](https://github.com/cirrus-actions/rebase)

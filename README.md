@@ -346,6 +346,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Pull Requests
 
+- [PR Size Labeler](https://github.com/wvbx4vgvrt-dev/pr-size-labeler) - Automatically label pull requests by size (size/XS to size/XL) based on the number of changed lines. Zero dependencies.
 - [Set PR Reviewers Based on Assignees](https://github.com/pullreminders/assignee-to-reviewer-action)
 - [Open or Update PR on Branch Push (with Branch Selection)](https://github.com/vsoch/pull-request-action)
 - [Automatically Rebase a PR](https://github.com/cirrus-actions/rebase)

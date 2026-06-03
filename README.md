@@ -358,6 +358,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Automatically merge PRs That Are Ready](https://github.com/pascalgn/automerge-action)
 - [Verify That PRs Contain a Ticket Reference](https://github.com/vijaykramesh/pr-lint-action)
 - [Create a PR for Changes to your Repository in the Actions Workspace](https://github.com/peter-evans/create-pull-request)
+- [BreakShield CI](https://github.com/apps/breakshield-ci) - Automatically detects breaking API changes in pull requests using AST analysis of TypeScript interfaces and OpenAPI specs. Posts PR comment with exact file/line locations and blocks merge on HIGH/CRITICAL risk.
 - [Lint a PR](https://github.com/seferov/pr-lint-action)
 - [ChatOps for PRs](https://github.com/machine-learning-apps/actions-chatops)
 - [Prefix Title and Body of a PR Based on Text Extracted from Branch Name](https://github.com/tzkhan/pr-update-action)

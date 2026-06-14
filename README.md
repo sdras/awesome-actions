@@ -545,6 +545,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Find and automatically fix typos and grammar issues in your code](https://github.com/sobolevn/misspell-fixer-action)
 - [Translation](https://github.com/fabasoad/translation-action) - Translate text from any language to any language.
+- [Localhero.ai](https://github.com/localheroai/localhero-action) - Translate the i18n keys changed in a pull request and commit them back.
 
 ### Fun
 

@@ -377,6 +377,9 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Annotate a GitHub Pull Request Based on a Checkstyle XML-Report](https://github.com/staabm/annotate-pull-request-from-checkstyle)
 - [Pull Request Stats](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
 - [Pull Request Description Enforcer](https://github.com/derkinderfietsen/pr-description-enforcer) - Enforces description on pull requests.
+- [PR Quality Gate](https://github.com/CreativeCodingSolutions/pr-quality-gate) - Enforce PR quality standards: description length, labels, and linked issues. Zero config, one-minute setup. Includes integration with PR Quality Analyzer for A-F scoring.
+- [PR Quality Gate](https://github.com/CreativeCodingSolutions/pr-quality-gate) - Enforce PR quality standards: description length, labels, and linked issues. Zero config, one-minute setup.
+- [**DocuCraft**](https://github.com/CreativeCodingSolutions/docucraft) - Automatically generates structured PR descriptions from pull request diffs. Supports custom templates, AI-powered descriptions via OpenAI, auto-labeling, and changelog generation.
 
 ### GitHub Pages
 

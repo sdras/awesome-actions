@@ -377,6 +377,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Annotate a GitHub Pull Request Based on a Checkstyle XML-Report](https://github.com/staabm/annotate-pull-request-from-checkstyle)
 - [Pull Request Stats](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
 - [Pull Request Description Enforcer](https://github.com/derkinderfietsen/pr-description-enforcer) - Enforces description on pull requests.
+- [River Review](https://github.com/s977043/river-review) - Review pull requests against your team's versioned, repo-owned review skills across plans, diffs, and tests.
 
 ### GitHub Pages
 

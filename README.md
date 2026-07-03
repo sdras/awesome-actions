@@ -262,6 +262,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
 - [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec)
+- [Auto-Ledger & Verify](https://github.com/isatimur/claims-ledger) - Fail CI when documentation claims go stale. Parses `.ledger/claims.md`, re-resolves verbatim quote anchors, annotates PRs. [Demo](https://github.com/isatimur/claims-ledger/blob/main/demo/demo.gif) · [Sandbox](https://github.com/isatimur/claims-ledger-sandbox)
 
 #### Testing
 

@@ -248,6 +248,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Highlight New NPM Dependencies](https://github.com/hiwelo/new-dependencies-action) - Comments on pull requests newly added NPM dependencies information.
 - [Cache NPM Dependencies](https://github.com/c-hive/gha-npm-cache)
 - [Cache Yarn Dependencies](https://github.com/c-hive/gha-yarn-cache)
+- [Emulate an ELM327 OBD2 Adapter Over TCP](https://github.com/qadanm/elmulator) - Serves a scripted ELM327 so OBD2 app tests run in CI without a car or a real adapter.
 
 #### Semantic Versioning
 

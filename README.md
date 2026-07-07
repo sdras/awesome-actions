@@ -262,6 +262,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
 - [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec)
+- [Type Ratchet: fail PRs that add type escape hatches (any, as any, @ts-ignore, type: ignore)](https://github.com/motchalini-llc/type-ratchet)
 
 #### Testing
 
@@ -276,6 +277,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Detect Flaky Tests with BuildPulse](https://github.com/Workshop64/buildpulse-action)
 - [Display Inline Code Annotations for Jest Tests](https://github.com/IgnusG/jest-report-action)
 - [Run Julia tests](https://github.com/julia-actions/julia-runtest)
+- [Test Ratchet: fail PRs that skip tests or sneak in .only](https://github.com/motchalini-llc/test-ratchet)
 
 #### Linting
 
@@ -309,6 +311,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Run sqlcheck on the PR to identifies anti-patterns in SQL queries](https://github.com/yokawasa/action-sqlcheck)
 - [Validate Fastlane Supply Metadata Against the Play Store Guidelines](https://github.com/ashutoshgngwr/validate-fastlane-supply-metadata)
 - [Run Golint to lint your Golang code](https://github.com/Jerome1337/golint-action)
+- [Suppress Ratchet: fail PRs that add linter-suppression comments (eslint-disable, noqa)](https://github.com/motchalini-llc/suppress-ratchet)
 
 #### Security
 

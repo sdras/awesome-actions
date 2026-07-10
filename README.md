@@ -377,6 +377,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Annotate a GitHub Pull Request Based on a Checkstyle XML-Report](https://github.com/staabm/annotate-pull-request-from-checkstyle)
 - [Pull Request Stats](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
 - [Pull Request Description Enforcer](https://github.com/derkinderfietsen/pr-description-enforcer) - Enforces description on pull requests.
+- [Prove a Pull Request Works by Running It](https://github.com/8NobleTruths/magga) - Builds and runs each pull request and requires a newly added test to fail on the base and pass on the head, then comments a verdict with a label (verified / needs-info / likely-slop) and the evidence behind it. Untrusted outside pull requests run in a no-network sandbox.
 
 ### GitHub Pages
 

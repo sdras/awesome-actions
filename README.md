@@ -377,6 +377,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Annotate a GitHub Pull Request Based on a Checkstyle XML-Report](https://github.com/staabm/annotate-pull-request-from-checkstyle)
 - [Pull Request Stats](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
 - [Pull Request Description Enforcer](https://github.com/derkinderfietsen/pr-description-enforcer) - Enforces description on pull requests.
+- [The Ultimate Critic Patch Gate](https://github.com/marksignals/the-ultimate-critic) - Blocks AI-generated patch merges on fail or insufficient evidence.
 
 ### GitHub Pages
 

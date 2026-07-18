@@ -568,5 +568,6 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Deploying Self-Hosted GitHub Actions Runners with Docker](https://testdriven.io/blog/github-actions-docker/) - Deploy self-hosted GitHub Actions runners with Docker and Docker Swarm to DigitalOcean.
 - [Setup Auto-scaled self-hosted GitHub Actions Runners on AWS Spot-instances](https://040code.github.io/2020/05/25/scaling-selfhosted-action-runners)
 - [Getting the Gist of GitHub Actions](https://gist.github.com/br3ndonland/f9c753eb27381f97336aa21b8d932be6)
+- [GitHub Actions Workflow Generator](https://draftkit.co/dev-launch-pack/github-actions-workflow-generator.html) - Free browser tool that generates ready-to-commit `.github/workflows/*.yml` for CI tests, build & deploy, releases, linting, and security scans across Node, Python, Go, Rust, and Java.
 
 > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information.

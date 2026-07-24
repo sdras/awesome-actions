@@ -346,6 +346,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Pull Requests
 
+- [Comment Contribution Intelligence on Issues (OpenPatch)](https://github.com/Cyriellewu/openpatch-lab) - Posts a triage report on an issue (still open? unassigned? competing PR? likely files?) so contributors decide whether it's worth a PR and maintainers get fewer low-quality ones. Facts from the GitHub API; recommendation rule-driven.
 - [Set PR Reviewers Based on Assignees](https://github.com/pullreminders/assignee-to-reviewer-action)
 - [Open or Update PR on Branch Push (with Branch Selection)](https://github.com/vsoch/pull-request-action)
 - [Automatically Rebase a PR](https://github.com/cirrus-actions/rebase)

@@ -174,6 +174,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Utility
 
+- [OG Forge](https://github.com/percymcn/og-forge) - Forge Open Graph / social-share images in CI. Satori + resvg, fonts vendored, no headless browser.
 - [Setup `ssh-agent`](https://github.com/webfactory/ssh-agent) - Run `ssh-agent` with additional SSH keys to access private repositories.
 - [GitHub Actions Badges for your README](https://github.com/atrox/github-actions-badge)
 - [GitHub Actions for Python project with poetry](https://github.com/abatilo/actions-poetry)

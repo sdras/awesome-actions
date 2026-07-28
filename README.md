@@ -262,6 +262,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
 - [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec)
+- [Block PRs when their token-cost footprint regresses — a context/LLM token-cost gate for AI-agent and prompt files, comments the per-file attribution on the PR](https://github.com/wartzar-bee/ci-guardrail)
 
 #### Testing
 

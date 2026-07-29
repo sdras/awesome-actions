@@ -262,6 +262,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
 - [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec)
+- [AET Evidence](https://github.com/AdvancingTitans/aet-evidence-action) - Runs read-only checks for agent instructions, skills, verification contracts, and dangerous authority.
 
 #### Testing
 

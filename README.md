@@ -129,6 +129,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Label your Pull Requests auto-magically (using committed files)](https://github.com/Decathlon/pull-request-labeler-action)
 - [Add Label to your Pull Requests based on the author team name](https://github.com/JulienKode/team-labeler-action)
 - [Get a list of file changes with PR/Push](https://github.com/trilom/file-changes-action)
+- [Route reviews to the owners a PR breaks downstream](https://github.com/vivek5071/ripple) - Extracts changed exported symbols, finds their callers across the repo, resolves those files to owners, and requests their review instead of the file author's.
 - [Use private actions in any workflow](https://github.com/InVisionApp/private-action-loader)
 - [Label Your Issues Using the Issue's Contents](https://github.com/damccorm/tag-ur-it)
 - [Rollback a GitHub Release](https://github.com/author/action-rollback)

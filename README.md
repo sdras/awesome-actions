@@ -402,6 +402,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Collaborate on tweets using pull requests](https://github.com/gr2m/twitter-together)
 - [Send a Push Notification via Push by Techulus](https://github.com/techulus/push-github-action)
 - [Send email with SendGrid](https://github.com/peter-evans/sendgrid-action)
+- [Send email with the free ZeroSMTP relay, no paid service needed](https://github.com/msgwing/send-email-action)
 - [Send a Push Notification via Join](https://github.com/ShaunLWM/action-join)
 - [New package version checker for npm](https://github.com/MeilCli/npm-update-check-action)
 - [New package version checker for NuGet](https://github.com/MeilCli/nuget-update-check-action)

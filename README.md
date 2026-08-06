@@ -550,6 +550,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Add equivalent of a like button in your README](https://github.com/ariary/Readme-Like-Button) - Visualize community approval on some part of your readme (can be used as a poll).
 
+- [github-pet](https://github.com/prsdx/github-pet) - Animated pixel cat for your profile README that reacts to real GitHub activity (CI failures, streaks, releases), regenerated as SVGs every 6h.
+
 ### Cheat Sheet
 
 - [GitHub Actions Branding Cheat Sheet](https://haya14busa.github.io/github-action-brandings/)

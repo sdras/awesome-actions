@@ -378,7 +378,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Pull Request Stats](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
 - [Pull Request Description Enforcer](https://github.com/derkinderfietsen/pr-description-enforcer) - Enforces description on pull requests.
 
-- [Bubo AI Code Review](https://github.com/mountainowl/bubo) - Reviews pull requests with a CLI-driven model and posts evidence-backed inline findings.
+- [Bubo AI Code Review](https://github.com/mountainowl/bubo) - Composite GitHub Action for CLI-driven AI code review with evidence-backed inline findings.
 
 ### GitHub Pages
 

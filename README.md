@@ -322,6 +322,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 - [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
+- [Bonfyre Agent Trace Verifier](https://github.com/Nickgonzales76017/bonfyre-agent-trace-verifier) - Deterministically gate governed agent traces across eight safety and quality dimensions.
 
 #### Code Coverage
 

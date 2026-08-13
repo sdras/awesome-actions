@@ -334,6 +334,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Run Gofmt to check Golang code formatting](https://github.com/Jerome1337/gofmt-action)
 - [Run Goimports to check Golang imports order](https://github.com/Jerome1337/goimports-action)
+- [ExploitSpec Security Regression Tests](https://github.com/pazent/exploitspec) - Turns confirmed web exploits into deterministic GitHub Actions checks.
 
 ### Monitoring
 

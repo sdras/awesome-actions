@@ -262,6 +262,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
 - [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec)
+- [MCP Lens Schema Audit](https://github.com/labmimors/dsh-mcp-lens) - Measure model-facing MCP tool-schema bytes and enforce tool-count or schema-byte CI budgets.
 
 #### Testing
 

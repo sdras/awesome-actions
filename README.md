@@ -174,6 +174,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Utility
 
+- [AOTrust Notarize](https://github.com/GitSerge-crypto/aotrust-skills) - Automatically create cryptographic proof of existence and tamper-evidence for build artifacts in CI/CD.
+
 - [Setup `ssh-agent`](https://github.com/webfactory/ssh-agent) - Run `ssh-agent` with additional SSH keys to access private repositories.
 - [GitHub Actions Badges for your README](https://github.com/atrox/github-actions-badge)
 - [GitHub Actions for Python project with poetry](https://github.com/abatilo/actions-poetry)

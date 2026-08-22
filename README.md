@@ -233,7 +233,9 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Website to GIF](https://github.com/PabloLec/website-to-gif) - Turn any webpage into a GIF to display on your README, docs, etc.
 - [Interactive Inputs - Runtime workflow inputs](https://github.com/boasiHQ/interactive-inputs) - Add dynamic inputs at runtime for your GitHub Actions workflows
 
-#### Environments
+#
+* [gha-log-parser](https://github.com/foxxx009/gha-log-parser) - Parse a failed GitHub Actions run URL into a structured JSON failure summary (free). Pro tier adds batch scanning, JUnit XML output, and run watching.
+### Environments
 
 - [Create an envfile](https://github.com/SpicyPizza/create-envfile)
 - [Export global environment variables for succeeding build steps](https://github.com/zweitag/github-actions)

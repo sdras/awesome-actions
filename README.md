@@ -343,6 +343,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Continuous Benchmarking and Benchmark Visualization for Go](https://github.com/bobheadxi/gobenchdata)
 - [Size Limit Action](https://github.com/andresz1/size-limit-action) - Comments cost comparison of your JS in PRs and rejects them if limit is exceeded.
 - [Check bundlephobia](https://github.com/carlesnunez/check-my-bundlephobia) - Comments new and modified package size according to bundlephobia.io website and rejects PR on threshold surpassed.
+- [otel-budget-check](https://github.com/northstarappstudio-ops/otel-budget-check) - Fails PRs that exceed your OpenTelemetry telemetry budget; catches cost and cardinality regressions before merge.
 
 ### Pull Requests
 

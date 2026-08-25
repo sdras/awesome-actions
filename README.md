@@ -498,6 +498,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Action for sending Stack Overflow posts to Slack](https://github.com/logankilpatrick/StackOverflowBot)
 - [Assume AWS role](https://github.com/nordcloud/aws-assume-role/)
 - [Generate Custom Response using JSONbin](https://github.com/fabasoad/jsonbin-action)
+- [Automation Integration Preflight](https://github.com/tinyopsstudio/automation-integration-preflight-action) - Check public pages for bounded automation and integration readiness evidence.
 
 ### Frontend Tools
 

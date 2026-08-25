@@ -322,6 +322,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 - [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
+- [AI Code Guard](https://github.com/sarzho33-design/AI-CODE-GUARD) - GitHub-native security gate for AI-generated code: free deterministic checks (secrets, dangerous commands, injection) plus optional evidence-grounded AI review, reported directly in the PR.
 
 #### Code Coverage
 

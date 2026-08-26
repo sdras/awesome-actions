@@ -486,6 +486,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Generate terraform documentation](https://github.com/Dirrk/terraform-docs) - Uses terraform-docs to generate docs for terraform modules.
 - [An example of using Terraform to validate and apply GitHub administration](https://github.com/asgharlabs/github-terraform/tree/master/.github/workflows)
+- [Deploy a Capacitor Live Update to Capgo](https://github.com/Cap-go/live-update-action) - Upload an OTA web bundle for Capacitor apps.
 
 ### External Services
 

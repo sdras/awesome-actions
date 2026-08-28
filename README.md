@@ -330,6 +330,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Publishing code coverage to CodeClimate](https://github.com/paambaati/codeclimate-action)
 - [Update repository go report card](https://github.com/creekorful/goreportcard-action)
 
+- [RepoDoctor CI](https://github.com/BLCCoreStudio/RepoDoctor) - Repository health scoring and CI quality gates for security, testing, dependencies, documentation, configuration, and architecture.
+
 ### Dynamic Analysis
 
 - [Run Gofmt to check Golang code formatting](https://github.com/Jerome1337/gofmt-action)

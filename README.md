@@ -260,6 +260,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [PHPStan Static code analyzer Action](https://github.com/OskarStark/phpstan-ga)
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
+- [UIZZE UI Slop Gate](https://github.com/uizze/uizze) - Free source-level check for generic UI patterns, missing states, inert controls, and token drift in frontend changes.
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
 - [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec)
 

@@ -455,6 +455,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Deploy VS Code Extension to Visual Studio Marketplace or the Open VSX Registry](https://github.com/HaaLeo/publish-vscode-extension)
 - [Deploy a YouTube Video to Anchor.fm Podcast](https://github.com/Schrodinger-Hat/youtube-to-anchorfm)
 - [Deploy with AWS CodeDeploy](https://github.com/webfactory/create-aws-codedeploy-deployment)
+- [Upload APK/IPA builds to App Dropper](https://github.com/appdropper-io/upload-action)
 
 #### Docker
 

@@ -510,6 +510,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Actions for mdBook](https://github.com/peaceiris/actions-mdbook)
 - [Setup Mint](https://github.com/fabasoad/setup-mint-action) - Setup Mint (programming language for writing single page applications).
 - [Gatsby AWS S3 Deployment](https://github.com/jonelantha/gatsby-s3-action) - Deploy Gatsby to S3 (supports CloudFront).
+- [OG Image Action](https://github.com/nagpalarpit/og-image-action) - Render an Open Graph share image at build time, no hosted service required.
 
 ### Machine Learning Ops
 

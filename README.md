@@ -535,6 +535,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Database
 
+- [mcdview](https://github.com/Gheop/mcdview-action) - Regenerate an interactive ER diagram from your SQL, Rails, or Prisma schema on every push, on a stable link.
 - [Setup Cassandra Schema](https://github.com/fabasoad/setup-cassandra-action) - Running scripts from the provided folder on top of Cassandra cluster.
 
 ### Networking

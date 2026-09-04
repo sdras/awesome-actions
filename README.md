@@ -276,6 +276,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Detect Flaky Tests with BuildPulse](https://github.com/Workshop64/buildpulse-action)
 - [Display Inline Code Annotations for Jest Tests](https://github.com/IgnusG/jest-report-action)
 - [Run Julia tests](https://github.com/julia-actions/julia-runtest)
+- [Pemystack Greenlight](https://github.com/pemystack/greenlight-action) - AI-powered test selection for every PR. Analyzes code changes and runs only the tests relevant to the diff, cutting CI time by 60-80%. Supports Playwright, Jest, Pytest, Go, and Android/Espresso.
+- [Pemystack Regressor](https://github.com/pemystack/regressor-action) - AI-powered regression detection. Scans every PR against repo history for known bug patterns and flags potential regressions before merge. Works with Anthropic, OpenAI, or Gemini.
 
 #### Linting
 

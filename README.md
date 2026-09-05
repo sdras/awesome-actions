@@ -276,6 +276,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Detect Flaky Tests with BuildPulse](https://github.com/Workshop64/buildpulse-action)
 - [Display Inline Code Annotations for Jest Tests](https://github.com/IgnusG/jest-report-action)
 - [Run Julia tests](https://github.com/julia-actions/julia-runtest)
+- [PR QA Copilot](https://github.com/ACHultman/pr-qa-copilot) - Run declarative browser journeys and runtime QA against preview deployments, then post evidence on pull requests.
 
 #### Linting
 

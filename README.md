@@ -377,6 +377,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Annotate a GitHub Pull Request Based on a Checkstyle XML-Report](https://github.com/staabm/annotate-pull-request-from-checkstyle)
 - [Pull Request Stats](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
 - [Pull Request Description Enforcer](https://github.com/derkinderfietsen/pr-description-enforcer) - Enforces description on pull requests.
+- [Rank Dependabot PRs by Real Risk](https://github.com/DigiCatalyst-Systems/dependabot-risk) - Reads breaking changes and security fixes from release notes instead of trusting the semver bump.
 
 ### GitHub Pages
 

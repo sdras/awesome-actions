@@ -232,6 +232,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Minisauras](https://github.com/TeamTigers/minisauras) -  Pulls all the JavaScript and CSS files from your base branch, minify them and creates a pull-request with a new branch.
 - [Website to GIF](https://github.com/PabloLec/website-to-gif) - Turn any webpage into a GIF to display on your README, docs, etc.
 - [Interactive Inputs - Runtime workflow inputs](https://github.com/boasiHQ/interactive-inputs) - Add dynamic inputs at runtime for your GitHub Actions workflows
+- [SyncMyDep](https://github.com/nivinvysakh/syncmydep) - Automatically detects and fixes package manifest and lockfile desynchronization or vulnerabilities across npm, pnpm, yarn, bun, and deno.
 
 #### Environments
 
@@ -377,6 +378,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Annotate a GitHub Pull Request Based on a Checkstyle XML-Report](https://github.com/staabm/annotate-pull-request-from-checkstyle)
 - [Pull Request Stats](https://github.com/flowwer-dev/pull-request-stats) -  Print relevant stats about reviewers.
 - [Pull Request Description Enforcer](https://github.com/derkinderfietsen/pr-description-enforcer) - Enforces description on pull requests.
+- [SyncMyDep](https://github.com/nivinvysakh/syncmydep) - Automatically detects and fixes package manifest and lockfile desynchronization or vulnerabilities across npm, pnpm, yarn, bun, and deno.
 
 ### GitHub Pages
 
@@ -549,6 +551,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Fun
 
 - [Add equivalent of a like button in your README](https://github.com/ariary/Readme-Like-Button) - Visualize community approval on some part of your readme (can be used as a poll).
+- [Minecraft Contribution Tree](https://github.com/nivinvysakh/gh-tree) - Renders your GitHub contribution graph as an animated Minecraft tree with biomes, weather, and pets.
+
 
 ### Cheat Sheet
 

@@ -262,6 +262,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
 - [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec)
+- [Shipi18n i18n Check](https://github.com/Shipi18n/shipi18n-github-action) - Check locale files for missing keys, dropped placeholders and collapsed plurals; SARIF output, no API key needed.
 
 #### Testing
 

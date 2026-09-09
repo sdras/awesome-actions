@@ -244,6 +244,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 #### Dependencies
 
+- [ApiPatch Autonomous API Migration Agent](https://github.com/marketplace/actions/apipatch-ai-migration-agent) - Automatically detects and fixes deprecated API calls and breaking changes with AST-validated Pull Requests.
 - [Install NPM Dependencies with Caching](https://github.com/bahmutov/npm-install)
 - [Highlight New NPM Dependencies](https://github.com/hiwelo/new-dependencies-action) - Comments on pull requests newly added NPM dependencies information.
 - [Cache NPM Dependencies](https://github.com/c-hive/gha-npm-cache)

@@ -498,6 +498,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Action for sending Stack Overflow posts to Slack](https://github.com/logankilpatrick/StackOverflowBot)
 - [Assume AWS role](https://github.com/nordcloud/aws-assume-role/)
 - [Generate Custom Response using JSONbin](https://github.com/fabasoad/jsonbin-action)
+- [Manzanita](https://manzanita.run) - Flat-rate Apple Silicon (M4 Pro) macOS runners for GitHub Actions; a fresh VM with Xcode per job, drop-in via the `runs-on` label.
 
 ### Frontend Tools
 

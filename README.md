@@ -549,6 +549,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Fun
 
 - [Add equivalent of a like button in your README](https://github.com/ariary/Readme-Like-Button) - Visualize community approval on some part of your readme (can be used as a poll).
+- [Daily Badge](https://github.com/in-c0/daily-badge) - Write a fresh daily message into your profile README as real text: on-this-day facts, dev humour, Stoic lines, moon phase, countdowns, 8 languages.
 
 ### Cheat Sheet
 

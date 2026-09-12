@@ -544,6 +544,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Localization
 
 - [Find and automatically fix typos and grammar issues in your code](https://github.com/sobolevn/misspell-fixer-action)
+- [Shipi18n](https://github.com/Shipi18n/shipi18n-github-action) - Check locale files for missing keys, dropped placeholders and collapsed plurals with no API key, and optionally translate what fails.
 - [Translation](https://github.com/fabasoad/translation-action) - Translate text from any language to any language.
 
 ### Fun

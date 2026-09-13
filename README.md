@@ -322,6 +322,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 - [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
+- [repo-runner Security Gate](https://github.com/Jia-ben00/repo-runner) - Scan any GitHub repo for supply-chain risks (malicious install scripts, committed secrets, unsafe dependencies) before running it; outputs SARIF for GitHub code scanning.
 
 #### Code Coverage
 

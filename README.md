@@ -343,6 +343,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Continuous Benchmarking and Benchmark Visualization for Go](https://github.com/bobheadxi/gobenchdata)
 - [Size Limit Action](https://github.com/andresz1/size-limit-action) - Comments cost comparison of your JS in PRs and rejects them if limit is exceeded.
 - [Check bundlephobia](https://github.com/carlesnunez/check-my-bundlephobia) - Comments new and modified package size according to bundlephobia.io website and rejects PR on threshold surpassed.
+- [log-triage](https://github.com/Jia-ben00/log-triage) - Parse multi-format logs (JSON/syslog/nginx/Python-Java stacktraces) and produce a ranked root-cause report with next steps. Great for CI failure analysis.
 
 ### Pull Requests
 

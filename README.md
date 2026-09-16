@@ -334,6 +334,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Run Gofmt to check Golang code formatting](https://github.com/Jerome1337/gofmt-action)
 - [Run Goimports to check Golang imports order](https://github.com/Jerome1337/goimports-action)
+- [Corund](https://github.com/Grade-Inc/corund-action) - Reverts a PR's code, re-runs the tests it added, and requires them to fail.
 
 ### Monitoring
 

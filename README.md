@@ -322,6 +322,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 - [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
+- [Vigil PR Scanner](https://github.com/arsallls/Vigil-Public) - Scans PR diffs for malicious capability (shells, exfil, auto-exec hooks, obfuscated payloads), not code quality.
 
 #### Code Coverage
 

@@ -276,6 +276,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Detect Flaky Tests with BuildPulse](https://github.com/Workshop64/buildpulse-action)
 - [Display Inline Code Annotations for Jest Tests](https://github.com/IgnusG/jest-report-action)
 - [Run Julia tests](https://github.com/julia-actions/julia-runtest)
+- [Validate CSV files in CI with csv-quality-gate](https://github.com/hermes-labs-ai/csv-quality-gate) - Deterministic schema, encoding, delimiter, row-width, and content checks with GitHub Actions summaries.
 
 #### Linting
 

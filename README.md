@@ -549,6 +549,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Fun
 
 - [Add equivalent of a like button in your README](https://github.com/ariary/Readme-Like-Button) - Visualize community approval on some part of your readme (can be used as a poll).
+- [Living Scene](https://github.com/yuki4266/living-scene) - Repaint your profile README banner to match the real weather where you live, every few hours.
 
 ### Cheat Sheet
 

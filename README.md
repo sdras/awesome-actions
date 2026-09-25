@@ -323,6 +323,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 - [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
 
+- [MCP Drift Check](https://github.com/tomelias10/mcp-drift-check) - Zero-execution MCP config preflight that flags mutable npm/npx references and emits SARIF for CI.
+
 #### Code Coverage
 
 - [Scan code with SonarCloud](https://github.com/sonarsource/sonarcloud-github-action)

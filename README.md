@@ -207,6 +207,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Has Changes](https://github.com/UnicornGlobal/has-changes-action) - Check if there are code changes from previous steps.
 - [Mind Your Language Action](https://github.com/tailaiw/mind-your-language-action) - Detect offensive comments in issues and pull requests, and warn senders.
 - [YAML/JSON/XML Converter](https://github.com/fabasoad/yaml-json-xml-converter-action) - Converts YAML/JSON/XML file formats interchangeably.
+- [OG Image Generator](https://github.com/astra-intelligence/og-image-action) - Generate beautiful GitHub social preview images automatically for any repository. Supports 5 free templates and premium custom branding.
 - [NSFW Detection](https://github.com/fabasoad/nsfw-detection-action) - Detect NSFW content in committed files.
 - [Has Changed Path](https://github.com/MarceloPrado/has-changed-path) - Conditionally run actions based on changed paths.
 - [Linguist](https://github.com/fabasoad/linguist-action) - Checks a repository and produces information about used languages in output.
@@ -255,6 +256,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Get latest SemVer and branch name given a search string](https://github.com/jessicalostinspace/github-action-get-regex-branch)
 - [Cut Release Branch](https://github.com/jessicalostinspace/cut-release-action) - Cuts a release branch given a branch prefix and optional semantic version.
 - [Increment Semantic Version](https://github.com/christian-draeger/increment-semantic-version) - Bump a given semantic version (SemVer), depending on given release type.
+- [Generate OG Social Preview Images](https://github.com/astra-intelligence/og-image-action) - Automatically generate beautiful Open Graph images (1200×630 PNG) for your repos. Free templates, zero config, and premium brand-color templates with a license key.
 
 ### Static Analysis
 

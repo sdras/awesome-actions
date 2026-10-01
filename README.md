@@ -334,6 +334,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Run Gofmt to check Golang code formatting](https://github.com/Jerome1337/gofmt-action)
 - [Run Goimports to check Golang imports order](https://github.com/Jerome1337/goimports-action)
+- [Run Linux shell installers across Debian, Ubuntu, and Alpine](https://github.com/Mresyzz/opsscript-gate) - Runtime compatibility checks for shell installers in GitHub Actions.
 
 ### Monitoring
 

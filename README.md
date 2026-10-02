@@ -322,6 +322,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 - [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
+- [AI Agent Repository Hardening Scan](https://github.com/OssaBellator/ai-agent-hardening-action) - Statically scan AI-agent repository configuration and selected credential or CI authority risks without executing target code.
 
 #### Code Coverage
 

@@ -532,6 +532,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Publish Go Binaries to GitHub Release Assets](https://github.com/wangyoucao577/go-release-action)
 - [Setup COBOL](https://github.com/fabasoad/setup-cobol-action)
 - [Check Gradle version](https://github.com/madhead/check-gradle-version) - Keep your Gradle version up to date.
+- [Dynamic Monorepo](https://github.com/Continuous-Actions/dynamic-monorepo) - Build, test and deploy only the monorepo projects a change affects, with projects and dependencies auto-detected.
 
 ### Database
 

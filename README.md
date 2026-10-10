@@ -322,6 +322,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 - [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
+- [PQC Readiness Scan](https://github.com/johnInarti/pqc-readiness-action) - Find the quantum-vulnerable cryptography in your repository and emit a CycloneDX CBOM inventory. NIST deprecates RSA, ECDSA, ECDH, DH and DSA after 2030 and disallows them after 2035.
 
 #### Code Coverage
 

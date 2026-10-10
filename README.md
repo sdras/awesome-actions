@@ -262,6 +262,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GraphQL Inspector Action](https://github.com/kamilkisiela/graphql-inspector)
 - [PowerShell static analysis with PSScriptAnalyzer](https://github.com/devblackops/github-action-psscriptanalyzer)
 - [Run tfsec, with reviewdog output on the PR](https://github.com/reviewdog/action-tfsec)
+- [Audit workflows for Ubuntu 24.04 to 26.04 runner toolset differences](https://github.com/alapha888/runner-drift-audit) - Scans workflow files before the ubuntu-latest migration window (Oct 19–Nov 19, 2026), reports HIGH/WARN findings, and can fail CI on HIGH severity issues.
 
 #### Testing
 

@@ -198,6 +198,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Action to enforce branch naming rules](https://github.com/deepakputhraya/action-branch-name)
 - [Expose slug of some GitHub variables](https://github.com/marketplace/actions/github-slug)
 - [awesome-lint as a GitHub Action](https://github.com/max/awesome-lint)
+- [Git-Doctor](https://github.com/Grimm67123/git-doctor) - Inspect repository health, audit branches, detect secrets, and scan historical bloat.
 - [Edit JSON File](https://github.com/deef0000dragon1/json-edit-action)
 - [Build Slate documentation](https://github.com/Decathlon/slate-builder-action)
 - [Read Properties](https://github.com/christian-draeger/read-properties) - Read values from `.properties` files.

@@ -314,6 +314,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [A vulnerability scanner for your docker images](https://github.com/phonito/phonito-scanner-action)
 - [Automatically approve and merge Dependabot updates](https://github.com/ridedott/dependabot-auto-merge-action)
+- [dep-second-opinion](https://github.com/lory69060/dep-second-opinion) - Leaves SAFE / REVIEW / HIGH_RISK comments on Dependabot/Renovate npm PRs from a policy file (comment-only; does not edit lockfiles or approve merges).
 - [Run dlint security linter on your Python code](https://github.com/xen0l/dlint-check)
 - [AWS Secrets Manager Actions](https://github.com/say8425/aws-secrets-manager-actions) - Define AWS Secrets Manager secrets to environment values.
 - [Linting your AWS IAM policy documents for correctness and security issues](https://github.com/xen0l/iam-lint)

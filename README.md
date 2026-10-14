@@ -248,6 +248,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Highlight New NPM Dependencies](https://github.com/hiwelo/new-dependencies-action) - Comments on pull requests newly added NPM dependencies information.
 - [Cache NPM Dependencies](https://github.com/c-hive/gha-npm-cache)
 - [Cache Yarn Dependencies](https://github.com/c-hive/gha-yarn-cache)
+- [Audit Actions Still on Node 20](https://github.com/Blackman99/actnode) - Lists workflow steps whose actions run on Node 20 or older and the release that moves each to Node 24.
 
 #### Semantic Versioning
 

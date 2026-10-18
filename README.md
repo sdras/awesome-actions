@@ -549,6 +549,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Fun
 
 - [Add equivalent of a like button in your README](https://github.com/ariary/Readme-Like-Button) - Visualize community approval on some part of your readme (can be used as a poll).
+- [Goodreads README Action](https://github.com/quentinlintz/goodreads-readme-action) - Automatically update your profile README with books from your public Goodreads shelves.
 
 ### Cheat Sheet
 

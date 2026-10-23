@@ -486,6 +486,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 - [Generate terraform documentation](https://github.com/Dirrk/terraform-docs) - Uses terraform-docs to generate docs for terraform modules.
 - [An example of using Terraform to validate and apply GitHub administration](https://github.com/asgharlabs/github-terraform/tree/master/.github/workflows)
+- [Orchestrate Terraform and OpenTofu Stacks in Dependency Waves](https://github.com/stackorder/actions) - Reusable workflows and composite actions to plan affected stacks on pull requests and apply them in dependency order.
 
 ### External Services
 

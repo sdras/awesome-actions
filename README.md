@@ -498,6 +498,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Action for sending Stack Overflow posts to Slack](https://github.com/logankilpatrick/StackOverflowBot)
 - [Assume AWS role](https://github.com/nordcloud/aws-assume-role/)
 - [Generate Custom Response using JSONbin](https://github.com/fabasoad/jsonbin-action)
+- [YouTube Cloud Delivery — FlashData](https://github.com/rocosen/flashdata-youtube-download-action) - Deliver authorized media to customer storage and track the job.
 
 ### Frontend Tools
 

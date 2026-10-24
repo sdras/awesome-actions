@@ -498,6 +498,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Action for sending Stack Overflow posts to Slack](https://github.com/logankilpatrick/StackOverflowBot)
 - [Assume AWS role](https://github.com/nordcloud/aws-assume-role/)
 - [Generate Custom Response using JSONbin](https://github.com/fabasoad/jsonbin-action)
+- [YouTube Video Search — FlashData](https://github.com/rocosen/flashdata-youtube-search-action) - Export keyword video searches with optional filters.
 
 ### Frontend Tools
 

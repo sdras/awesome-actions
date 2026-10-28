@@ -174,6 +174,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Utility
 
+- [ci-diff-changed](https://github.com/Yearnless/ci-diff-changed) - Ultra-lightweight composite action to detect changed files between refs with globstar (**), ?, [...] support, exclude pattern, shallow clone handling, invalid pattern fail-fast, empty-tree fallback. Pure bash + git + jq, no container.
 - [Setup `ssh-agent`](https://github.com/webfactory/ssh-agent) - Run `ssh-agent` with additional SSH keys to access private repositories.
 - [GitHub Actions Badges for your README](https://github.com/atrox/github-actions-badge)
 - [GitHub Actions for Python project with poetry](https://github.com/abatilo/actions-poetry)

@@ -498,6 +498,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Action for sending Stack Overflow posts to Slack](https://github.com/logankilpatrick/StackOverflowBot)
 - [Assume AWS role](https://github.com/nordcloud/aws-assume-role/)
 - [Generate Custom Response using JSONbin](https://github.com/fabasoad/jsonbin-action)
+- [AI Video Upscaler to 4K](https://github.com/arkyu2077/videoupscaler-action) - Upscale, denoise, stabilize, and interpolate videos to 4K (60fps) via [VideoUpscaler](https://videoupscaler.co).
 
 ### Frontend Tools
 

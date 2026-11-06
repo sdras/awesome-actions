@@ -535,6 +535,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 
 ### Database
 
+- [PostgreSQL Schema Drift Detector](https://github.com/Asadshah7950/schemadrift) - Detect schema drift between PostgreSQL databases and generate safe migration SQL in CI/CD.
 - [Setup Cassandra Schema](https://github.com/fabasoad/setup-cassandra-action) - Running scripts from the provided folder on top of Cassandra cluster.
 
 ### Networking

@@ -255,6 +255,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Get latest SemVer and branch name given a search string](https://github.com/jessicalostinspace/github-action-get-regex-branch)
 - [Cut Release Branch](https://github.com/jessicalostinspace/cut-release-action) - Cuts a release branch given a branch prefix and optional semantic version.
 - [Increment Semantic Version](https://github.com/christian-draeger/increment-semantic-version) - Bump a given semantic version (SemVer), depending on given release type.
+- [GLASTOR Specter](https://github.com/glastor-core/specter) - Zero-compiler polyglot AST API contract differ, Trojan breaking-change detector, and mathematical SemVer gatekeeper.
 
 ### Static Analysis
 
@@ -276,6 +277,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Detect Flaky Tests with BuildPulse](https://github.com/Workshop64/buildpulse-action)
 - [Display Inline Code Annotations for Jest Tests](https://github.com/IgnusG/jest-report-action)
 - [Run Julia tests](https://github.com/julia-actions/julia-runtest)
+- [GLASTOR Vortex](https://github.com/glastor-core/vortex) - AST-driven predictive CI orchestrator, barrel pruner, and LPT dynamic test splitter.
 
 #### Linting
 
@@ -322,6 +324,8 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 - [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
+- [GLASTOR Byte-Gauge](https://github.com/glastor-core/byte-gauge) - High-performance Rust SIMD binary and Wasm auditor with checksec hardening, CycloneDX SBOM, and SARIF output.
+- [GLASTOR Nemesis](https://github.com/glastor-core/nemesis) - Automated DevSecOps security, repository hygiene, license compliance, and auto-fix auditor.
 
 #### Code Coverage
 

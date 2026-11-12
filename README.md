@@ -536,6 +536,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Database
 
 - [Setup Cassandra Schema](https://github.com/fabasoad/setup-cassandra-action) - Running scripts from the provided folder on top of Cassandra cluster.
+- [Supabase Keep-Alive](https://github.com/caelum0x/supabase-keep-alive-action) - Keeps a free Supabase project from pausing: daily REST ping and cheap query with the anon key, retries, job summary, warnings before the 7-day window.
 
 ### Networking
 

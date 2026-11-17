@@ -322,7 +322,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 - [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
-- [Envilder](https://github.com/macalbert/envilder) - One versioned map file shared by local dev, CI and runtime, resolving secrets from AWS SSM Parameter Store or Azure Key Vault.
+- [Envilder](https://github.com/macalbert/envilder) - Keep secrets from drifting between .env files, CI and app config: one versioned map file, resolved from AWS SSM Parameter Store or Azure Key Vault.
 
 #### Code Coverage
 

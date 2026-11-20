@@ -276,6 +276,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Detect Flaky Tests with BuildPulse](https://github.com/Workshop64/buildpulse-action)
 - [Display Inline Code Annotations for Jest Tests](https://github.com/IgnusG/jest-report-action)
 - [Run Julia tests](https://github.com/julia-actions/julia-runtest)
+- [MCP Readiness Scan](https://github.com/Om3rr/mcp-readiness-check) - Score a live MCP server in CI: OAuth discovery, Origin checks, tool annotations, and a tools/list token budget.
 
 #### Linting
 

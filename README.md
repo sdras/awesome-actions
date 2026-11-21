@@ -322,6 +322,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 - [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
+- [SpecGate OpenAPI Breaking-Change Gate](https://github.com/profalexandrezamboni-ui/specgate-action) - Deterministic OpenAPI 3.0/3.1 & JSON Schema breaking-change detector, SemVer bump calculator, and OASIS SARIF v2.1.0 exporter for Pull Requests.
 
 #### Code Coverage
 

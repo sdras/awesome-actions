@@ -322,6 +322,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [Snyk Test Action](https://github.com/snyk/actions)
 - [Manage Your GitHub Actions Secrets With A Simple CLI](https://github.com/unfor19/githubsecrets)
 - [SecretHub](https://github.com/secrethub/actions) - Have a single source of truth for your secrets and load them into GitHub Actions on demand.
+- [Kavach AI Security Inspector](https://github.com/rajrajak99/kavach-ai) - Autonomous sub-16ms AST security gate with 0% false positives and 1-click surgical PR suggestions.
 
 #### Code Coverage
 

@@ -536,6 +536,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 ### Database
 
 - [Setup Cassandra Schema](https://github.com/fabasoad/setup-cassandra-action) - Running scripts from the provided folder on top of Cassandra cluster.
+- [pgseal](https://github.com/yun87457-web/pgseal) - Zero-data-access PostgreSQL, Supabase, and Neon schema drift, RLS exposure, SQL migration lock-safety, and table freshness guard.
 
 ### Networking
 

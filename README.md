@@ -510,6 +510,7 @@ Set up your GitHub Actions workflow with a specific version of your programming 
 - [GitHub Actions for mdBook](https://github.com/peaceiris/actions-mdbook)
 - [Setup Mint](https://github.com/fabasoad/setup-mint-action) - Setup Mint (programming language for writing single page applications).
 - [Gatsby AWS S3 Deployment](https://github.com/jonelantha/gatsby-s3-action) - Deploy Gatsby to S3 (supports CloudFront).
+- [SaaSCity Launch Readiness Check](https://github.com/best-directories/saascity-launch-check-action) - Audits homepage SEO meta tags, Open Graph images, robots.txt, and sitemap.xml in CI.
 
 ### Machine Learning Ops
 
